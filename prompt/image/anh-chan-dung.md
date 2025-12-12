@@ -255,3 +255,5 @@ Phía sau anh ấy là một cây thông Giáng sinh được trang trí rực r
 30 Ảnh giáng sinh(2)
 "Medium close-up vertical photograph, Vintage Polaroid photography style, of an Asian young man (with a face like the attached photo), with slightly obscured dark hair. He is wearing a Santa Claus hat in red and white and a thick white scarf wrapped around his neck. He is wearing a Bright red knitted sweater. Pose: Holding up his right hand in a peace sign (V-sign), with fingers slightly covering the right eye, and looking directly at the camera with a playful gaze. The background is a Solid black background or very dark setting. Harsh flash lighting illuminates his face and clothing, creating sharp shadows and high contrast and high saturation. The photograph includes a White Polaroid frame. Conveying a Retro, Christmas Party Vibe, Playful, (Moody, Festive, Vintage Film Grain) feeling. 3:4 aspect ratio (vertical). (Photorealistic, ultra-detailed skin texture, flash photography effect, film noise, dark background, Canon EOS 100D, film emulation filter)"
 
+
+
