@@ -1,3 +1,34 @@
+
+“Sai lầm NGƯỜI MỚI mắc 99%”
+❌ Viết prompt dài lê thê
+❌ Không mô tả rõ hành động
+❌ Thiếu phong cách
+❌ Không có ánh sáng
+❌ Không thêm thông số camera
+Trong khi dân chuyên chỉ viết:
+“Dynamic shot của một creator trẻ trong studio cyberpunk neon, flat-style vector, đường nét sạch, ánh sáng viền mềm, độ rõ cao.”
+ --Template này đủ để bạn tự tạo 1000+ ảnh”
+Copy ↓
+“Tạo một [mood] [chủ thể] đang [hành động] tại [bối cảnh], phong cách [art-style], ánh sáng [loại], camera [lens/thông số], màu [palette].”
+Thay từng ngoặc vuông → kho ảnh vô tận.
+
+— “Muốn lên trình nhanh? Dùng hệ cấp độ này”
+Cấp 1: Dùng đúng template cơ bản
+Cấp 2: Thêm kỹ thuật: góc máy, chất liệu, ánh sáng
+Cấp 3: Fusion Prompt (trộn 2–3 phong cách)
+Cấp 4: Signature Prompt (giữ 1 cấu trúc – đổi chủ thể liên tục)
+Dân chuyên không sáng tạo liên tục.
+Họ dùng hệ thống.
+“Sự thật không ai nói cho bạn biết”
+Prompt không phải “năng khiếu”.
+Prompt là kỹ năng cấu trúc ý tưởng.
+Càng đơn giản → ảnh càng đẹp.
+Càng dài dòng → AI càng rối.
+Đó là lý do kho khoprompt kia quan trọng:
+Nó giúp bạn thoát khỏi vùng đoán mò và bước sang vùng tạo ảnh có chiến lược.
+
+
+
 MẸO CUSTOMIZE PROMPT 
 
 Dùng chung cho mọi loại ảnh chân dung – dễ hiểu – nhanh áp dụng
