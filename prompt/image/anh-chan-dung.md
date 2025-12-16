@@ -1,28 +1,25 @@
 # Hướng dẫn tạo ảnh chân dung với AI
 
 ## Cách sử dụng
+
 1. **Copy-paste ảnh gốc** vào chat trước
 2. **Copy prompt** từ danh sách bên dưới
 3. **Customize** các yếu tố theo ý muốn (xem phần Hướng dẫn Customize)
 4. **Gửi prompt** cùng với ảnh
 
-
 ## Danh sách Prompts
 
-
-1. ảnh chân dung đen trắng style cinema (
+1.Ảnh chân dung đen trắng style cinema (
 "This photo has been edited without changing the face into an artistic portrait. A man sitting elegantly on the floor, dressed in a modern black top, soft, loose-fitting grey jeans, and chunky grey and white sneakers, expresses a laugh as he looks upwards. The background of the monochrome (black and white) artistic composition presents a soft, close-up portrait of the same face in profile, with soft lighting and a dramatic atmosphere."
 
-2.Người đàn ông trên thảo nguyên bế hổ con 
+2.Người đàn ông trên thảo nguyên bế hổ con
 "A Vietnamese man (face and hair as in the attached photo) stands in the middle of a vast green meadow. The photograph, taken from a very high angle, creates a striking effect using a combination of telephoto and wide-angle shots, resulting in a narrowed background while maintaining a wide and vibrant foreground.
 He is wearing a black long-sleeved T-shirt, but the sleeves are rolled up to reveal a black sports watch. He's wearing light blue wide-leg jeans, white sneakers, round sunglasses, a black baseball cap, and a moss-green backpack. The model smiles gently, leaning slightly forward, raising both hands to show a lion cub relaxing on his arm, its head turned towards the camera, creating a clear and striking image, as if it were the result of his adventure.
 The composition follows the rule of thirds, the golden ratio, and diagonal lines that guide the viewer's eye from the foreground to the horizon. The blurring effect on the foreground grass (shallow depth of field) creates cinematic depth, while the aerial perspective makes the distant wildlife appear slightly faded and hazy.
 Around them, the green prairie stretches to the horizon, with tall blades of grass gently swaying in the wind. In the distance, a few wild animals such as zebras, antelopes, and elephants can be seen, all faintly visible through the morning mist. Several deer also appear around the subjects; one gazes directly at the camera, adding to the story's appeal. The horizon is dotted with the silhouettes of acacia trees characteristic of the prairie.
 The ultra-high resolution delivers the atmosphere of a high-end cinematic adventure – National Geographic movie quality."
 
-
-
-3.Dạo phố về đêm 
+3.Dạo phố về đêm
 "Tạo một ảnh thời trang đường phố, đô thị:
 • Chủ Thể & Trang Phục:
 • Cặp đôi phong cách, và cuốn hút.
@@ -36,7 +33,6 @@ The ultra-high resolution delivers the atmosphere of a high-end cinematic advent
 • Tâm trạng: Hiện đại, phong cách đường phố (street style/urban chic), tự tin, và thân mật (thể hiện qua cử chỉ tay chạm mũ của người phụ nữ).
 • Nước ảnh (tone): Màu sắc bão hòa, sắc nét, có độ sâu trường ảnh nông (phông nền graffiti hơi nhòe nhẹ), làm nổi bật cặp đôi.
 • Sử dụng ảnh tải lên làm tham chiếu cho khuôn mặt người đàn ông.”
-
 
 4.Ảnh phụ nữ đi uống cafe
 
@@ -54,7 +50,6 @@ Nani và Bầu không khí: Hàng ngàn là những bậc thang bằng gỗ vắ
 Phía sau và bên dưới ban công là khung cảnh của "góc đánh", một ngọn núi được bao phủ bởi xanh lá cây và những đám mây lơ lửng trên đỉnh núi.
 Một chút nghỉ ngơi hoặc lều Rams màu trắng được xây dựng trên ngọn đồi bên dưới.
 Ảnh cận cảnh"
-
 
 5.Ảnh cô gái cầm cốc cafe
 "Tạo ra cho một người phụ nữ với khuôn mặt giống nguyên bản 100%, chất lượng 8k, bức ảnh ngoài trời tuyệt đẹp này của một phụ nữ trẻ. Một người đang tận hưởng không khí của cửa hàng "Đỉnh Phú Kafé", nằm trên một ngọn đồi cao, nhìn ra đầu núi. Sự phức tạp trải rộng.
@@ -113,7 +108,6 @@ Behind her is a light-gray minimalist studio backdrop. Soft, diffused, mist-like
 
 Captured with a professional DSLR using an 85mm portrait lens. Shallow depth of field creates a velvety bokeh, keeping her face and waistline crisp and detailed. Ultra-realistic 8K resolution, soft pastel tones, refined skin texture, elegant highlights, modern Korean muse aesthetic — a lyrical, artistic, high-fashion portrait with serene, timeless beauty."
 
-
 9.Cơ bụng 8 múi
 "Transform the upload image (keep face details properly) A vertical 9:16 cinematic mirror self-portrait of a young man in a modern minimalist room.
 He tilts his upper body slightly sideways toward the mirror, biting the hem of his black oversized T-shirt with his teeth as he lifts it, revealing a lean, well-defined six-pack under soft ambient lighting.
@@ -121,7 +115,7 @@ His other hand holds a smartphone naturally to take the mirror shot, the reflect
 He wears loose black sweatpants with a glimpse of white underwear waistband visible, accessorized with subtle silver jewelry — earrings and a bracelet catching light softly.Background: clean, modern architectural setting with a curved black mirror and vertical wooden wall panels, creating depth and warmth.Lighting: soft diffused daylight coming from one side, emphasizing muscle contours, collarbones, and skin texture without harsh shadows.Composition: asymmetrical and cropped close — the tilted body pose adds motion and realism; camera reflection and hand placement enhance authenticity.
 Mood: confident, intimate, self-disciplined — a quiet celebration of strength and self-focus.Texture: matte black fabrics, soft daylight glow on skin, subtle metal jewelry shine, and smooth phone reflection in the mirror."
 
-10.selfie trong phòng ngủ
+10.Selfie trong phòng ngủ
 "Create a realistic portrait (100% similar face, do not edit) Early 2000s style photo of a girl with long hair, loose hair, light makeup, red and pink lips, wearing the attached set to create a realistic 2000-style selfie (the face looks 100% the same, not allowed to edit)
 Close-up high-angle photo of the face
 A cute and stylish girl is taking a selfie using a face flash.
@@ -134,27 +128,27 @@ Taken with a low-quality digital camera, 2000s style.
 Use a straight flash with a soft diffused glow effect (soft diffused glow), a diffused flash light, slightly over-slighted highlights, and slightly grainy texture.
 Raw image mood, nature, digital vintage atmosphere, 4:3 ratio, still images, cinematic images, fashion photos, 8K editors,masterpieces. "
 
-11.Chân dung nàng thơ Hàn Quốc 
+11.Chân dung nàng thơ Hàn Quốc
 "Studio portrait of a dreamy, muse-like Korean woman wearing a sleek black blazer. She has long, silky black hair with soft, airy waves gently embracing her face. Her eyes are bright, gentle, and quietly poetic, with a subtle wistful gaze that feels tender and introspective. Her lips are soft and naturally full, forming a delicate, almost-there smile. Minimal, fresh makeup enhances her pure and ethereal beauty, giving her the aura of an elegant modern muse.
 
 She stands in front of a light-gray minimalist studio backdrop. Soft, diffused, almost mist-like studio light from the right bathes her in a gentle, luminous glow, creating delicate shadows and a dreamy softness around the edges. The atmosphere is light, airy, and poetic — blending high-fashion elegance with romantic, muse-like serenity.
 
 Captured with a professional DSLR using an 85mm portrait lens. Shallow depth of field creates a creamy, velvety background blur, while her face remains crisp and delicately detailed. Ultra-realistic 8K resolution, soft pastel tones, fine skin texture, elegant highlights, modern Korean muse aesthetic — a refined, lyrical portrait that feels timeless, tender, and effortlessly artistic."
 
-12.Ảnh ôm chó dưới trời tuyết 
+12.Ảnh ôm chó dưới trời tuyết
 "Young girl with long wavy brown hair puckering lips, holding a small white puppy with light blue eyes. Outdoors in a winter scene, snow covering ground, blurred silver car behind. Soft depth of field, natural daylight."
 
 13.Ảnh chân dung trên màn hiển thị camera
 "A close-up shot of a young woman displayed on the screen of a compact Canon digital camera. The camera body surrounds the image with its buttons, dials, and textured surface visible. The photo on the screen shows the woman indoors at night, illuminated by a bright built-in flash that creates sharp highlights on her face and hair. The mood is candid, raw, nostalgic, and reminiscent of early 2000s digital camera snapshots."
 
-14.Ảnh đi biển 
+14.Ảnh đi biển
 "A cinematic portrait of a young man standing by a waterfront under a vivid blue sky filled with flying seagulls. He tilts his head back slightly, eyes closed, with the winf tousling his medium-length dark hair, creating a sense of calm and freedom. The man wears a gray overcoat and a black-and-white checkered scarf that drapes naturally over his shoulders. Behind him, the deep blue water reflects the bright daylight, with white ferry boat and distant green mountains visible across tye horizon. The overall tone is cool and airy, with a sense of solitude and contemplation, evoking feelings of peace and openness beneath the vast sky. The lighting is natural and crisp, emphasizing the serene and poetic mood of the scene.
 Style: cinematic photography, realistic lighting, moody blue tone, depth of field, high resolution."
 
 15.Chân dung cận cảnh
 “Chân dung cận cảnh chàng trai trẻ (ảnh đính kèm) với nét mặt mềm mại, tinh tế và mái tóc đen dài vừa phải. Bạn ấy đeo kính mỏng gọng kim loại. Làn da của anh ấy mịn màng và tươi sáng, được chiếu sáng bởi ánh nắng tự nhiên ấm áp đến từ bên cạnh, tạo nên những điểm nhấn và bóng nhẹ nhàng trên khuôn mặt của anh ấy. Anh ấy có đôi môi hồng tự nhiên nhẹ nhàng và biểu cảm bình tĩnh, suy ngẫm, với một tay che miệng một phần. Anh ấy mặc áo cardigan màu tối với những nút bấm nổi bật trên chiếc áo thun sáng màu. Xung quanh cổ anh ta là một sợi dây chuyền mỏng với một mặt dây chuyền nhỏ, sáng bóng. Phông nền đơn giản và trung tính, tôn lên tính thẩm mỹ mềm mại, tâm trạng mơ mộng và ánh sáng nghệ thuật. ”
 
-14. Anh trai cầm máy ảnh selfie
+14.Anh trai cầm máy ảnh selfie
 “A young man (photo attached) taking a mirror selfie indoors. He has short, slightly messy black hair and fair skin. He is wearing a light gray knitted sweater with a white shirt underneath. He has a small earring in his left ear. He is holding a black Canon digital camera close to his face with his right hand, looking at his reflection with a calm, neutral expression. The background is a bathroom-like setting with light gray tiled walls. The lighting is soft and cool, creating a clean and gentle atmosphere. The photo consists of two similar shots stacked vertically, with slight changes in his head angle and expression.”
 
 15.Ảnh đứng dưới tuyết
@@ -169,28 +163,28 @@ Cằm hơi hạ, tạo cảm giác sâu lắng và điện ảnh.
 Anh ấy mặc một chiếc áo khoác màu đen, có thể là một chiếc áo khoác có mũ, phủ đầy tuyết mới.
 Nền tối và mờ, gợi ý một địa điểm ngoài trời vào ban đêm, có thể là công viên hoặc đường phố. Ánh sáng vàng ấm áp từ đèn đường hoặc thiết bị chiếu sáng tương tự chiếu sáng phần tư phía trên bên trái, tạo ra ánh sáng nổi bật phía bên phải của chủ thể và tuyết rơi. Nhiều đốm trắng tượng trưng cho tuyết thấy rõ khắp bức ảnh, mang lại ấn tượng về tuyết rơi dày hoặc liên tục."
 
-16.ảnh ngước mặt lên 
+16.Ảnh ngước mặt lên
 "E"xtreme bird's eye view, top-down shot. a muscular handsome young Asian man [reference face on the photo] with messy black hair and thick black glasses looking up at the camera. He is wearing a white shirt over a black knit vest. Grey vignette studio background. Slight wide lens effect, high detail, portrait photography. --ar 1:1"
 
-17.Ảnh hút thuốc 
+17.Ảnh hút thuốc
 "A detailed, cinematic neo-noir portrait of a mysterious young man (use the uploaded image for the face — do not change the face). His short, textured dark hair is slightly tousled. He stands in a dark, low-light environment, wearing a crisp white button-down shirt with the top buttons slightly open, along with subtle masculine silver accessories such as a thin chain bracelet or a minimal ring.
 He is intensely focused as he lights a thin cigarette held between his lips using a small, flickering lighter. The warm orange-yellow glow from the flame illuminates his face, jawline, and hands, creating sharp, dramatic highlights and deep shadows. A single soft, out-of-focus orb of cool blue-green ambient light floats in the pitch-black background, enhancing the moody atmosphere.
 Shot in the style of a neo-noir film still with strong contrast, heavy film grain, and a very shallow depth of field. Captured on a professional camera (e.g., Canon EOS R5) with a 50mm f/1.2 lens.
 –ar 9:16 –style photorealistic"
 
-18,Ảnh cinema trời tuyết 
+18,Ảnh cinema trời tuyết
 "A black and white, close-up, vertical photograph of a young man standing outdoors in a snowy winter landscape. The figure occupies the entire center of the frame and is looking down with a pensive or dreamy expression.
 The man (attached image) has medium-length black hair, his breathing is rapid and neutral in tone, falling over his eyebrows and ears. His light color. He is dressed in dark clothing, which blends into the background thanks to the monochrome tone. He is wearing a dark, thick coat, possibly wool or floral, with broad shoulders, over a dark turtleneck.
 The scene exudes a sense of coldness and loneliness. The beautiful falling snowflakes in the foreground are captured as white letters against the dark clothing and background. The focus is on the figure, especially the mask and upper body, while the background is slightly blurred (bokeh), the peak of a shallow depth of field. The background of the photo looks like a hazy landscape or park, highlighted by soft gray and white tones.
 The overall mood is dramatic, enhanced by the high contrast and black and white treatment, highlighting the figure and falling snow. His right hand is clearly visible in the lower right corner, with a ring prominently displayed on one finger."
 
-19.Ảnh chụp studio 
+19.Ảnh chụp studio
 "A striking and vibrant indoor portrait captures a young man leaning back in a bright red chair, looking directly at the viewer with a calm and confident expression. His medium-length dark hair is styled with a subtle wave, swept back from his face with some strands falling gracefully, highlighting his thoughtful gaze. His lips have a natural, soft pink hue, and his overall demeanor is one of sophisticated coolness.
 He is dressed in a luxurious and eye-catching ensemble, featuring a matching set (possibly a jacket and trousers or a sweater and shorts) with a distinctive dark blue and white abstract or monogram pattern, characteristic of a high-end designer brand like Louis Vuitton. The jacket or sweater also incorporates bold red and white striped accents, particularly on the cuffs and hem, adding a dynamic contrast to the patterned fabric.
 His left wrist is adorned with a prominent, classic silver watch with a dark blue face, which stands out against the patterned sleeve and adds a touch of timeless elegance. His hands are elegantly posed, with one hand casually resting near his chest and the other raised slightly, fingers splayed, contributing to a fashion-forward and artistic gesture.
 The background is simple and bold, featuring a vibrant red sculptural chair or furniture piece that creates a dramatic and monochromatic backdrop for the subject. This bright red environment enhances the colors of his outfit and creates a visually impactful composition. The lighting is soft and even, highlighting his features and the intricate details of his clothing and accessories."
 
-20.Chụp trên chổ cao vietnam 
+20.Chụp trên chổ cao vietnam
 "Create a close-up 8k half-body portrait, The photo shows a young man with smooth white skin standing and posing on a small black observation platform with an iron background. with a majestic natural landscape blurred behind. Highlighting the subject's face
 He is wearing a black bomber jacket with a white T-shirt underneath, white straight-leg jeans, fashionable sunglasses and a natural pose, his face confidently looking towards the camera
 Blurred scene Behind is a deep canyon, with two sides of vertical cliffs covered with green trees. At the bottom is a river with emerald green water.
@@ -199,7 +193,7 @@ Special detail: Above, on the right, there is a red flag with a yellow star (Vie
 21.Đi săn mây
 "Portrait of a young man (attached photo) sitting on a wooden terrace with a background like in Da Lat, sitting on a woven bamboo chair covered with clouds below, he wears a white turtleneck combined with a black down jacket, black shoes. He sits to the left, his face looking far away, his hand holding a cup of hot tea, creating the feeling of a cold winter needing the warmth from the cup of tea. He has naturally combed hair, white skin. The background is only covered with white clouds, the cold tone scene creates the feeling of winter in Da Lat. The young man's background is slightly blurred as the bright center."
 
-22.Ảnh phong cách tổng tài phim hàn 
+22.Ảnh phong cách tổng tài phim hàn
 "Vertical 9:16 high-fashion portrait of a man adjusting his tie, sharp suit, cinematic side-light casting window-blinds shadows on his face, confident and powerful expression, glossy highlight on skin, noir elegance, 8K editorial photography"
 
 23.Ảnh selfie trước gương
@@ -217,13 +211,13 @@ Lighting: Soft, diffused light coming from the window, with subtle ambient light
 Color Palette: Dominated by cool tones (blues, greys, dark greens) with warm accents from the city lights outside. Resolution: High resolution, ultra detailed, photorealistic.
 Post-processing: Subtle color grading to enhance the melancholic mood, slight sharpening, minimal noise."
 
-25,Ảnh cầm pháo hoa nhỏ 
+25,Ảnh cầm pháo hoa nhỏ
 "A studio-style close-up portrait of a young man (attached photo), with medium skin tone and dark brown or black hair. He looks straight into the camera with a neutral expression. The face is well lit, mainly by a warm yellow light source coming from the left side of the frame. This creates a strong contrast with the dark background and highlights the facial features, especially the forehead, nose and cheeks.
 He is wearing a dark turtleneck or high-necked shirt, possibly black. The background is completely dark, ensuring that the focus remains completely on the subject and the sparkler he is holding.
 In the lower left corner, in the foreground, the man is holding a sparkler that is burning vertically. The sparkler emits a bright stream of yellow and white sparks, acting as a secondary light source and a strong visual element. The powerful light from the sparkler casts a warm glow on the left side of his face and illuminates his left hand, which is lightly holding the sparkler.
 The image has a dark, gloomy aesthetic, with the bright sparks contrasting sharply with the surrounding darkness."
 
-26 Ảnh nghệ thuật trong suốt chân dung 
+26 Ảnh nghệ thuật trong suốt chân dung
 "A creative artistic double exposure portrait of [Subject based on image reference] silhouette blended with a majestic misty pine forest and flying birds. The transition between the face and nature is seamless and surreal. Black and white fine art photography, high contrast, moody, emotional, sharp details on the eyes. Minimalist yet complex, award-winning photography style, 8k resolution --ar 9:16 --v 6.1"
 
 27.Ảnh đi chụp hình ở Vạn Lí Trường Thành
@@ -247,7 +241,7 @@ Bảng màu trầm và tàn phá, tông màu lạnh, điểm màu điện ảnh,
 28.Ảnh chụp t-shirt (Nhiều trong 1 khung hình)
 "Create an aesthetic collage of the same young man, keeping the same face, in 4-5 natural poses: a confident outdoor photo, a natural photo looking up with sunglasses, a close-up photo with a big smile, and a portrait photo walking down the street. Choose a full-color central photo with a white t-shirt, beige shirt, and blue jeans, while the surrounding photos are shot in black and white for artistic contrast."
 
-29.Ảnh giáng sinh 
+29.Ảnh giáng sinh
 "Người thanh niên (ảnh đính kèm), da trắng, đứng giữa khung hình, tạo dáng trước cây thông Noel được trang trí. Anh ấy có mái tóc đen dài vừa phải, sóng lượn nhẹ che trán. Anh ta đội mũ ông già Noel trắng đỏ trên đầu. Cháu ngồi nhìn thẳng vào máy ảnh với biểu cảm vui tươi.
 Anh ấy mặc áo len dệt kim dày dặn với họa tiết caro đỏ, xanh và đen nổi bật. Họa tiết gồm những viên kim cương lớn màu đỏ và xanh lá cây giao nhau bởi các đường viền màu đen, với cổ áo và còng màu hải quân màu đen. Anh ta mặc quần màu đen, có thể là màu đen, chỉ bị lộ một phần dưới áo len.
 Phía sau anh ấy là một cây thông Giáng sinh được trang trí rực rỡ, dường như là nhân tạo, được trang trí với rất nhiều đồ trang trí. Các trang trí chủ yếu là hình tròn, đỏ và vàng óng, với một vài chiếc nơ đỏ. Cây đã được thắp sáng, gợi lên một không gian ấm áp trong nhà. Dưới cái cây, có thể thấy một vài món quà được gói, chủ yếu là giấy gói hoa văn màu đỏ, trắng và vàng, gợi lên một bối cảnh lễ hội. Phông nền hơi mờ nhưng dường như là một không gian trong nhà, có thể là một cửa hàng hoặc phòng khách, với những điểm nổi bật của các vật thể và bề mặt khác trên ngoại vi. Tổng thể ánh sáng mềm mại nhưng tươi sáng, làm nổi bật chủ thể và trang trí Giáng sinh."
@@ -255,47 +249,46 @@ Phía sau anh ấy là một cây thông Giáng sinh được trang trí rực r
 30 Ảnh giáng sinh(2)
 "Medium close-up vertical photograph, Vintage Polaroid photography style, of an Asian young man (with a face like the attached photo), with slightly obscured dark hair. He is wearing a Santa Claus hat in red and white and a thick white scarf wrapped around his neck. He is wearing a Bright red knitted sweater. Pose: Holding up his right hand in a peace sign (V-sign), with fingers slightly covering the right eye, and looking directly at the camera with a playful gaze. The background is a Solid black background or very dark setting. Harsh flash lighting illuminates his face and clothing, creating sharp shadows and high contrast and high saturation. The photograph includes a White Polaroid frame. Conveying a Retro, Christmas Party Vibe, Playful, (Moody, Festive, Vintage Film Grain) feeling. 3:4 aspect ratio (vertical). (Photorealistic, ultra-detailed skin texture, flash photography effect, film noise, dark background, Canon EOS 100D, film emulation filter)"
 
-+2 Chân dung người đàn ông mang tính thực tế cao dựa trên hình mẫu gốc (cấu trúc khuôn mặt, kiểu tóc, và người phải giống hệt 100% với hình ảnh tham chiếu - không được phép thay đổi) với những chi tiết tinh tế của làn da. Người đàn ông có mái tóc sáng màu, mặc áo len đan màu trắng hở vòng cổ, ngồi tạo dáng trước cây thông Giáng sinh được trang trí rực rỡ. Cây được trang trí với các phụ kiện lễ hội như quả cầu đỏ và vàng, hộp quà tặng, poinsettias và một biển hiệu "Giáng sinh vui vẻ", và sàn được trải một thảm lông mềm mại. Người đàn ông mặc một chiếc áo len màu trắng rộng, quần jean ống rộng rách gối và giày trắng thời trang, ngồi với khuỷu tay trên một hộp quà lớn, đầu hơi nghiêng và tạo dáng thoải mái trong một kiểu dáng rất thời trang, bên cạnh một chú gấu bông và hộp quà Giáng sinh. Ánh sáng ấm áp, thành phần tập trung vào sự tương phản giữa trang phục và phông nền lễ hội. Màu sắc chủ đạo là đỏ, vàng, xanh và trắng, chất liệu ảnh mang phong cách đường phố kết hợp với không khí Giáng sinh, phù hợp để chụp ảnh lookbook ngày lễ hoặc nội dung quảng bá thời trang
++2 "Chân dung người đàn ông mang tính thực tế cao dựa trên hình mẫu gốc (cấu trúc khuôn mặt, kiểu tóc, và người phải giống hệt 100% với hình ảnh tham chiếu - không được phép thay đổi) với những chi tiết tinh tế của làn da. Người đàn ông có mái tóc sáng màu, mặc áo len đan màu trắng hở vòng cổ, ngồi tạo dáng trước cây thông Giáng sinh được trang trí rực rỡ. Cây được trang trí với các phụ kiện lễ hội như quả cầu đỏ và vàng, hộp quà tặng, poinsettias và một biển hiệu "Giáng sinh vui vẻ", và sàn được trải một thảm lông mềm mại. Người đàn ông mặc một chiếc áo len màu trắng rộng, quần jean ống rộng rách gối và giày trắng thời trang, ngồi với khuỷu tay trên một hộp quà lớn, đầu hơi nghiêng và tạo dáng thoải mái trong một kiểu dáng rất thời trang, bên cạnh một chú gấu bông và hộp quà Giáng sinh. Ánh sáng ấm áp, thành phần tập trung vào sự tương phản giữa trang phục và phông nền lễ hội. Màu sắc chủ đạo là đỏ, vàng, xanh và trắng, chất liệu ảnh mang phong cách đường phố kết hợp với không khí Giáng sinh, phù hợp để chụp ảnh lookbook ngày lễ hoặc nội dung quảng bá thời trang"
 
-+3 Keep the original face as in the uploaded photo. Soft red Christmas backdrop with golden falling sparkles, blurred tree lights.
++3 "Keep the original face as in the uploaded photo. Soft red Christmas backdrop with golden falling sparkles, blurred tree lights.
 Outfit unchanged: oversized white knitted sweater, cozy white socks, deep-red wool scarf, red ribbons in curly hair, glowing doll-like makeup.
 Pose: close-up portrait, her hands gently cupping her chin; radiant doll-like smile, glossy red lips, bright eyes filled with glittery holiday charm.
 Lighting: warm soft light, dreamy festive shine.
-Style: ultra-realistic close-up, clean skin texture, crisp Christmas sparkle.
+Style: ultra-realistic close-up, clean skin texture, crisp Christmas sparkle."
 
-+4 Keep the original face as in the uploaded photo. Warm red dreamy Christmas background with golden snow particles, tree ornaments, red gifts, plush toys.
++4" Keep the original face as in the uploaded photo. Warm red dreamy Christmas background with golden snow particles, tree ornaments, red gifts, plush toys.
 Outfit unchanged: oversized white knitted sweater, cozy white socks, deep-red wool scarf, red ribbons in curly hair, glowing doll-like makeup.
 Pose: lying on her side on a fluffy white rug, propping her head with one hand while the other hand holds a tiny red Christmas bauble; soft adorable smile, gentle sparkling eyes.
 Lighting: warm cozy glow, whimsical bokeh.
-Style: ultra-realistic, smooth skin, magical holiday aesthetic.
+Style: ultra-realistic, smooth skin, magical holiday aesthetic."
 
-+5 Keep the original face as in the uploaded photo. Festive Christmas scene with warm red background, golden snow particles, decorated Christmas tree, red gift boxes, plush toys.
++5" Keep the original face as in the uploaded photo. Festive Christmas scene with warm red background, golden snow particles, decorated Christmas tree, red gift boxes, plush toys.
 Outfit unchanged: oversized white knitted sweater, cozy white socks, deep-red wool scarf, red ribbons in curly hair, glowing doll-like makeup.
 Pose: standing with one knee slightly bent, holding a red Christmas gift box against her chest; bright radiant smile, cheerful holiday energy.
 Lighting: warm glowing festive light, soft sparkles.
-Style: ultra-realistic, high-res, clean Christmas portrait.
+Style: ultra-realistic, high-res, clean Christmas portrait."
 
-+6 Keep the original face as in the uploaded photo. Cozy warm red Christmas background, golden snow particles, tree ornaments, red gift boxes.
++6 "Keep the original face as in the uploaded photo. Cozy warm red Christmas background, golden snow particles, tree ornaments, red gift boxes.
 Outfit unchanged: oversized white knitted sweater, cozy white socks, deep-red wool scarf, red ribbons in curly hair, glowing doll-like makeup.
 Pose: sitting comfortably hugging a plush Christmas teddy bear close to her chest; gentle radiant smile, tender innocent expression.
 Lighting: warm soft light with sparkles.
-Style: ultra-realistic, clean skin, dreamy Christmas vibe.
+Style: ultra-realistic, clean skin, dreamy Christmas vibe."
 
-+7 Keep the original face as in the uploaded photo. Red festive backdrop with golden snow dust, Christmas tree, red gifts, plush toys.
++7" Keep the original face as in the uploaded photo. Red festive backdrop with golden snow dust, Christmas tree, red gifts, plush toys.
 Outfit & accessories unchanged.
 Pose: sitting gracefully, holding a small glowing Christmas lantern close to her cheek, smiling sweetly with a soft festive expression.
 Lighting: lantern glow + warm Christmas light.
-Style: ultra-realistic, clean skin, magical winter-fairy look.
+Style: ultra-realistic, clean skin, magical winter-fairy look."
 
-+8 Keep the original face as in the uploaded photo. Cozy Christmas scene with warm red background, golden falling particles, Christmas tree ornaments, red gift boxes, plush toys.
++8 "Keep the original face as in the uploaded photo. Cozy Christmas scene with warm red background, golden falling particles, Christmas tree ornaments, red gift boxes, plush toys.
 Outfit unchanged: oversized white knitted sweater, cozy white socks, deep-red wool scarf, red ribbons in curly hair, glowing doll-like makeup.
 Pose: sitting with knees up, holding a handful of shimmering artificial snow and blowing it forward with a radiant smile; eyes wide with wonder.
 Lighting: dreamy warm light, floating sparkles.
-Style: ultra-realistic, crisp skin texture, soft bokeh.
-
+Style: ultra-realistic, crisp skin texture, soft bokeh."
 
 31.Ảnh chân dung chính diện áo sơ mi
-Chân dung em ngồi trên chiếc ghế, nghiêng hơi về phía trước với khuỷu tay nghỉ ngơi
+"Chân dung em ngồi trên chiếc ghế, nghiêng hơi về phía trước với khuỷu tay nghỉ ngơi
 đầu gối tôi, ngón tay đan nhau trước miệng tôi trong một sự suy nghĩ và mãnh liệt
 tạo dáng. Ánh mắt của tôi được hướng thẳng vào camera, tạo nên một sự mạnh mẽ,
 sự hiện diện tập trung. Em mặc áo sơ mi trắng bó tay
@@ -303,84 +296,82 @@ lên đến khuỷu tay, cho thấy cả hai cánh tay của tôi. Đen, lắp r
 quần dài hoàn thành bộ đồ. Ánh sáng rất kịch tính và thấp, với một
 Nền đen sâu làm nổi bật đường viền cơ thể tôi và
 làm nổi bật cánh tay cơ bắp và tư thế tự tin của tôi. Tâm trạng tổng thể là
-nghiêm túc, hướng nội, và mạnh mẽ. cùng khuôn mặt.
+nghiêm túc, hướng nội, và mạnh mẽ. cùng khuôn mặt."
 
 32.Ảnh ngắm hoàng hôn
-Bức ảnh cận cảnh của một chàng trai trẻ ngồi trên chiếc ghế bãi biển bằng gỗ và sọc, khuôn mặt của anh ấy quay sang phải khung hình, đặt vào hoàng hôn màu vàng cam rực rỡ trên đại dương. Người đàn ông (ảnh đính kèm) da trắng và tóc ngắn, đen, tạo kiểu gọn gàng. Anh ta mặc áo dài tay màu đen. Tư thế của anh ấy được thư giãn khi nhìn ra mặt nước. Ghế bãi biển có các sọc sáng và tối dọc theo chân trời, có thể là đen và trắng hoặc xanh đen. Phông nền chủ yếu là hoàng hôn. Mặt trời là một quả cầu tròn rực rỡ, hơi phía trên chân trời, tỏa ra ánh sáng vàng cam mạnh mẽ trên bầu trời và phản chiếu rực rỡ trên làn nước tĩnh lặng. Đại dương trải dài ngang giữa khung hình, với bầu trời lấp đầy phần trên. Đường bờ biển, được tạo thành từ cát, rõ ràng ở phía trước. Ánh sáng tổng thể tạo nên những bóng hình kịch tính cho chủ thể và ngay lập tức, đặt trước ánh sáng ấm áp của hoàng hôn. Có những chiếc thuyền xa nhạt nhẽo trên mặt nước gần chân trời.
+"Bức ảnh cận cảnh của một chàng trai trẻ ngồi trên chiếc ghế bãi biển bằng gỗ và sọc, khuôn mặt của anh ấy quay sang phải khung hình, đặt vào hoàng hôn màu vàng cam rực rỡ trên đại dương. Người đàn ông (ảnh đính kèm) da trắng và tóc ngắn, đen, tạo kiểu gọn gàng. Anh ta mặc áo dài tay màu đen. Tư thế của anh ấy được thư giãn khi nhìn ra mặt nước. Ghế bãi biển có các sọc sáng và tối dọc theo chân trời, có thể là đen và trắng hoặc xanh đen. Phông nền chủ yếu là hoàng hôn. Mặt trời là một quả cầu tròn rực rỡ, hơi phía trên chân trời, tỏa ra ánh sáng vàng cam mạnh mẽ trên bầu trời và phản chiếu rực rỡ trên làn nước tĩnh lặng. Đại dương trải dài ngang giữa khung hình, với bầu trời lấp đầy phần trên. Đường bờ biển, được tạo thành từ cát, rõ ràng ở phía trước. Ánh sáng tổng thể tạo nên những bóng hình kịch tính cho chủ thể và ngay lập tức, đặt trước ánh sáng ấm áp của hoàng hôn. Có những chiếc thuyền xa nhạt nhẽo trên mặt nước gần chân trời."
 
-33.Ảnh quý tộc 
-A refined, aristocratic young man sits in a sumptuous, candlelit dining room. He wears a perfectly tailored black tuxedo with a bow tie and crisp white waistcoat, exuding elegance and quiet intensity. His posture is relaxed yet introverted—one arm draped along the back of a velvet sofa while the other cradles his chin in a contemplative gesture. Soft, warm candlelight glows from ornate silver candles, creating golden accents on his face, hair, and the rich textures of the setting. Crystal glasses, polished silverware, and a semi-finished wine glass sit on the table before him, adding to the opulent atmosphere. Subtle reflections shimmer in the background mirror, adding depth and sophistication. The overall mood is intimate, timeless, moody, and cinematic, blending classic European high society with painterly romantic realism. 8k high quality image, 9:16 aspect ratio
+33.Ảnh quý tộc
+"A refined, aristocratic young man sits in a sumptuous, candlelit dining room. He wears a perfectly tailored black tuxedo with a bow tie and crisp white waistcoat, exuding elegance and quiet intensity. His posture is relaxed yet introverted—one arm draped along the back of a velvet sofa while the other cradles his chin in a contemplative gesture. Soft, warm candlelight glows from ornate silver candles, creating golden accents on his face, hair, and the rich textures of the setting. Crystal glasses, polished silverware, and a semi-finished wine glass sit on the table before him, adding to the opulent atmosphere. Subtle reflections shimmer in the background mirror, adding depth and sophistication. The overall mood is intimate, timeless, moody, and cinematic, blending classic European high society with painterly romantic realism. 8k high quality image, 9:16 aspect ratio"
 
-34.Ảnh chân dung nghệ thuật 
-Create an artistic portrait. The man (attached photo as reference, no face alteration) should be elegantly seated on the floor, wearing a modern black hoodies, soft loose gray jeans, and chunky gray and white sneakers. he has wavy fringe brown hair, Her facial expression is thinking while looking upwards. The background should be an artistic monochrome (black and white) composition featuring a soft close-up side profile of the same face.
+34.Ảnh chân dung nghệ thuật
+"Create an artistic portrait. The man (attached photo as reference, no face alteration) should be elegantly seated on the floor, wearing a modern black hoodies, soft loose gray jeans, and chunky gray and white sneakers. he has wavy fringe brown hair, Her facial expression is thinking while looking upwards. The background should be an artistic monochrome (black and white) composition featuring a soft close-up side profile of the same face."
 
 35.Ảnh 2 phần trên dưới
-A double portrait image, featuring a young handsome man model (photo attached) with dark brown hair and a sharp jawline, set against a stunning ocean/beach sunset or sunrise. The image is split vertically into two sections:
+"A double portrait image, featuring a young handsome man model (photo attached) with dark brown hair and a sharp jawline, set against a stunning ocean/beach sunset or sunrise. The image is split vertically into two sections:
 Top Section: A medium close-up shot. The model is wearing a dark charcoal or black shirt/jacket and large aviator sunglasses. He is holding the sunglasses with one hand. Strong golden-orange backlight (sun flare) dominates the upper part, creating a dramatic, warm silhouette effect. Several seagulls/gulls are flying in the background.
 Bottom Section: A close-up, low-angle shot. The model is wearing a light-colored (white/cream and brown/grey) tie-dye or patterned long-sleeve top. He is leaning on a dark object (possibly a railing or vehicle). The facial expression is earnest and direct. The background features more seagulls flying and the bright, diffused sunlight of the golden hour.
 Lighting and Style: Dramatic, cinematic golden hour backlight. High detail, with an ultra-smooth, high-end beauty portrait finish on the skin, resembling a hyper-realistic digital painting or AI-generated artwork. Warm color palette with emphasis on orange, gold, and brown tones. Photography style: Editorial/Movie poster composite."
 
 36.Ảnh trên thiên đường
-Create a photorealistic and dreamy image of a handsome young man (based on the attached photo), platinum hair dressed in flowing white pants and a white shirt. He is gracefully levitating or lightly floating just above a mirror-like, still water surface. One of his feet gently touches the water, creating delicate circular ripples. The water reflects his full body, the sky, and the clouds above in perfect symmetry. The background features a vast open sky filled with fluffy white clouds, contributing to a serene, surreal, and magical atmosphere. The overall scene should feel calm, peaceful, and ethereal - like a dreamscape.
+"Create a photorealistic and dreamy image of a handsome young man (based on the attached photo), platinum hair dressed in flowing white pants and a white shirt. He is gracefully levitating or lightly floating just above a mirror-like, still water surface. One of his feet gently touches the water, creating delicate circular ripples. The water reflects his full body, the sky, and the clouds above in perfect symmetry. The background features a vast open sky filled with fluffy white clouds, contributing to a serene, surreal, and magical atmosphere. The overall scene should feel calm, peaceful, and ethereal - like a dreamscape.
 Emphasize soft lighting, harmonious balance, and reflective detail.
-
+"
 37.Ảnh trong rừng hoa
-Keep the facial features from the uploaded image. A dreamy, romantic photograph of a handsome young Asian man has ash blonde hair "Reaching one hand up towards the glorious beam of sunlight piercing through the trees. Head tilted up, looking at the light with a hopeful expression. The light creates a glowing silhouette around his fingers." in a lush secret garden. He is wearing a loose-fitting white linen shirt and white pants.
+"Keep the facial features from the uploaded image. A dreamy, romantic photograph of a handsome young Asian man has ash blonde hair "Reaching one hand up towards the glorious beam of sunlight piercing through the trees. Head tilted up, looking at the light with a hopeful expression. The light creates a glowing silhouette around his fingers." in a lush secret garden. He is wearing a loose-fitting white linen shirt and white pants.
 Lighting (Crucial): Dramatic volumetric sun rays (God rays) piercing through the dense forest canopy, creating distinct beams of golden light and a misty atmosphere around him (Tyndall effect).
-Environment: Overgrown garden filled with white rose bushes, wildflowers, and deep green foliage. Soft focus, ethereal glow, cinematic lighting, film grain.
+Environment: Overgrown garden filled with white rose bushes, wildflowers, and deep green foliage. Soft focus, ethereal glow, cinematic lighting, film grain."
 
 38.Ảnh pose nhiều góc
-Vertical collage poster design. The background consists of four horizontal rounded rectangles stacked on top of each other.
+"Vertical collage poster design. The background consists of four horizontal rounded rectangles stacked on top of each other.
 Inside these panels are black and white cinematic shots of a young man and sunglasses in various poses.
-Overlapped in the foreground left is a high quality, full color collage image of the same man wearing an unbuttoned black shirt and sunglasses, striking a cool pose. The image in the foreground has a thick white sticker-style border.
+Overlapped in the foreground left is a high quality, full color collage image of the same man wearing an unbuttoned black shirt and sunglasses, striking a cool pose. The image in the foreground has a thick white sticker-style border."
 
 39.Ảnh ngồi trên hàng rào
-Keep the facial features from the uploaded image. An extreme low-angle shot (worm's-eye view) of a cool young Asian man sitting on top of a wire mesh fence against a clear blue sky. He is looking down at the camera with a cool attitude and has ash blonde hair. He is holding an iced coffee cup.
+"Keep the facial features from the uploaded image. An extreme low-angle shot (worm's-eye view) of a cool young Asian man sitting on top of a wire mesh fence against a clear blue sky. He is looking down at the camera with a cool attitude and has ash blonde hair. He is holding an iced coffee cup.
 Outfit Details: He wears oversized grey parachute cargo pants and chunky silver metallic sneakers. The perspective is exaggerated, making his shoes and legs appear large in the foreground (forced perspective).
-Lighting & Style: Bright natural sunlight, harsh shadows, street fashion photography, wide-angle lens effect, fisheye distortion, highly detailed shoe texture.
+Lighting & Style: Bright natural sunlight, harsh shadows, street fashion photography, wide-angle lens effect, fisheye distortion, highly detailed shoe texture."
 
 40.Ảnh kiểu hoạt họa
-A fragmented, abstract minimalist portrait of a man (attached photo), depicted in profile view. The geometric composition uses angular shapes, sharp contrasts, and a monochrome palette. He wears a black suit with a white shirt and black tie, with layered black hair stylized in sharp blocks, all set against a neutral grey background.
-
+"A fragmented, abstract minimalist portrait of a man (attached photo), depicted in profile view. The geometric composition uses angular shapes, sharp contrasts, and a monochrome palette. He wears a black suit with a white shirt and black tie, with layered black hair stylized in sharp blocks, all set against a neutral grey background."
 41, Ảnh shhhhh
-Create a dramatic black and white portrait of the person in the photo, elegantly dressed in dark sunglasses and a high-necked jacket. They bring their finger to their lips in a 'shh' gesture, exuding mystery and confidence. The low-angle shot emphasizes their sharp features, with soft natural lighting and a minimal sky background. Editorial, cinematic, high-contrast photography style
+"Create a dramatic black and white portrait of the person in the photo, elegantly dressed in dark sunglasses and a high-necked jacket. They bring their finger to their lips in a 'shh' gesture, exuding mystery and confidence. The low-angle shot emphasizes their sharp features, with soft natural lighting and a minimal sky background. Editorial, "cinematic, high-contrast photography style
 
-42.Ảnh ngồi cạnh cửa sổ 
-A young man (attached photo) is sitting by the window, chin resting on his hand, looking out with a pensive look. The photo is a street photography style portrait, using a soft bokeh effect to highlight the subject. He is wearing a black down jacket, white undershirt, denim jeans, sitting in front of a wooden bar in a cafe, outside is natural light and reflected on the glass. The natural light is soft, the color tone is warm, the image is sharp with a shallow depth of field.
+42.Ảnh ngồi cạnh cửa sổ
+"A young man (attached photo) is sitting by the window, chin resting on his hand, looking out with a pensive look. The photo is a street photography style portrait, using a soft bokeh effect to highlight the subject. He is wearing a black down jacket, white undershirt, denim jeans, sitting in front of a wooden bar in a cafe, outside is natural light and reflected on the glass. The natural light is soft, the color tone is warm, the image is sharp with a shallow depth of field."
 
 43,Ảnh dầm mưa dãi nắng
-A captivating and highly detailed close-up portrait of a handsome young man in profile, looking slightly up and to the right, completely immersed in a pouring rain. His skin glistens with countless individual water droplets, highlighting the delicate contours and textures of his nose, cheeks, and chin with remarkable photorealism. Water drips visibly from his jawline.
+"A captivating and highly detailed close-up portrait of a handsome young man in profile, looking slightly up and to the right, completely immersed in a pouring rain. His skin glistens with countless individual water droplets, highlighting the delicate contours and textures of his nose, cheeks, and chin with remarkable photorealism. Water drips visibly from his jawline.
 His lips are slightly parted, suggesting a deep breath or a moment of contemplation. The lighting is intimate and moody, with the light catching the wetness on his face, creating subtle highlights and shadows.
-In the blurred background, a few warm, circular bokeh lights (suggesting streetlights or high beams) provide a soft orange-yellow contrast against the dark, cool blue-gray tones of the evening rain. Falling raindrops are sharply rendered in the foreground and middle ground, with some exhibiting motion blur, adding to the dynamic and immersive atmosphere. The overall feeling is one of pensive beauty, vulnerability, and connection with the natural elements, captured with the precision of professional photography.
+In the blurred background, a few warm, circular bokeh lights (suggesting streetlights or high beams) provide a soft orange-yellow contrast against the dark, cool blue-gray tones of the evening rain. Falling raindrops are sharply rendered in the foreground and middle ground, with some exhibiting motion blur, adding to the dynamic and immersive atmosphere. The overall feeling is one of pensive beauty, vulnerability, and connection with the natural elements, captured with the precision of professional photography."
 
-44.Ảnh đứng bên cồn 
-Edit my uploaded picture hyper realistic 100% using uploaded face without change the details,Double exposure in black and white. Use the reference photo without altering facial details. Foreground: subject standing on a rock in water, back turned, head slightly left, wearing casual clothes. Background: translucent profile of same face, eyes closed, head tilted upward,. Cloudy overcast sky, diffuse light, vintage grainy artistic style.
+44.Ảnh đứng bên cồn
+"Edit my uploaded picture hyper realistic 100% using uploaded face without change the details,Double exposure in black and white. Use the reference photo without altering facial details. Foreground: subject standing on a rock in water, back turned, head slightly left, wearing casual clothes. Background: translucent profile of same face, eyes closed, head tilted upward,. Cloudy overcast sky, diffuse light, vintage grainy artistic style."
 
-
-45.Ảnh holywood 
-Ultra-realistic cinematic portrait (9:16), featuring the user’s real face as the main character without modification. The character is styled in a bold and charismatic look, wearing a black leather jacket over a fitted black shirt, with a subtle chain necklace adding detail. Captured in natural golden-hour lighting, the warm sunlight enhances the sharp facial contours and highlights the texture of the leather jacket.
+45.Ảnh holywood
+"Ultra-realistic cinematic portrait (9:16), featuring the user’s real face as the main character without modification. The character is styled in a bold and charismatic look, wearing a black leather jacket over a fitted black shirt, with a subtle chain necklace adding detail. Captured in natural golden-hour lighting, the warm sunlight enhances the sharp facial contours and highlights the texture of the leather jacket.
 The background features the iconic Hollywood sign on the hills, slightly blurred to emphasize depth of field while keeping the focus on the character. Giving the atmosphere a raw cinematic feel.
 The character’s pose is relaxed yet confident: one hand resting behind the head, gaze directed slightly to the side, evoking a sense of ambition and determination. Photorealistic rendering, 8K hyper-detailed textures, depth of field bokeh, cinematic color grading, professional studio-level sharpness.
-Negative prompts: blurry face, distorted features, oversaturated colors, low-resolution, extra limbs, altered facial structure, cartoonish effect.
+Negative prompts: blurry face, distorted features, oversaturated colors, low-resolution, extra limbs, altered facial structure, cartoonish effect."
 
-46.Ảnh giữa đồng 
-"moody cinematic portrait, lone young man in tall grass field at dusk, overcast sky, teal-green color grade, wearing white buttoned shirt, matte silver over-ear headphones, side profile, head tilted back toward sky, eyes closed, arms open and slightly back, wind-swept grass blades in foreground creating soft motion blur, shallow depth of field with creamy bokeh, natural ambient light, soft rim light on hair, melancholic freedom vibe, minimal contrast, subtle grain,
+46.Ảnh giữa đồng
+"moody cinematic portrait, lone young man in tall grass field at dusk, overcast sky, teal-green color grade, wearing white buttoned shirt, matte silver over-ear headphones, side profile, head tilted back toward sky, eyes closed, arms open and slightly back, wind-swept grass blades in foreground creating soft motion blur, shallow depth of field with creamy bokeh, natural ambient light, soft rim light on hair, melancholic freedom vibe, minimal contrast, subtle grain"
 
-47.Ảnh đưa tay đây nào 
-A highly realistic portrait of a man based on the original model (the facial structure, hairstyle, and person must be exactly 100% identical to the reference image — no changes allowed) with highlights the skin tine subtle details .
-A cinematic portrait of a young man standing inside a dim rocky cave, reaching his hand toward the camera in an inviting gesture. Shot from a low perspective focusing on the hand in the foreground, creating strong depth and intimacy. Soft golden light from above highlights his face and hair, giving a warm yet mysterious mood. He wears a fitted black shirt with the collar buttoned. The overall atmosphere feels emotional, dramatic, and artistic.Aspect ratio: 9:16
+47.Ảnh đưa tay đây nào
+"A highly realistic portrait of a man based on the original model (the facial structure, hairstyle, and person must be exactly 100% identical to the reference image — no changes allowed) with highlights the skin tine subtle details .
+A cinematic portrait of a young man standing inside a dim rocky cave, reaching his hand toward the camera in an inviting gesture. Shot from a low perspective focusing on the hand in the foreground, creating strong depth and intimacy. Soft golden light from above highlights his face and hair, giving a warm yet mysterious mood. He wears a fitted black shirt with the collar buttoned. The overall atmosphere feels emotional, dramatic, and artistic.Aspect ratio: 9:16"
 
-48.Ảnh cầm kính selfie 
-Ultra-realistic 8K editorial portrait, 9:16, face 100% accurate, voluminous hair, sunglasses near lips, confident side glance, deep denim jacket over black outfit, luxury watch, dramatic cinematic lighting. Concrete wall background daylight --ar 9:16 --style raw --v 6
+48.Ảnh cầm kính selfie
+"Ultra-realistic 8K editorial portrait, 9:16, face 100% accurate, voluminous hair, sunglasses near lips, confident side glance, deep denim jacket over black outfit, luxury watch, dramatic cinematic lighting. Concrete wall background daylight --ar 9:16 --style raw --v 6"
 
 49.Ảnh lửa trại mùa đông
-Ultra-realistic use my face as a male model cinematic winter portrait collage arranged in three horizontal panels stacked vertically, featuring the same man in a snowy mountain landscape at twilight. The top panel shows an upper-body back view of the man standing in an open snowy area, facing distant mountains under a deep blue evening sky. Midel panel face and last panel man camp fire. he wears a black winter coat covered in snowflakes, and his dark hair is visible, slightly tousled by the cold
+"Ultra-realistic use my face as a male model cinematic winter portrait collage arranged in three horizontal panels stacked vertically, featuring the same man in a snowy mountain landscape at twilight. The top panel shows an upper-body back view of the man standing in an open snowy area, facing distant mountains under a deep blue evening sky. Midel panel face and last panel man camp fire. he wears a black winter coat covered in snowflakes, and his dark hair is visible, slightly tousled by the cold"
 
 50.Ảnh cạnh cửa sổ
-A young man standing by an old window, captured in dramatic backlighting. Warm golden sunlight streams through dense green leaves, creating soft rays and a glowing rim light around his silhouette. The scene is moody and serene, with deep shadows contrasting against the vibrant sunlit foliage. The man is shown in profile, looking upward, his hair catching the light. Natural light, cinematic atmosphere, soft depth of field, 50mm lens, shallow DOF, realistic textures, quiet and contemplative mood, high-detail photography.
+"A young man standing by an old window, captured in dramatic backlighting. Warm golden sunlight streams through dense green leaves, creating soft rays and a glowing rim light around his silhouette. The scene is moody and serene, with deep shadows contrasting against the vibrant sunlit foliage. The man is shown in profile, looking upward, his hair catching the light. Natural light, cinematic atmosphere, soft depth of field, 50mm lens, shallow DOF, realistic textures, quiet and contemplative mood, high-detail photography."
 
 51.Ảnh đen constrat bí ẩn
-A powerful, high-contrast black-and-white frontal profile portrait of a person (attached photo), with distinctly human yet timeless features—emerging from utter darkness. The composition is minimalist and sculptural, where shape, light, and shadow define the subject, rather than color or texture.
+"A powerful, high-contrast black-and-white frontal profile portrait of a person (attached photo), with distinctly human yet timeless features—emerging from utter darkness. The composition is minimalist and sculptural, where shape, light, and shadow define the subject, rather than color or texture.
 The subject's profile is clean and strong, their expression contemplative, as if caught between thought and transcendence. They wear a fitted dark turtleneck sweater that blends seamlessly into the black void, obliterating all detail except the shimmering edges of their silhouette.
 A single, narrow-edged light, bright, sharp, and directed, carves out the shape of the head, neck, and shoulders, tracing the contours with precision. The light comes from directly behind and slightly above the subject, creating a thin, luminous halo along the jawline and the curve of the skull, while the rest dissolves into the inky black.
 The background is pitch black, a void devoid of texture or depth, emphasizing the luminous boundary between shadow and light. There are no midtones, just a deep black and deliberate contrast, which only enhances the drama and abstraction of the brightest white.
@@ -388,79 +379,80 @@ Mood & Aesthetic: Minimalist, conceptual, and deeply introspective. This image e
 Technical Details:
 Shot with a telephoto lens for a compressed perspective.
 Wide-open aperture (f/1.8-2.😎 creates shimmering contours with a shallow depth of field.
-Optical Realism: Rendered with ultra-realistic 8K cinematic quality, combining true lens physics, depth of field, and subtle film grain, with good front lighting. (Use my image as a reference)
+Optical Realism: Rendered with ultra-realistic 8K cinematic quality, combining true lens physics, depth of field, and subtle film grain, with good front lighting. (Use my image as a reference)"
 
-52 Ảnh chân dung nhẹ ngập tràn ánh nắng 
+52 Ảnh chân dung nhẹ ngập tràn ánh nắng
 "Create A soft, sunlit portrait wearing a flowing sheer yellow saree with delicate floral embroidery. Sit gracefully against a plain wall, bathed in warm natural light with a triangular patch of sunlight casting artistic shadows. Hold a vibrant bouquet of sunflowers close to the chest, and a small white flower is tucked behind he ear. Gentle expression, loose hair strands moving slightly, and the dreamy golden glow create a serene, poetic, and romantic."
 
 53 Ảnh zoom cận đen trắng
 "Please generate a top-angle and close-up black and white portrait of my face, focused on the head facing forward. Use a 35mm lens look, 10.7K 4HD quality. Proud expression. Deep black shadow background - only the face, the upper chest, and the shoulder."
 
-54  Ảnh chân dung dọc theo phong cách điện ảnh với nền đỏ.
+54 Ảnh chân dung dọc theo phong cách điện ảnh với nền đỏ.
 "Create a vertical potrait shot using the exact same face features, characterized by stark cinematic lighting and intense contrast. Captured in a slightly low, upward-facing angle that dramatized the subject’s jawline and neck, the composition evokes quite dominance and sculptural elegance. The background is a deep, saturated crimson red, creating a bold visual clash with the model’s luminous skin and dark wardrobe."
 
 55.Cảnh ôm nhau chụp bằng máy ảnh Polaroid với phông nền rèm trắng.(cần 2 hình)
 "Take a photo taken with a Polaroid camera. The photo should look like an ordinary photograph, without an explicit subject or property. The photo should have a slight blur and a consistent light source, like a flash from a dark room, scattered throughout the photo. Don’t change the face. Change the background behind those two people with white curtains. Make it look like both people in the reference picture are hugging each other."
 
 56. Ảnh chụp nhanh kiểu Polaroid với phông nền rèm cửa.(cần 2 hình)
-"Take a picture with a Polaroid camera. The photo should look like a normal photo, without any clear subject or props. The photo should have a slight blur a consistent light source. Such as a flash from a dark room, spread throughout the photo. Do not change the faces. Replace the background behind the two people with a white curtain."
+    "Take a picture with a Polaroid camera. The photo should look like a normal photo, without any clear subject or props. The photo should have a slight blur a consistent light source. Such as a flash from a dark room, spread throughout the photo. Do not change the faces. Replace the background behind the two people with a white curtain."
 
 57. Nine Half-Length Portraits in Natural Environments
-"Using the uploaded photo as a reference, generate a set of 9 vibrant half-length portraits featuring natural life. Each portrait should show a different pose and be placed in a unique setting, with rich, colorful details that highlight the diversity of nature."
+    "Using the uploaded photo as a reference, generate a set of 9 vibrant half-length portraits featuring natural life. Each portrait should show a different pose and be placed in a unique setting, with rich, colorful details that highlight the diversity of nature."
 
 58. Thay đổi tư thế 2 gay
-"Take the two men and place them in the exact poses of the man in green carrying the man in red. Preserve their identities, body proportions, and clothing details. Ensure the pose is natural and realistic, with consistent lighting, shadows, and perspective. Photorealistic, high-resolution result."
+    "Take the two men and place them in the exact poses of the man in green carrying the man in red. Preserve their identities, body proportions, and clothing details. Ensure the pose is natural and realistic, with consistent lighting, shadows, and perspective. Photorealistic, high-resolution result."
 
 59. Ảnh chụp năm 2000
-"Một bức ảnh kỹ thuật số độ phân giải thấp được chụp bằng máy ảnh Sony CyberShot đời 2005. Một nhóm thanh thiếu niên đang tụ tập tại khu ẩm thực trong trung tâm thương mại. Đèn flash trên máy ảnh chói gắt, các vùng sáng hơi bị cháy, nhiễu kỹ thuật số ở vùng tối. Kết cấu da trông hơi sáp do quá trình xử lý kỹ thuật số thời kỳ đầu. Một dấu ngày màu cam xuất hiện ở góc dưới bên phải ghi "04/12/2005". Chụp tự nhiên, góc chụp vụng về, mang tính thẩm mỹ của ảnh Myspace."
+    "Một bức ảnh kỹ thuật số độ phân giải thấp được chụp bằng máy ảnh Sony CyberShot đời 2005. Một nhóm thanh thiếu niên đang tụ tập tại khu ẩm thực trong trung tâm thương mại. Đèn flash trên máy ảnh chói gắt, các vùng sáng hơi bị cháy, nhiễu kỹ thuật số ở vùng tối. Kết cấu da trông hơi sáp do quá trình xử lý kỹ thuật số thời kỳ đầu. Một dấu ngày màu cam xuất hiện ở góc dưới bên phải ghi "04/12/2005". Chụp tự nhiên, góc chụp vụng về, mang tính thẩm mỹ của ảnh Myspace."
 
 60. selfie với gốc cây dạng JSON prompt
-"```json
-{
-  "image_prompt": {
+    "```json
+    {
+    "image_prompt": {
     "subject": {
-      "demographics": "Cô gái trẻ",
-      "skin_tone": "Da trắng với nhiều tàn nhang nổi bật trên mũi và má, được thể hiện với độ chính xác kết cấu Deep Fusion",
-      "hair": "Tóc nâu dài, gợn sóng",
-      "eyes": "Mắt xanh lá/nâu hạt dẻ (một mắt mở), lấy nét sắc nét thể hiện chi tiết mống mắt",
-      "eyebrows": "Lông mày dày, tự nhiên, màu tối"
+    "demographics": "Cô gái trẻ",
+    "skin_tone": "Da trắng với nhiều tàn nhang nổi bật trên mũi và má, được thể hiện với độ chính xác kết cấu Deep Fusion",
+    "hair": "Tóc nâu dài, gợn sóng",
+    "eyes": "Mắt xanh lá/nâu hạt dẻ (một mắt mở), lấy nét sắc nét thể hiện chi tiết mống mắt",
+    "eyebrows": "Lông mày dày, tự nhiên, màu tối"
     },
     "attire": {
-      "clothing": "Áo bikini đen chấm bi trắng",
-      "jewelry": "Dây chuyền vàng nhiều lớp tinh xảo"
+    "clothing": "Áo bikini đen chấm bi trắng",
+    "jewelry": "Dây chuyền vàng nhiều lớp tinh xảo"
     },
     "expression_and_pose": {
-      "facial_expression": "Vui tươi và tinh nghịch; nháy mắt phải (bên trái của người xem), lưỡi hơi thè ra một bên, cười để lộ răng",
-      "hand_position": "Tay phải đặt trên đầu/khăn trùm đầu",
-      "framing": "Chân dung selfie cận cảnh, cánh tay cầm thiết bị có thể nhìn thấy",
-      "angle": "Góc selfie ngang tầm mắt"
+    "facial_expression": "Vui tươi và tinh nghịch; nháy mắt phải (bên trái của người xem), lưỡi hơi thè ra một bên, cười để lộ răng",
+    "hand_position": "Tay phải đặt trên đầu/khăn trùm đầu",
+    "framing": "Chân dung selfie cận cảnh, cánh tay cầm thiết bị có thể nhìn thấy",
+    "angle": "Góc selfie ngang tầm mắt"
     },
     "environment": {
-      "setting": "Địa điểm nhiệt đới hoặc ven biển ngoài trời",
-      "background": "Vỏ cây hoặc mặt đá có kết cấu với những mảng lá nhiệt đới xanh, thể hiện hiệu ứng bokeh tự nhiên",
-      "lighting": "Ánh sáng ban ngày tự nhiên rực rỡ, ánh nắng lốm đốm, được xử lý bằng Smart HDR 5 để cân bằng vùng sáng và vùng tối"
+    "setting": "Địa điểm nhiệt đới hoặc ven biển ngoài trời",
+    "background": "Vỏ cây hoặc mặt đá có kết cấu với những mảng lá nhiệt đới xanh, thể hiện hiệu ứng bokeh tự nhiên",
+    "lighting": "Ánh sáng ban ngày tự nhiên rực rỡ, ánh nắng lốm đốm, được xử lý bằng Smart HDR 5 để cân bằng vùng sáng và vùng tối"
     },
     "technical_specifications": {
-      "device": "iPhone 17 Pro Max",
-      "camera": "Camera trước TrueDepth (hoặc kiểu hệ thống 48MP Fusion)",
-      "lens_details": "Tương đương 24mm, khẩu độ f/1.9",
-      "resolution": "48MP ProRAW / HEIF Max",
-      "processing": "Photonic Engine, Deep Fusion, Smart HDR 6",
-      "color_profile": "Phong cách chụp ảnh tiêu chuẩn với dải động cao",
-      "quality_tags": [
-        "Chi tiết khuôn mặt siêu mịn",
-        "Kết cấu da tự nhiên",
-        "Lấy nét sắc nét",
-        "Độ phân giải 8K",
-        "Kiệt tác nhiếp ảnh di động",
-        "Chụp bằng iPhone"
-      ]
+    "device": "iPhone 17 Pro Max",
+    "camera": "Camera trước TrueDepth (hoặc kiểu hệ thống 48MP Fusion)",
+    "lens_details": "Tương đương 24mm, khẩu độ f/1.9",
+    "resolution": "48MP ProRAW / HEIF Max",
+    "processing": "Photonic Engine, Deep Fusion, Smart HDR 6",
+    "color_profile": "Phong cách chụp ảnh tiêu chuẩn với dải động cao",
+    "quality_tags": [
+    "Chi tiết khuôn mặt siêu mịn",
+    "Kết cấu da tự nhiên",
+    "Lấy nét sắc nét",
+    "Độ phân giải 8K",
+    "Kiệt tác nhiếp ảnh di động",
+    "Chụp bằng iPhone"
+    ]
     }
-  }
-}
-```"
+    }
+    }
 
-61. chân dung theo phong cách Y2K grunge
+````"
+
+61.Chân dung theo phong cách Y2K grunge
 "```json
 {
   "image_analysis": {
@@ -511,39 +503,41 @@ Optical Realism: Rendered with ultra-realistic 8K cinematic quality, combining t
     }
   }
 }
-```
+````
+
 "
 
-62. selfie sexy gương theo phong cách 'IG Baddie' siêu thực
+62.Selfie sexy gương theo phong cách 'IG Baddie' siêu thực
 "```json
 {
-  "meta": {
-    "title": "Chân dung IG Baddie siêu thực 8K trong gương phòng tắm, đầu gối gập (Phiên bản tối thượng)",
-    "created_at": "2024-05-22T19:40:00Z",
-    "tags": [
-      "chân_dung",
-      "tự_sướng_gương",
-      "đèn_flash",
-      "thirst_trap",
-      "ig_baddie",
-      "phòng_tắm",
-      "ngồi_bàn",
-      "đầu_gối_gập",
-      "camera_điện_thoại"
-    ]
-  },
-  "prompt_data": {
-    "full_string": "Ảnh tự sướng trong gương **IG baddie trên bàn phòng tắm, đầu gối gập** siêu thực 8K, bật flash — giữ nguyên nhận dạng khuôn mặt của người phụ nữ. Bối cảnh: phòng tắm chật hẹp vào ban đêm với đèn trần tắt để **đèn flash điện thoại** chiếm ưu thế. Bàn lavabo, vòi nước mạ crôm và gạch ốp tường bừng sáng với những điểm nhấn chói lóa từ đèn flash.\n\nTư thế: cô ấy ngồi trên bàn phòng tắm nhưng với **một đầu gối gập lên bàn**, bàn chân đặt gần mép bồn rửa. Chân còn lại hơi buông thõng khỏi bàn hoặc tì vào tủ. Thân trên nghiêng 3/4, vai ngả ra sau, ngực ưỡn về phía trước, một tay cầm điện thoại, tay kia đặt lên đầu gối đang gập hoặc nhẹ nhàng trêu ghẹo dây hông. Ánh sáng flash làm cháy một phần ngực trên hoặc vai tạo hiệu ứng kịch tính kiểu IG.\n\nBiểu cảm: ánh nhìn tự tin kiểu IG-baddie hoặc môi hơi chu ra với vẻ ngây thơ nhưng tinh quái, lông mi bắt sáng từ đèn flash.\n\nTrang phục (chọn C hoặc D):\n(C) Bộ đồ micro cạp trễ với áo crop top khoét sâu + lộ viền áo ngực; quần short micro cạp siêu trễ với dây 0.25 inch mỏng kéo cao qua hông, dây được nhấn nhá bởi tư thế gập chân.\n(D) Bodysuit cổ chữ V khoét sâu, xẻ cao hai bên, viền hông tinh tế 0.25 inch; che phủ hoàn toàn và không xuyên thấu, đường viền cổ hẹp nhưng ổn định, không bị tuột.\n\nVải mỏng/thể thao và hơi bóng để đèn flash tạo ra những điểm sáng rực rỡ dọc theo ngực, hông, chân gập và mép bàn. Trang điểm: tự nhiên hoàn hảo với flash — da lì mịn, tạo khối nhẹ nhàng, ít highlight, chỉ kẻ mắt/mascara nhẹ, môi bóng có viền. Tóc: buộc đuôi ngựa rối / sóng lơi / thẳng mượt.\n\nPhòng tắm: hậu cảnh chủ yếu chìm trong bóng tối ngoại trừ gạch được chiếu sáng bằng flash, vòi nước lấp lánh, bồn rửa, mép gương và một vài vật dụng lộn xộn trên bàn. Gương có bụi, vết nước, dấu vân tay bắt sáng.\n\nBố cục: dọc 4:5, chủ thể được đóng khung trong gương phòng tắm, đầu gối gập chiếm ưu thế ở nửa dưới, cổ chữ V hoặc dây cạp trễ được làm nổi bật, ánh sáng flash che một phần khuôn mặt hoặc xương quai xanh. --ar 4:5 --style raw --v 6.0",
-    "components": {
-      "style": "Ảnh tự sướng trong gương phòng tắm siêu thực 8K với tư thế ngồi bàn gập đầu gối, flash mạnh, bóng tối sâu và những góc cơ thể IG baddie tối thượng",
-      "subject": {
-        "reference_instruction": "giữ nguyên nhận dạng khuôn mặt của người phụ nữ từ ảnh tham chiếu",
-        "pose": "ngồi trên bàn phòng tắm với **một đầu gối gập lên** về phía gương, bàn chân đặt ở mép bàn gần bồn rửa. Chân còn lại buông thõng hoặc tì vào. Thân trên nghiêng 3/4, vai ngả ra sau, một tay cầm điện thoại, tay còn lại"
-      }
-    }
-  }
+"meta": {
+"title": "Chân dung IG Baddie siêu thực 8K trong gương phòng tắm, đầu gối gập (Phiên bản tối thượng)",
+"created*at": "2024-05-22T19:40:00Z",
+"tags": [
+"chân_dung",
+"tự_sướng_gương",
+"đèn_flash",
+"thirst_trap",
+"ig_baddie",
+"phòng_tắm",
+"ngồi_bàn",
+"đầu_gối_gập",
+"camera*điện_thoại"
+]
+},
+"prompt_data": {
+"full_string": "Ảnh tự sướng trong gương **IG baddie trên bàn phòng tắm, đầu gối gập** siêu thực 8K, bật flash — giữ nguyên nhận dạng khuôn mặt của người phụ nữ. Bối cảnh: phòng tắm chật hẹp vào ban đêm với đèn trần tắt để **đèn flash điện thoại** chiếm ưu thế. Bàn lavabo, vòi nước mạ crôm và gạch ốp tường bừng sáng với những điểm nhấn chói lóa từ đèn flash.\n\nTư thế: cô ấy ngồi trên bàn phòng tắm nhưng với **một đầu gối gập lên bàn**, bàn chân đặt gần mép bồn rửa. Chân còn lại hơi buông thõng khỏi bàn hoặc tì vào tủ. Thân trên nghiêng 3/4, vai ngả ra sau, ngực ưỡn về phía trước, một tay cầm điện thoại, tay kia đặt lên đầu gối đang gập hoặc nhẹ nhàng trêu ghẹo dây hông. Ánh sáng flash làm cháy một phần ngực trên hoặc vai tạo hiệu ứng kịch tính kiểu IG.\n\nBiểu cảm: ánh nhìn tự tin kiểu IG-baddie hoặc môi hơi chu ra với vẻ ngây thơ nhưng tinh quái, lông mi bắt sáng từ đèn flash.\n\nTrang phục (chọn C hoặc D):\n(C) Bộ đồ micro cạp trễ với áo crop top khoét sâu + lộ viền áo ngực; quần short micro cạp siêu trễ với dây 0.25 inch mỏng kéo cao qua hông, dây được nhấn nhá bởi tư thế gập chân.\n(D) Bodysuit cổ chữ V khoét sâu, xẻ cao hai bên, viền hông tinh tế 0.25 inch; che phủ hoàn toàn và không xuyên thấu, đường viền cổ hẹp nhưng ổn định, không bị tuột.\n\nVải mỏng/thể thao và hơi bóng để đèn flash tạo ra những điểm sáng rực rỡ dọc theo ngực, hông, chân gập và mép bàn. Trang điểm: tự nhiên hoàn hảo với flash — da lì mịn, tạo khối nhẹ nhàng, ít highlight, chỉ kẻ mắt/mascara nhẹ, môi bóng có viền. Tóc: buộc đuôi ngựa rối / sóng lơi / thẳng mượt.\n\nPhòng tắm: hậu cảnh chủ yếu chìm trong bóng tối ngoại trừ gạch được chiếu sáng bằng flash, vòi nước lấp lánh, bồn rửa, mép gương và một vài vật dụng lộn xộn trên bàn. Gương có bụi, vết nước, dấu vân tay bắt sáng.\n\nBố cục: dọc 4:5, chủ thể được đóng khung trong gương phòng tắm, đầu gối gập chiếm ưu thế ở nửa dưới, cổ chữ V hoặc dây cạp trễ được làm nổi bật, ánh sáng flash che một phần khuôn mặt hoặc xương quai xanh. --ar 4:5 --style raw --v 6.0",
+"components": {
+"style": "Ảnh tự sướng trong gương phòng tắm siêu thực 8K với tư thế ngồi bàn gập đầu gối, flash mạnh, bóng tối sâu và những góc cơ thể IG baddie tối thượng",
+"subject": {
+"reference_instruction": "giữ nguyên nhận dạng khuôn mặt của người phụ nữ từ ảnh tham chiếu",
+"pose": "ngồi trên bàn phòng tắm với **một đầu gối gập lên** về phía gương, bàn chân đặt ở mép bàn gần bồn rửa. Chân còn lại buông thõng hoặc tì vào. Thân trên nghiêng 3/4, vai ngả ra sau, một tay cầm điện thoại, tay còn lại"
 }
-```"
+}
+}
+}
+
+````"
 
 63.Ảnh selfie với mèo
 "```json
@@ -653,9 +647,9 @@ Optical Realism: Rendered with ultra-realistic 8K cinematic quality, combining t
 "```json
 {
   "prompt": "Một phụ nữ trẻ đang đứng ngoài trời trên ban công bê tông cũ, quay lưng lại với máy ảnh. Tóc cô ấy búi cao lộn xộn và cô ấy nhẹ nhàng chạm vào cổ bằng cả hai tay. Cô ấy mặc một chiếc áo crop top dài tay màu kem với chi tiết ren tinh tế ở phía sau, kết hợp với quần jean denim xanh cạp cao ôm dáng. Môi trường xung quanh có cây xanh bên dưới, một cột bê tông lớn bên cạnh cô ấy, và ánh sáng tự nhiên dịu nhẹ tạo nên vẻ ấm áp, hơi mờ ảo. Cây cối và một tòa nhà hiện đại có thể nhìn thấy ở hậu cảnh mờ. Giữ nguyên tư thế, hình dáng cơ thể, kiểu tóc và phong cách quần áo. Thêm chữ ký sạch sẽ, phong cách '{argument name=\"signature text\" default=\"Vivek HY\"}' ở góc dưới bên phải của hình ảnh. Ánh sáng siêu thực, tông màu tự nhiên dịu nhẹ, không khí điện ảnh. Kết xuất ở độ phân giải 8K.",
-  
+
   "style": "Nhiếp ảnh ngoài trời tự nhiên, ánh sáng ban ngày dịu nhẹ, tông màu điện ảnh, siêu thực, chất lượng 8K",
-  
+
   "keywords": [
     "phụ nữ trẻ",
     "tư thế đứng",
@@ -694,7 +688,7 @@ Optical Realism: Rendered with ultra-realistic 8K cinematic quality, combining t
 }
 ```"
 
-68.Ảnh selfie kiểu instagram 
+68.Ảnh selfie kiểu instagram
 "```json
 {
   "prompt": "Một bức ảnh selfie qua gương cận cảnh, chất lượng cao của một phụ nữ trẻ với mái tóc đen dài, bồng bềnh, gợn sóng, nhìn hơi lệch khỏi camera. Cô ấy trang điểm chuyên nghiệp, đầy đủ với tông màu ấm, đất: son môi lì màu nâu nude, gò má được tạo khối và đánh má hồng, cùng với kiểu trang điểm mắt cầu kỳ với kẻ mắt cánh và phấn mắt màu nâu ấm. Cô ấy mặc một chiếc áo dài tay màu đen đơn giản. Đôi tay của cô ấy nổi bật, với móng tay được sơn màu đỏ sẫm/đỏ tía. Tay phải cô ấy đang cầm điện thoại, có một chiếc ốp lưng nổi bật, bắt mắt với hình minh họa rồng phong cách Trung Quốc màu xanh lam và trắng tươi sáng. Tay trái cô ấy nhẹ nhàng đặt lên má. Ánh sáng dịu nhẹ và tôn da, điển hình của một bức ảnh selfie trong nhà, có thể từ phòng tắm hoặc phòng ngủ, với một cánh cửa trắng đơn giản có thể nhìn thấy ở hậu cảnh. Tâm trạng toát lên vẻ sang trọng, sành điệu, tập trung vào vẻ đẹp và tính thẩm mỹ. Phong cách: Thẩm mỹ Instagram, nhiếp ảnh làm đẹp, lấy nét mềm.",
@@ -727,13 +721,13 @@ Optical Realism: Rendered with ultra-realistic 8K cinematic quality, combining t
 }
 ```"
 
-69.Ảnh cận cảnh chân dung dưới nước 
+69.Ảnh cận cảnh chân dung dưới nước
 "‘Chân dung cận cảnh siêu thực, cực kỳ chi tiết, chỉ hiển thị nửa mặt trái của tôi chìm trong nước, một mắt sắc nét, đặt ở rìa trái khung hình, tia sáng tạo ra các họa tiết khúc xạ trên da, những giọt nước và bong bóng lơ lửng tăng thêm chiều sâu, ánh sáng điện ảnh với bóng mềm và vùng sáng sắc nét, kết cấu chân thực bao gồm lỗ chân lông, môi ướt, lông mi và hiệu ứng tán xạ dưới bề mặt tinh tế, không khí siêu thực và mơ màng, độ sâu trường ảnh nông, góc nhìn macro dưới nước. Tỷ lệ khung hình 3:4’"
 
 70.Ảnh chân dung với tik tok
 "Chân dung một nhân vật đang ngồi thời trang, với đường viền và logo 3D màu trắng của [TikTok] ở hậu cảnh. Nền tối, ánh sáng điện ảnh, siêu thực. Tài khoản [TikTok]: '@john', có dấu tích xanh. Chú thích phải là "#Nano banana pro!""
 
-71.Ảnh chụp trong tàu điện ngầm 
+71.Ảnh chụp trong tàu điện ngầm
 "```json
 {
   "image_analysis": {
@@ -986,7 +980,7 @@ Create a visually intense scrapbook-journal composition, filled with affectionat
 
     "photography": {
       "style": "Y2K / ea"
-
+"
 75 . Ảnh trang điểm kiểu hàn quốc
 "Create a hyper-realistic portrait of a cute woman using my reference image. She is sitting with her chin resting on her hand at a dark wooden table in front of a vintage-style café.
 
@@ -1081,10 +1075,10 @@ The subject should appear bright and stand out clearly from the background."
   "constraints": "Without changing facial features; maintain natural appearance and expression"
 }"
 
-78.Ảnh chân dung mùa đông điện ảnh 
+78.Ảnh chân dung mùa đông điện ảnh
 "{
   "Objective": "Generate an ultra-realistic 8K cinematic full-size winter portrait of the subject sitting gracefully in the snowy landscapes of Jammu & Kashmir.",
-  
+
   "Identity_Safety": "Maintain facial features, hairstyle, and overall appearance consistent with the provided reference image.",
 
   "Subject": {
@@ -1146,10 +1140,10 @@ The subject should appear bright and stand out clearly from the background."
   }
 }"
 
-79. Ảnh gồm nhiều chú thích vẽ nguệch ngoạc trên hình 
+79. Ảnh gồm nhiều chú thích vẽ nguệch ngoạc trên hình
 "Tạo một hình ảnh, in ra, sau đó thêm ngẫu hứng các chú thích tiếng Trung viết tay, hình vẽ graffiti và nét nguệch ngoạc bằng mực đỏ. Nếu muốn, hãy lấy nội dung của tài khoản này; các hình vẽ nguệch ngoạc chủ yếu nên là những lời phàn nàn/châm biếm về anh ta, và bạn cũng có thể thêm một vài hình ảnh clip art nhỏ."
 
-80 Ảnh selfie góc rộng trên oto 
+80 Ảnh selfie góc rộng trên oto
 "{
   "scene": {
     "setting": "inside a car with a large panoramic sunroof",
@@ -1217,10 +1211,10 @@ The subject should appear bright and stand out clearly from the background."
 }
 "
 
-81.Chân dung thời trang gothic Loliata 
+81.Chân dung thời trang gothic Loliata
 "Ultra-detailed fashion portrait of a Korean teen girl in Gothic Lolita attire: cream long-sleeved fitted crew-neck top beneath a red-and-black plaid sweetheart-neckline lace-up bustier, matching tiered ruffled mini skirt, red wool French beret, black quilted chain-strap cross-body bag, brown platform combat boots. Shot at golden hour in a European cobblestone alley, low-angle three-quarter view, rule-of-thirds composition, soft back-light rimming her silhouette, gentle lens-flare, shallow depth of field with creamy bokeh, 50 mm prime lens, high-resolution film-look grain, rich saturated tartan tones, romantic vintage mood, structured feminine layers sharply defined, NOT casual, NOT monochrome, NOT minimalist"
 
-82.Ảnh kĩ thuật số 2000 
+82.Ảnh kĩ thuật số 2000
 "```json
 {
   "subject": {
@@ -1261,7 +1255,7 @@ The subject should appear bright and stand out clearly from the background."
 }
 ```"
 
-83.Chân dung người phụ nwux trong quán cafe châu âu 
+83.Chân dung người phụ nữ trong quán cafe châu âu
 "The same person, the same face, unaltered features. A medium shot, hyper-realistic, cinematographic, and professionally shot, of a captivating woman with fair skin, sleek, blond hair cascading over her shoulders, green eyes, and full lips painted with glossy red lipstick. Professional makeup with sharp details. She wears a tight, sheer black lace top and black velvet trousers, adorned with a delicate, shimmering gold heart pendant and matching thin gold earrings. A thin gold bracelet embellished with diamonds adorns her wrist. She sits at a wooden table in a café, her left hand on a silver laptop keyboard, a black sheet of paper in her right, gazing down with a serene expression. In front of her is a slice of sumptuous chocolate cake on a white plate and a glass of iced drink. In the background, a large window overlooks a grand building bearing the inscription "GRAND HOTEL ROSA," revealing the historic facade with its arched windows. Soft, natural light streams in from the window, creating a pleasant glow on the woman's face. The colors are warm, with an emphasis on shades of brown, black, and gold, and a shallow depth of field that focuses attention on the woman and what's in front of her.
 
 negative_prompt: Low quality, blurry, distracting, blurry image, inaccurate details, unnatural colors."
@@ -1329,9 +1323,9 @@ negative_prompt: Low quality, blurry, distracting, blurry image, inaccurate deta
 }"
 
 85.Bức ảnh dưới lên góc siêu rộng
-"Transform the original photo into a dramatic, photorealistic, ultra wide-angle shot with an extreme camera angle (including views from directly below or above), where one or more body parts are right next to the lens and look huge, the rest of the body recedes in perspective, and the same person strikes a stylish, complex, powerful pose in a consistent, expanded version of the original environment." 
+"Transform the original photo into a dramatic, photorealistic, ultra wide-angle shot with an extreme camera angle (including views from directly below or above), where one or more body parts are right next to the lens and look huge, the rest of the body recedes in perspective, and the same person strikes a stylish, complex, powerful pose in a consistent, expanded version of the original environment."
 
-86. Selfie trong thang máy 
+86. Selfie trong thang máy
 "{
       "image_parameters": {
         "style": "Smartphone mirror selfie",
@@ -1379,7 +1373,7 @@ negative_prompt: Low quality, blurry, distracting, blurry image, inaccurate deta
       }
     }"
 
-87.Ảnh chân dung influencer sang chảnh 
+87.Ảnh chân dung influencer sang chảnh
 "{
   "subject": {
     "type": "Young woman",
@@ -1428,16 +1422,16 @@ negative_prompt: Low quality, blurry, distracting, blurry image, inaccurate deta
   }
 }"
 
-88.Ảnh selfie gương thử đồ 
+88.Ảnh selfie gương thử đồ
 "A young female subject whose face must exactly match the reference image, preserving the face shape, eyebrows, eye structure, natural makeup style, lip shape and tone, hairline, and hairstyle, is taking a mirror selfie while squatting stylishly in a low squat with one knee bent forward, torso leaning slightly toward the mirror, head angled slightly downward, and eyes toward the phone screen. She holds a vertical smartphone with a clear transparent case in her right hand near her face for the mirror capture, while her left hand rests casually on her thigh, maintaining a neutral calm look with subtle softness. Her hair is styled in a half-up ponytail secured with a {argument name="hair clip type" default="pearl hair clip"}, smooth with a slight wave, and she wears an elegant {argument name="dress color" default="white"} satin midi dress with a side slit, featuring a glossy highlight texture, paired with nude block heels, silver earrings, a necklace, and rings. The scene is set indoors in a modern room with a glossy wooden laminate floor and a background of white curtains casting soft shadows, illuminated by warm soft indoor light providing even illumination that enhances the skin tone. The final output is an 8K photorealistic image captured in a mirror selfie aesthetic with soft neutral tones, high but natural sharpness, and an elegant, calm, feminine mood, framed full body centered in the 4:5 aspect ratio, using an eye-level reflection angle, with sharp focus on the face and soft room depth."
 
 89.Ảnh phụ nữ uống cafe
 "A realistic medium shot of a blonde woman sitting at a cafe table, wearing a grey knit zip-up sweater. She is holding a spoon and a white cup, smiling gently at the camera. Soft natural light from the left. Background: A banana duct-taped to a beige wall inside a frame. A silver handbag is on the table. High resolution, lifestyle photography style. --ar 3:4"
 
-90.Ảnh co gái nhật hầu gái 
+90.Ảnh co gái nhật hầu gái
 "A beautiful japanese young woman Navy blue and white Lolita dress with ornate baroque design and gold trim details. White puff sleeves with lace ruffles and navy ribbon ties. Navy blue bodice with gold embroidered motifs and lace-up front corset styling. White lace collar with decorative brooch detail. Navy blue full skirt with gold embroidered patterns and brocade fabric. White lace apron overlay with ruffled edges. Navy and white hair bow accessory with lace and ribbon details. Classic Lolita style with navy, white, and gold color palette. Baroque elegant aesthetic with ornate decorative elements. NOT casual wear, NOT minimalist design, NOT modern styling."
 
-91.Ảnh thám tử  phong cách noir ddienjej ảnh 
+91.Ảnh thám tử  phong cách noir ddienjej ảnh
 "High-contrast black and white portrait of {argument name="subject" default="[a detective in a trench coat]"}, cinematic style, deeply shadowed eyes, chiaroscuro lighting, strong single light source from the left, heavy film grain texture, analog photo, moody and dramatic, 35mm lens, 8K, ultra-detailed."
 
 92.Ảnh selfie cạnh xe oto
@@ -1446,28 +1440,28 @@ negative_prompt: Low quality, blurry, distracting, blurry image, inaccurate deta
     "description": "Young woman taking selfie next to chrome pink BMW i8, casual main character energy",
     "setting_rules": "street scene, luxury car, urban modern backdrop",
     "age": "early 20s",
-    
+
     "expression": {
       "eyes": "focused on phone screen, taking selfie, casual confidence",
       "mouth": "relaxed, soft, natural",
       "brows": "relaxed, effortless",
       "overall": "unbothered, 'just casually next to a pink supercar' energy"
     },
-    
+
     "hair": {
       "color": "platinum blonde",
       "style": "loose, flowing from under cap",
       "details": "messy-pretty, some pieces falling forward, effortless waves",
       "length": "medium-long, past shoulders"
     },
-    
+
     "body": {
       "frame": "petite, slim, toned",
       "waist": "tiny, fully exposed midriff",
       "legs": "toned, athletic, fully visible",
       "stance": "casual lean against car, weight shifted"
     },
-    
+
     "pose": {
       "position": "standing next to driver door of car, leaning slightly against it",
       "upper_body": {
@@ -1482,7 +1476,7 @@ negative_prompt: Low quality, blurry, distracting, blurry image, inaccurate deta
       },
       "overall": "the 'caught me with this random supercar' pose that's definitely not random"
     },
-    
+
     "clothing": {
       "top": {
         "type": "ultra cropped baby tee",
@@ -1512,7 +1506,7 @@ negative_prompt: Low quality, blurry, distracting, blurry image, inaccurate deta
         "effect": "completes sporty-cute look"
       }
     },
-    
+
     "face": {
       "features": "pretty, big eyes, small nose, soft lips",
       "makeup": "natural, minimal, fresh-faced",
@@ -1525,7 +1519,7 @@ negative_prompt: Low quality, blurry, distracting, blurry image, inaccurate deta
       "type": "baseball cap",
       "color": "BLACK",
       "style": "worn forward, classic",
-      "logo": "small pa"
+      "logo": "small pa"}
 "
 93.Selfie chân dung
 "{
@@ -1590,7 +1584,7 @@ negative_prompt: Low quality, blurry, distracting, blurry image, inaccurate deta
   }
 }"
 
-94.Chụp bằng iphone 
+94.Chụp bằng iphone
 "{
   "style": "hyper-realistic iPhone flash selfie, late-night bedroom vibe",
   "age_range": "21–24 years old",
@@ -1784,7 +1778,7 @@ no incorrect reflection alignment"
 ]
 }"
 
-98.Selfie tập gym 
+98.Selfie tập gym
 "{
   "image_prompt": {
     "subject": {
@@ -2180,7 +2174,7 @@ no incorrect reflection alignment"
 102.Influencer Thái Lan
 "Young woman with natural face (no edits), vintage-retro style. Long dark hair, fair skin, serious sensual expression. She's fixing her hair with her hand, wearing a light blue shirt with black edges. Background is a wall full of Thai celebrity posters and photos with a nostalgic vibe, warm natural lighting."
 
-103.Chân dung nam ở đô thị hiện đại 
+103.Chân dung nam ở đô thị hiện đại
 "Ultra-realistic indoor portrait. Stylish man walking confidently down a bright glass hallway with city views. Clean fade, short beard, pearl beaded necklace. Oversized abstract shirt in {argument name="shirt colors" default="blue/beige/white/black"} with sketch-style figures; loose beige knee-length shorts with hanging strap details. White sneakers with beige/brown accents. Hands in pockets, relaxed posture. Natural daylight, crisp soft shadows on glossy floor, cool urban editorial vibe"
 
 104.Ảnh chân dung đi đường phố với áo hoodie hồng
@@ -2248,7 +2242,7 @@ no incorrect reflection alignment"
 106.Chân dung siêu thực, thể hiện địa vị cao của một người đàn ông Trung Đông trong bối cảnh kiến trúc hùng vĩ.
 "{
   "Objective": "Generate a hyper-realistic luxury portrait of the subject in a grand architectural setting.",
-  
+
   "Identity_Safety": "Maintain facial features, hairstyle, beard, and overall appearance consistent with the provided reference image.",
 
   "Subject": {
@@ -2301,7 +2295,7 @@ no incorrect reflection alignment"
   }
 }"
 
-107.chân dung ngày lễ (cỡ trung) chân thực, trang nhã của một phụ nữ mặc áo cổ lọ và áo khoác đen,
+107.Chân dung ngày lễ (cỡ trung) chân thực, trang nhã của một phụ nữ mặc áo cổ lọ và áo khoác đen
 "{
   "image_prompt": {
     "face_requirements": {
@@ -2393,7 +2387,7 @@ no incorrect reflection alignment"
   }
 }"
 
-108.Chân dung Lễ hội Buổi tối'
+108.Chân dung đi Lễ hội Buổi tối
 "{
     "pipeline_sequence_v5": {
       "global_settings": {
@@ -2545,7 +2539,7 @@ no incorrect reflection alignment"
 111.Chân dung hồ sơ chân thực, điện ảnh và đầy tâm trạng của một phụ nữ trẻ đeo tai nghe Marshall
 "A moody, cinematic, and realistic candid profile portrait of a young woman with long brown hair, wearing black Marshall over-ear headphones. She has a contemplative gaze, looking off-camera to the right. Her attire includes a light grey crewneck sweater layered beneath a dark, open zip-up hoodie or jacket. The scene is dominated by rich, warm amber lighting, creating dramatic low-key contrast and deep shadows on her face and the surrounding environment. The composition features an extremely shallow depth of field, with sharp focus on the subject. The background is a dark, blurry street or indoor setting with indistinct warm bokeh lights. Intentional dark, out-of-focus elements occupy the foreground, enhancing the depth and low-key atmosphere. The overall feeling is one of introspection and isolation."
 
-112.Ai Girl friend
+112.AI Girl friend
 "cute, shy, sweet, long hair, big eyes, small nose, small mouth, anime style, high quality, 4k"
 
 113.chân dung chân thực như ảnh chụp của một người đàn ông trên một con phố Đông Á đông đúc vào ban đêm
@@ -2616,7 +2610,7 @@ Avoid: distorted anatomy, incorrect facial structure (must match reference), dou
   }
 } 1:1"
 
-115 Ảnh góc nhìn thứ nhất sông động trong tuyết 
+115 Ảnh góc nhìn thứ nhất sông động trong tuyết
 "A dynamic first-person perspective photo of a lovely young Asian woman lying on her back in thick snow, her face shown in the image I provided. She extends one hand, pointing forcefully at the camera, creating a perspective shortening effect. She wears fluffy pink knitted gloves, a light blue down jacket, and earmuffs. She winks playfully, her smile radiant. Snowflakes dance in the air. The background is a clear, azure sky and a pine tree. High saturation, bright sunlight, vibrant colors, shot using a GoPro and a 16mm wide-angle lens at high resolution."
 
 116.Bức chân dung 8K siêu thực của người dùng với độ khớp nhận diện khuôn mặt 100% so với ảnh tham chiếu
@@ -2665,10 +2659,10 @@ Avoid: distorted anatomy, incorrect facial structure (must match reference), dou
     "settings": "Aperture f/2.0, ISO 100, Shutter Speed 1/2500"
 }"
 
-119.Chân dung hầu gái 
+119.Chân dung hầu gái
 "cozy maid café or private bar counter at night. A young East Asian woman with long black hair in low twin tails, wearing fluffy gray wolf ears headband, white frilly off-shoulder maid blouse with black ribbon details and ultra-short black maid skirt with white lace trim, leaning forward over the wooden counter with both hands, looking back over her shoulder toward the camera with a playful expression. Background shows dimly lit shelves with bottles and glasses, warm hanging lamps creating bokeh, authentic cheap CCTV degradation, photorealistic-quality"
 
-120. Chân dung oto đêm mauw điện ảnh
+120. Chân dung oto đêm mưa điện ảnh
 "{
   "image_generation_prompt": {
     "subject": {
@@ -2697,7 +2691,7 @@ Avoid: distorted anatomy, incorrect facial structure (must match reference), dou
   }
 }"
 
-121.Chân dung thời trang siêu thực style sport 
+121.Chân dung thời trang siêu thực style sport
 "{
   "image_generation_task": {
     "metadata": {
@@ -2789,9 +2783,9 @@ Avoid: distorted anatomy, incorrect facial structure (must match reference), dou
       "aesthetic": "2000s paparazzi style, nightlife glamour, candid celebrity snapshot, high-resolution realism, sharp focus on the subject."
     }
   }
-}" 
+}"
 
-124 Ảnh thổi tuyết màu đông 
+124 Ảnh thổi tuyết mùa đông
 "{
   "Objective": "Create an ultra-realistic winter portrait of a young woman blowing snow toward the camera, with enhanced natural skin detail integrated smoothly into the prompt.",
 
@@ -2887,10 +2881,10 @@ Avoid: distorted anatomy, incorrect facial structure (must match reference), dou
   }
 }"
 
-125. Ảnh chuyển đổi góc siêu rộng ấn tượng 
+125. Ảnh chuyển đổi góc siêu rộng ấn tượng
 "Transform the original photo into a dramatic, photorealistic, ultra wide-angle shot with an extreme camera angle (including views from directly below or above), where one or more body parts are right next to the lens and look huge, the rest of the body recedes in perspective, and the same person strikes a stylish, complex, powerful pose in a consistent, expanded version of the original environment."
 
-126.Ảnh chân dung màu đông 
+126.Ảnh chân dung mùa đông
 "{
   "image_prompt": {
     "face_requirements": {
@@ -3007,7 +3001,7 @@ Avoid: distorted anatomy, incorrect facial structure (must match reference), dou
   "negative_prompt": "daylight, sun, bright sky, smooth, studio photo, cartoon, anime, 3d render, painting, bad anatomy, deformed limbs, blurry, low resolution."
 }"
 
-128.Selfie qua gương 
+128.Selfie qua gương
 "{
   "image_generation": {
     "face": {
@@ -3058,7 +3052,7 @@ Avoid: distorted anatomy, incorrect facial structure (must match reference), dou
   }
 }"
 
-129.Ảnh selfie quyến ẽo tgreen sofa
+129.Ảnh selfie quyến rũ trên sofa
 "{
   "metadata": {
     "type": "realistic_portrait_selfie",
@@ -3168,7 +3162,7 @@ Avoid: distorted anatomy, incorrect facial structure (must match reference), dou
   }
 }"
 
-131.Ảnh selfie gương 
+131.Ảnh selfie gương
 "{
   "image_generation": {
     "subject": {
@@ -3187,7 +3181,7 @@ Avoid: distorted anatomy, incorrect facial structure (must match reference), dou
       },
 
       "expression": "soft, slightly pouty expression with relaxed eyes",
-      
+
       "hair": {
         "style": "long wavy hair styled in a half-up half-down look with soft volume",
         "color": "dark brown"
@@ -3306,10 +3300,10 @@ Avoid: distorted anatomy, incorrect facial structure (must match reference), dou
   }
 }"
 
-133. Ảnh thể thao mạo hiểm kiểu gopro 
+133. Ảnh thể thao mạo hiểm kiểu gopro
 "A hyper-realistic GoPro-style selfie of {argument name="subject" default="this handsome man"}, wearing an orange jumpsuit and helmet. Wide-angle view from above showing mountains, a shining lake, and green valleys below. Wind-blown {argument name="subject detail" default="hair or fur"}, joyful expression, detailed harness, vibrant lighting, 8K extreme-sports photography."
 
-134. Ảnh chụp trên sân thượng hoàng hôn 
+134. Ảnh chụp trên sân thượng hoàng hôn
 "A person standing on a city rooftop during golden hour, warm sunlight wrapping around their face, subtle lens flare, wind brushing their hair, shallow depth of field, 35mm photography vibe, natural skin texture."
 
 135.Ảnh cô gái trẻ sành điệu xa hoa
@@ -3382,10 +3376,10 @@ Avoid: distorted anatomy, incorrect facial structure (must match reference), dou
 }
 }"
 
-136.Ảnh selfie siêu thực của cô gái trên giường 
+136.Ảnh selfie siêu thực của cô gái trên giường
 "Edit the photo in ultra-realistic 16K resolution. A young girl is taking a selfie inside a room. Her hair is long, layered ash brown, slightly messy at the top, falling forward naturally. She is wearing a black curly-strapped floral dress. Pose: She is lying face down on a blanket, with her right hand touching her lips, head tilted sideways, looking forward, appearing to be daydreaming. Her makeup is flawless, Korean-inspired with a modern touch: neatly shaped eyebrows, soft peach eyeshadow, thin eyeliner emphasizing her eyes, and soft gray contact lenses giving a captivating gaze. Her cheeks have a natural peach blush, and her lips are glossy, with a nude base lip color ombre'd into red, creating a soft yet striking contrast. The background is a cream marble wall. Photo is taken up-close at eye-level. Lighting: Cinematic and editorial, dim and dark to make the selfie look realistic. Retro purple contrast enhances skin glow. Photo captured with an iPhone 17 Pro Max. Do not alter her face in any way."
 
-137.Ảnh 9 biến thể 
+137.Ảnh 9 biến thể
 "Dựa trên một bức ảnh duy nhất của người phụ nữ này, hãy tạo tổng cộng 9 hình ảnh để sắp xếp thành lưới 3×3. Không tạo quá 9 hình ảnh.
 
 Tất cả các hình ảnh phải là bố cục từ ngang ngực trở lên (ngang ngực, cận cảnh hoặc khung chân dung). Không tạo các cảnh quay rộng, toàn thân, cảnh quay xa hoặc các bố cục có tầm nhìn xa rộng.
@@ -3484,7 +3478,7 @@ Lighting: cinematic winter lighting blend cool blue shadows + warm golden highli
 Camera: 8K, full-frame DSLR, 85mm lens, f/1.8, ISO 100, 1/200s
 Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus, natural skin texture"
 
-142.Ảnh chụp với ferrari 
+142.Ảnh chụp với ferrari
 "{
   "image_metadata": {
     "resolution": "1200x1200px",
@@ -3552,11 +3546,11 @@ Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus
   }
 }"
 
-143.Xác minh Id nhân vật với hộ chiếu 
+143.Xác minh Id nhân vật với hộ chiếu
 "Make the character in the image hold their passport while sitting in front of a computer, showing the ID clearly to the camera to prove they are a real person. The ID information should be clearly visible, with the name [NAME], the affiliation [YOUR DATA], and the birthday [YOUR DATE]. All other details can be random and fictional."
 
 
-144.Chân dung điện ảnh, siêu thực của một nhân vật cụ thể (nhà buôn nghệ thuật Cape Town) 
+144.Chân dung điện ảnh, siêu thực của một nhân vật cụ thể (nhà buôn nghệ thuật Cape Town)
 "{
   "my_prompt": {
     "core_style": "hyper-realistic cinematic portrait, 16K medium-format stillness",
@@ -3631,7 +3625,7 @@ Qua hình ảnh phản chiếu, môi trường trong bức tranh đơn giản v�
 
 Tông màu pastel mềm mại và ấm áp. Được chỉnh sửa theo phong cách “ánh sáng mềm Hàn Quốc”. Tỷ lệ khung hình dọc 9:16, độ nét cao, chất lượng cao. **Không thay đổi khuôn mặt."
 
-146. Ảnh chupj bikini quay lưng với gương
+146. Ảnh chụp bikini quay lưng với gương
 "{
   "template_id": "mirror_room_cheeky_v_bikini_synth_v1_compact",
   "version": "1.3.0",
@@ -3761,7 +3755,7 @@ Tông màu pastel mềm mại và ấm áp. Được chỉnh sửa theo phong c�
     "model": "indoor_daylight_mix",
     "prima"
 
-147.chân dung cận cảnh hiện đại, chân thực về một phụ nữ trẻ trong một cửa hàng băng đĩa
+147.Chân dung cận cảnh hiện đại, chân thực về một phụ nữ trẻ trong một cửa hàng băng đĩa
 "{
   "prompt": "A young Caucasian woman in her mid-20s stands centered in a cozy record store. She has brown hair with bangs and wears a black open-knit long-sleeve top over a black undershirt, paired with leopard-print pants. She accessorizes with a delicate silver necklace, silver earrings, and rings on her fingers. She poses naturally, looking directly at the viewer with a slight smile. The background shows rows of vinyl records, store shelves, posters, merchandise, and hanging pendant lights. Warm, indirect lighting from the lamps casts soft shadows. The image is captured as a medium shot with a shallow depth of field, focusing sharply on her while the background remains softly blurred. The style is modern and candid.",
   "style": "modern candid portrait",
@@ -3779,7 +3773,7 @@ Tông màu pastel mềm mại và ấm áp. Được chỉnh sửa theo phong c�
 "{
   "subject": {
     "description": "Young woman standing in an elegant indoor setting at night, turning her body slightly away from the camera while looking back over her shoulder. Her appearance matches the blonde glasses-character expressive eyes. No tattoos anywhere on the body. Her physique is noticeably fuller, curvier, and more dramatic in silhouette, closely matching the proportions seen in the reference image.",
-    
+
     "face": {
       "structure": "delicate jawline, soft cheekbones, small natural nose, smooth skin texture, gentle feminine proportions",
       "expression": "calm, confident, with a slightly curious or subtle soft smile expression while looking at the camera over her shoulder",
@@ -3847,3 +3841,4 @@ Tông màu pastel mềm mại và ấm áp. Được chỉnh sửa theo phong c�
     "fashion campaign imagery"
   ]
 }"
+````
