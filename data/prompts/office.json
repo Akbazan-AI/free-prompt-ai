@@ -1,0 +1,227 @@
+[
+  {
+    "id": "office-cong-viec-van-phong-0001",
+    "description": "Công việc đã hoàn thành:",
+    "prompt": "- [Nhiệm vụ 1]\r\n   - [Nhiệm vụ 2]",
+    "tags": [
+      "general"
+    ],
+    "category": "office"
+  },
+  {
+    "id": "office-cong-viec-van-phong-0002",
+    "description": "Kế hoạch tiếp theo: [Các bước tiếp theo]",
+    "prompt": "Tone: Chuyên nghiệp, súc tích, dựa trên dữ liệu thực tế.\r\n```\r\n\"\n\n### 5. Lập Kế Hoạch Dự Án\r\n```\r\nHãy tạo kế hoạch dự án chi tiết:\r\n- Tên dự án: [Tên]\r\n- Mục tiêu: [Mô tả mục tiêu]\r\n- Thời gian: [Ngày bắt đầu - Kết thúc]\r\n- Nguồn lực: [Nhân sự/Ngân sách]\r\n- Các giai đoạn chính:\r\n  2. [Giai đoạn 2] - [Thời gian] - [Sản phẩm đầu ra]\r\n\"\n- Rủi ro tiềm ẩn: [Liệt kê]\r\n- Tiêu chí đánh giá thành công: [KPIs]\r\nYêu cầu: Kế hoạch thực tế, có thể đo lường được.\r\n```\r\n\"\n\n### 6. Viết Biên Bản Họp\r\n```\r\nTạo biên bản họp với thông tin:\r\n- Tiêu đề cuộc họp: [Tên]\r\n- Thời gian: [Ngày giờ]\r\n- Địa điểm: [Địa điểm/Online]\r\n- Người tham dự: [Danh sách]\r\n- Chủ trì: [Tên]\r\n\r\nNội dung họp:",
+    "tags": [
+      "general"
+    ],
+    "category": "office"
+  },
+  {
+    "id": "office-cong-viec-van-phong-0003",
+    "description": "[Vấn đề 2 - Thảo luận - Quyết định]",
+    "prompt": "Nhiệm vụ sau họp:\r\n- [Người thực hiện] - [Công việc] - [Deadline]\r\nFormat: Chuyên nghiệp, rõ ràng, có chữ ký xác nhận.\r\n```\r\n\"\n\n### 7. Tạo Bản Trình Bày (Slide Content)\r\n```\r\nTạo nội dung cho bài thuyết trình về [Chủ đề]:\r\n- Số slide: [10-15 slides]\r\n- Đối tượng: [Đối tượng người nghe]\r\n- Thời gian trình bày: [Phút]\r\n\r\nCấu trúc:",
+    "tags": [
+      "general"
+    ],
+    "category": "office"
+  },
+  {
+    "id": "office-cong-viec-van-phong-0004",
+    "description": "Kết luận + Call to Action",
+    "prompt": "Mỗi slide bao gồm:\r\n- Tiêu đề ngắn gọn\r\n- 3-5 bullet points chính\r\n- Gợi ý hình ảnh/biểu đồ\r\n```\r\n\"\n\n### 8. Viết Mô Tả Công Việc (Job Description)\r\n```\r\nViết mô tả công việc cho vị trí:\r\n- Chức danh: [Tên vị trí]\r\n- Phòng ban: [Tên phòng ban]\r\n- Cấp bậc: [Junior/Senior/Manager...]\r\n- Địa điểm: [Nơi làm việc]\r\n\r\nNội dung bao gồm:",
+    "tags": [
+      "general"
+    ],
+    "category": "office"
+  },
+  {
+    "id": "office-cong-viec-van-phong-0005",
+    "description": "Yêu cầu công việc:",
+    "prompt": "- Học vấn\r\n   - Kinh nghiệm\r\n   - Kỹ năng chuyên môn\r\n   - Kỹ năng mềm",
+    "tags": [
+      "general"
+    ],
+    "category": "office"
+  },
+  {
+    "id": "office-cong-viec-van-phong-0006",
+    "description": "Cách thức ứng tuyển",
+    "prompt": "Tone: Hấp dẫn, chuyên nghiệp, rõ ràng.\r\n```\r\n\"\n\n### 9. Phản Hồi Khách Hàng\r\n```\r\nViết email phản hồi khách hàng về:\r\n- Tình huống: [Mô tả vấn đề/yêu cầu của khách]\r\n- Loại phản hồi: [Xin lỗi/Giải thích/Hướng dẫn/Từ chối lịch sự]\r\n- Giải pháp đề xuất: [Nếu có]\r\n- Tone: [Thân thiện/Chuyên nghiệp/Xin lỗi chân thành]\r\n\r\nCấu trúc:",
+    "tags": [
+      "general"
+    ],
+    "category": "office"
+  },
+  {
+    "id": "office-cong-viec-van-phong-0007",
+    "description": "Kết thúc lịch sự",
+    "prompt": "Yêu cầu: Empathy, giải quyết được vấn đề, giữ khách hàng.\r\n```\r\n\"\n\n### 10. Tạo Checklist Công Việc\r\n```\r\nTạo checklist chi tiết cho [Tên công việc/dự án]:\r\n- Mục tiêu: [Kết quả cần đạt]\r\n- Thời gian hoàn thành: [Deadline]\r\n- Ưu tiên: [High/Medium/Low cho từng task]\r\n\r\nFormat:\r\n□ [Tên task 1] - [Thời gian ước tính] - [Người phụ trách]\r\n□ [Tên task 2] - [Thời gian ước tính] - [Người phụ trách]\r\n...\r\n\r\nNhóm các task theo:",
+    "tags": [
+      "general"
+    ],
+    "category": "office"
+  },
+  {
+    "id": "office-cong-viec-van-phong-0008",
+    "description": "Hoàn thiện",
+    "prompt": "Yêu cầu: Đầy đủ, logic, có thể đánh dấu hoàn thành từng mục.\r\n```\r\n\"\n\n### 11. Viết Thông Báo Nội Bộ\r\n```\r\nViết thông báo nội bộ về [Chủ đề]:\r\n- Đối tượng: [Toàn công ty/Phòng ban cụ thể]\r\n- Mức độ quan trọng: [Thông thường/Quan trọng/Khẩn cấp]\r\n- Có hiệu lực từ: [Ngày]\r\n\r\nCấu trúc:",
+    "tags": [
+      "general"
+    ],
+    "category": "office"
+  },
+  {
+    "id": "office-cong-viec-van-phong-0009",
+    "description": "Nội dung chính:",
+    "prompt": "- Thông tin cần thông báo\r\n   - Lý do (nếu cần)\r\n   - Ảnh hưởng đến nhân viên",
+    "tags": [
+      "general"
+    ],
+    "category": "office"
+  },
+  {
+    "id": "office-cong-viec-van-phong-0010",
+    "description": "Chữ ký: [Ban lãnh đạo/Phòng ban]",
+    "prompt": "Tone: Rõ ràng, dễ hiểu, có tính thuyết phục.\r\n```\r\n\"\n\n### 12. Phân Tích SWOT\r\n```\r\nThực hiện phân tích SWOT cho [Sản phẩm/Dự án/Công ty]:",
+    "tags": [
+      "general"
+    ],
+    "category": "office"
+  },
+  {
+    "id": "office-cong-viec-van-phong-0011",
+    "description": "Strengths (Điểm mạnh):",
+    "prompt": "- [Liệt kê 4-6 điểm mạnh nội bộ]",
+    "tags": [
+      "general"
+    ],
+    "category": "office"
+  },
+  {
+    "id": "office-cong-viec-van-phong-0012",
+    "description": "Weaknesses (Điểm yếu):",
+    "prompt": "- [Liệt kê 4-6 điểm yếu cần cải thiện]",
+    "tags": [
+      "general"
+    ],
+    "category": "office"
+  },
+  {
+    "id": "office-cong-viec-van-phong-0013",
+    "description": "Opportunities (Cơ hội):",
+    "prompt": "- [Liệt kê 4-6 cơ hội từ bên ngoài]",
+    "tags": [
+      "general"
+    ],
+    "category": "office"
+  },
+  {
+    "id": "office-cong-viec-van-phong-0014",
+    "description": "Threats (Thách thức):",
+    "prompt": "- [Liệt kê 4-6 rủi ro/thách thức]\r\nSau đó đề xuất 3-5 chiến lược dựa trên phân tích:\r\n- Tận dụng điểm mạnh để khai thác cơ hội\r\n- Khắc phục điểm yếu để giảm thiểu rủi ro\r\n```\r\n\"\n\n### 13. Tạo FAQ (Câu Hỏi Thường Gặp)\r\n```\r\nTạo danh sách FAQ về [Sản phẩm/Dịch vụ/Quy trình]:\r\n- Số lượng: [10-15 câu hỏi]\r\n- Đối tượng: [Khách hàng/Nhân viên mới/Partner...]\r\n\r\nFormat cho mỗi câu:\r\n**Q: [Câu hỏi ngắn gọn, trực tiếp]**\r\nA: [Câu trả lời rõ ràng, 2-4 câu, có ví dụ nếu cần]\r\n\r\nNhóm theo chủ đề:",
+    "tags": [
+      "general"
+    ],
+    "category": "office"
+  },
+  {
+    "id": "office-cong-viec-van-phong-0015",
+    "description": "Hỗ trợ/Liên hệ (2-3 câu)",
+    "prompt": "Tone: Thân thiện, dễ hiểu, giải quyết được thắc mắc.\r\n```\r\n\"\n\n### 14. Viết Quy Trình Làm Việc (SOP)\r\n```\r\nViết quy trình chuẩn cho công việc [Tên công việc]:\r\n- Mục đích: [Tại sao cần quy trình này]\r\n- Phạm vi áp dụng: [Ai sử dụng, khi nào]\r\n- Người phê duyệt: [Tên/Chức vụ]\r\n\r\nCác bước thực hiện:\r\nBước 1: [Tên bước]\r\n- Mô tả chi tiết\r\n- Công cụ cần dùng\r\n- Thời gian ước tính\r\n- Output/Kết quả\r\n\r\nBước 2: [Tên bước]\r\n...\r\n\r\nLưu ý quan trọng:\r\n- [Những điều cần chú ý]\r\n- [Lỗi thường gặp và cách xử lý]\r\n\r\nChecklist cuối:\r\n□ [Tiêu chí 1 đã đạt]\r\n□ [Tiêu chí 2 đã đạt]\r\n```\r\n\r\n### 15. Tạo Template Excel với Công Thức\r\n```\r\nTạo cấu trúc bảng Excel cho [Mục đích]:\r\n- Số cột: [Danh sách các cột]\r\n- Công thức cần dùng: [SUM/AVERAGE/VLOOKUP/IF...]\r\n- Định dạng: [Số/Ngày/Phần trăm/Tiền tệ]\r\n\r\nCấu trúc:\r\nRow 1: Header [Tên các cột]\r\nRow 2-50: Dữ liệu nhập\r\nRow 51: Tổng kết/Summary\r\n\r\nCông thức chi tiết:\r\n- Cell [A51]: =SUM(A2:A50)\r\n- Cell [B51]: =AVERAGE(B2:B50)\r\n...\r\n\r\nYêu cầu: Giải thích từng công thức, hướng dẫn sử dụng.\r\n```\r\n\r\n---\r\n\r\n## Mẹo Tối Ưu Prompt\r\n\r\n### 1. Làm rõ Context (Ngữ cảnh)\r\n- Ngành nghề gì?\r\n- Đối tượng nhận là ai?\r\n- Mục đích sử dụng?\r\n\r\n### 2. Xác định Output (Kết quả mong muốn)\r\n- Format: Email/Báo cáo/Bảng/Checklist?\r\n- Độ dài: Ngắn gọn hay chi tiết?\r\n- Tone: Chuyên nghiệp/Thân thiện/Trang trọng?\r\n\r\n### 3. Bổ sung Thông Tin Cụ Thể\r\nThay các [placeholder] bằng dữ liệu thực tế của bạn\r\n\r\n### 4. Yêu Cầu Cấu Trúc Rõ Ràng\r\n- Đánh số thứ tự\r\n- Bullet points\r\n- Bảng biểu\r\n- Phần tóm tắt cuối\r\n\r\n### 5. Review và Điều Chỉnh\r\nSau khi AI tạo nội dung:\r\n- Kiểm tra tính chính xác\r\n- Bổ sung chi tiết riêng\r\n- Điều chỉnh tone cho phù hợp\r\n- Thêm branding công ty\r\n\r\n---\r\n\r\n## Công Thức Prompt Vạn Năng\r\n\r\n```\r\n[ROLE]: Bạn là [chuyên gia về lĩnh vực X]\r\n\r\n[TASK]: Hãy [tạo/viết/phân tích] [loại tài liệu]\r\n\r\n[CONTEXT]: \r\n- Mục đích: [...]\r\n- Đối tượng: [...]\r\n- Yêu cầu: [...]\r\n\r\n[FORMAT]: Kết quả theo format [...]\r\n\r\n[CONSTRAINT]: \r\n- Độ dài: [...]\r\n- Tone: [...]\r\n- Deadline: [...]\r\n\r\n[EXAMPLE]: (Nếu có) Ví dụ tham khảo: [...]\r\n```\r\n\r\n---\r\n\r\n## Lưu Ý Khi Sử Dụng\r\n\r\n✅ **NÊN:**\r\n- Cung cấp thông tin đầy đủ\r\n- Xem AI như trợ lý, review lại kết quả\r\n- Lưu lại prompt hiệu quả để tái sử dụng\r\n- Điều chỉnh prompt nếu kết quả chưa đạt\r\n\r\n❌ **KHÔNG NÊN:**\r\n- Copy 100% không kiểm tra\r\n- Dùng thông tin nhạy cảm/mật\r\n- Mong đợi AI hiểu ngầm mọi thứ\r\n- Bỏ qua việc customize cho context riêng\r\n\r\n---\r\n\r\n**Ghi chú:** Các prompt trên là template linh hoạt. Hãy điều chỉnh cho phù hợp với công việc, ngành nghề và phong cách làm việc của bạn.",
+    "tags": [
+      "general"
+    ],
+    "category": "office"
+  },
+  {
+    "id": "office-meo-toi-uu-prompt-office-0001",
+    "description": "Closing: [lịch sự + chữ ký]",
+    "prompt": "---\r\n\r\n## 4️⃣ ĐỘ DÀI — Công thức chọn độ dài chuẩn\r\n\r\n✔️ **Bảng tham khảo:**\r\n\r\n| Loại tài liệu | Độ dài lý tưởng |\r\n|---------------|-----------------|\r\n| **Email thông thường** | 50-150 từ (3-5 câu mỗi đoạn) |\r\n| **Email quan trọng** | 150-300 từ (3-4 đoạn) |\r\n| **Báo cáo ngắn** | 300-500 từ |\r\n| **Báo cáo đầy đủ** | 800-1500 từ |\r\n| **Tóm tắt** | 100-200 từ hoặc 5-7 bullet points |\r\n| **Meeting minutes** | 200-400 từ |\r\n\r\n🎯 **Mẹo:**\r\nThêm vào prompt:\r\n- **Ngắn gọn:** \"concise, under 100 words\"\r\n- **Trung bình:** \"around 200-300 words\"\r\n- **Chi tiết:** \"comprehensive, 500+ words\"\r\n\r\n---\r\n\r\n## 5️⃣ THÔNG TIN CỤ THỂ — Quyết định 80% chất lượng output\r\n\r\n✔️ **Checklist thông tin cần có:**\r\n\r\n**Cho Email:**\r\n- [ ] Người nhận (vai trò, mối quan hệ)\r\n- [ ] Mục đích gửi email\r\n- [ ] Background context (nếu cần)\r\n- [ ] Hành động mong muốn\r\n- [ ] Deadline (nếu có)\r\n\r\n**Cho Báo cáo:**\r\n- [ ] Thời gian báo cáo (tuần/tháng/quý)\r\n- [ ] Dữ liệu số liệu cụ thể\r\n- [ ] KPI/metrics liên quan\r\n- [ ] Vấn đề nổi bật\r\n- [ ] Hành động tiếp theo\r\n\r\n**Cho Presentation:**\r\n- [ ] Đối tượng người nghe\r\n- [ ] Thời lượng\r\n- [ ] Mục tiêu cuối (inform/persuade/decide)\r\n- [ ] Key messages (2-3 ý chính)\r\n\r\n🎯 **Mẹo:**\r\nCàng nhiều context → AI càng hiểu đúng ý bạn\r\n👉 **\"Thêm bối cảnh thật cụ thể\"**\r\n\r\nThay vì: \"Viết email cho khách hàng\"\r\nNên: \"Viết email xin lỗi khách hàng VIP vì giao hàng trễ 3 ngày, đề xuất giảm 15% hóa đơn\"\r\n\r\n---\r\n\r\n## 6️⃣ NGÔN NGỮ & PHONG CÁCH — Tùy chỉnh theo văn hóa công ty\r\n\r\n✔️ **Các yếu tố cần lưu ý:**\r\n\r\n**Person (Ngôi):**\r\n- **First person (Tôi/Chúng tôi):** Email cá nhân, informal\r\n- **Third person:** Báo cáo, formal document\r\n\r\n**Tense (Thì):**\r\n- **Quá khứ:** Báo cáo công việc đã làm\r\n- **Hiện tại:** Mô tả quy trình, SOP\r\n- **Tương lai:** Kế hoạch, proposal\r\n\r\n**Độ chuyên nghiệp:**\r\n| Mức độ | Style | Ví dụ |\r\n|--------|-------|-------|\r\n| **Rất formal** | No contractions, passive voice | \"It is recommended that...\" |\r\n| **Formal** | Clear, direct, professional | \"We recommend...\" |\r\n| **Business casual** | Friendly but professional | \"Here's what we suggest...\" |\r\n| **Casual** | Conversational | \"Let's try this...\" |\r\n\r\n🎯 **Mẹo:**\r\nThêm vào cuối prompt:\r\n👉 **\"Match the writing style commonly used in [loại công ty] environment\"**\r\n\r\n---\r\n\r\n## 7️⃣ CALL-TO-ACTION — Luôn kết thúc rõ ràng\r\n\r\n✔️ **Các loại CTA phổ biến:**\r\n\r\n**Cho Email:**\r\n- \"Please confirm by [date]\"\r\n- \"Let me know if you have questions\"\r\n- \"Looking forward to your feedback\"\r\n- \"Please review and approve by EOD\"\r\n\r\n**Cho Báo cáo:**\r\n- \"Recommend immediate action on...\"\r\n- \"Proposed next steps are...\"\r\n- \"Awaiting decision on...\"\r\n\r\n**Cho Meeting:**\r\n- \"Action items assigned to [name]\"\r\n- \"Follow-up meeting scheduled for...\"\r\n- \"Deadline: [date]\"\r\n\r\n🎯 **Mẹo:**\r\nLuôn có 1 trong 3:",
+    "tags": [
+      "general"
+    ],
+    "category": "office"
+  },
+  {
+    "id": "office-meo-toi-uu-prompt-office-0002",
+    "description": "Next step tiếp theo",
+    "prompt": "---\r\n\"\n\n## 🎯 COMBO PROMPT VẠN NĂNG CHO OFFICE\r\n\r\n### **Template Tối Ưu:**\r\n\r\n```\r\n[1. LOẠI TÀI LIỆU] \r\nCreate a [type] about [topic]\r\n\r\n[2. ĐỐI TƯỢNG & TONE]\r\nFor [audience], using [tone] tone\r\n\r\n[3. MỤC ĐÍCH CỤ THỂ]\r\nPurpose: [specific goal]\r\n\r\n[4. CẤU TRÚC]\r\nStructure:\r\n- Part 1: [...]\r\n- Part 2: [...]\r\n- Part 3: [...]\r\n\r\n[5. THÔNG TIN CỤ THỂ]\r\nKey details:\r\n- [Detail 1]\r\n- [Detail 2]\r\n- [Detail 3]\r\n\r\n[6. ĐỘ DÀI & STYLE]\r\nLength: [word count]\r\nStyle: [specific style preferences]\r\n\r\n[7. OUTPUT FORMAT]\r\nFormat: [email/table/bullets/paragraphs]\r\n\r\n[8. CALL-TO-ACTION]\r\nEnd with: [specific CTA]\r\n```\r\n\r\n---\r\n\r\n## 📋 CHECKLIST TRƯỚC KHI GỬI PROMPT\r\n\r\nĐã điền đủ:\r\n- [ ] Loại tài liệu cần tạo\r\n- [ ] Đối tượng nhận/đọc\r\n- [ ] Mục đích cụ thể\r\n- [ ] Cấu trúc mong muốn\r\n- [ ] Tone/style phù hợp\r\n- [ ] Độ dài ước tính\r\n- [ ] Thông tin cụ thể (số liệu, ngày tháng, tên...)\r\n- [ ] Deadline hoặc next step\r\n\r\n---\r\n\r\n## ⚡ MẸO NÂNG CAO\r\n\r\n### **1. Dùng Examples (Ví dụ tham khảo)**\r\nThêm vào prompt:\r\n```\r\n\"Similar to this example:\r\n[paste example text]\r\n\r\nBut adjust for [your specific context]\"\r\n\n```\r\n\r\n### **2. Iterative Refinement (Tinh chỉnh dần)**\r\nLần 1: Tạo draft cơ bản\r\nLần 2: \"Make it more [formal/concise/detailed]\"\r\nLần 3: \"Add [specific element]\"\r\n\r\n### **3. Role-playing (Đóng vai)**\r\n```\r\n\"You are a senior executive assistant with 10 years experience.\r\nWrite this email as you would for your CEO.\"\r\n\n```\r\n\r\n### **4. Constraints (Ràng buộc)**\r\n```\r\n\"Requirements:\r\n- Must not exceed 200 words\r\n- Must include at least 2 data points\r\n- Avoid jargon\r\n- Use active voice only\"\r\n\n```\r\n\r\n### **5. Multi-format Output**\r\n```\r\n\"Provide 3 versions:",
+    "tags": [
+      "general"
+    ],
+    "category": "office"
+  },
+  {
+    "id": "office-meo-toi-uu-prompt-office-0003",
+    "description": "Detailed version (300 words)",
+    "prompt": "---\r\n\r\n## ❌ SAI LẦM THƯỜNG GẶP\r\n\r\n| Sai lầm | Hậu quả | Cách sửa |\r\n|---------|---------|----------|\r\n| Prompt quá chung chung | Output generic, không dùng được | Thêm context cụ thể |\r\n| Không nói rõ tone | Tone không phù hợp | Chỉ định audience & tone |\r\n| Thiếu cấu trúc | Output bừa bãi | Đưa outline sẵn |\r\n| Không review | Sai sót, không tự nhiên | Luôn đọc lại & edit |\r\n| Copy 100% | Mất cá nhân hóa | Customize 20-30% |\r\n\r\n---\r\n\r\n## ✅ WORKFLOW LÝ TƯỞNG",
+    "tags": [
+      "general"
+    ],
+    "category": "office"
+  },
+  {
+    "id": "office-meo-toi-uu-prompt-office-0004",
+    "description": "Xác định loại tài liệu + mục đích",
+    "prompt": "↓",
+    "tags": [
+      "general"
+    ],
+    "category": "office"
+  },
+  {
+    "id": "office-meo-toi-uu-prompt-office-0005",
+    "description": "Chọn template prompt phù hợp",
+    "prompt": "↓",
+    "tags": [
+      "general"
+    ],
+    "category": "office"
+  },
+  {
+    "id": "office-meo-toi-uu-prompt-office-0006",
+    "description": "Điền thông tin cụ thể vào [placeholders]",
+    "prompt": "↓",
+    "tags": [
+      "general"
+    ],
+    "category": "office"
+  },
+  {
+    "id": "office-meo-toi-uu-prompt-office-0007",
+    "description": "Gửi prompt → Nhận output",
+    "prompt": "↓",
+    "tags": [
+      "general"
+    ],
+    "category": "office"
+  },
+  {
+    "id": "office-meo-toi-uu-prompt-office-0008",
+    "description": "Review & customize (sửa 20-30%)",
+    "prompt": "↓",
+    "tags": [
+      "general"
+    ],
+    "category": "office"
+  },
+  {
+    "id": "office-meo-toi-uu-prompt-office-0009",
+    "description": "Lưu lại prompt hiệu quả để tái sử dụng",
+    "prompt": "---\r\n\"\n\n## 🎁 BONUS: LIBRARY PROMPT NHANH\r\n\r\n### **Email xin lỗi:**\r\n```\r\nWrite a sincere apology email to [client] for [issue].\r\nTone: professional yet empathetic.\r\nInclude: acknowledgment of issue, explanation (brief), solution offered, timeline.\r\nLength: ~150 words.\r\n```\r\n\r\n### **Meeting summary:**\r\n```\r\nSummarize this meeting transcript:\r\n[paste transcript]\r\n\r\nFormat:\r\n- Key decisions (3-5 points)\r\n- Action items (name + task + deadline)\r\n- Next meeting: date\r\n```\r\n\r\n### **Data analysis:**\r\n```\r\nAnalyze this data: [paste data]\r\nProvide:",
+    "tags": [
+      "general"
+    ],
+    "category": "office"
+  },
+  {
+    "id": "office-meo-toi-uu-prompt-office-0010",
+    "description": "2 recommendations",
+    "prompt": "Format: table + brief explanation\r\n```\r\n---\r\n**Lưu ý cuối:** Prompt tốt = Rõ ràng + Đủ context + Cấu trúc + Có ví dụ\r\nHãy thử, điều chỉnh, và lưu lại những prompt hiệu quả nhất cho bạn! 🚀",
+    "tags": [
+      "general"
+    ],
+    "category": "office"
+  }
+]
