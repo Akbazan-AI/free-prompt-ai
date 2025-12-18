@@ -26,8 +26,16 @@ async function main() {
     savePromptsToJSON(officePrompts, officeOutputPath);
     console.log(`✅ Saved ${officePrompts.length} office prompts to ${officeOutputPath}\n`);
 
+    // Parse assistant prompts
+    console.log('🤖 Parsing assistant prompts...');
+    const assistantPath = path.join(process.cwd(), 'prompt/assistant');
+    const assistantPrompts = await parseDirectory(assistantPath, 'assistant');
+    const assistantOutputPath = path.join(process.cwd(), 'data/prompts/assistant.json');
+    savePromptsToJSON(assistantPrompts, assistantOutputPath);
+    console.log(`✅ Saved ${assistantPrompts.length} assistant prompts to ${assistantOutputPath}\n`);
+
     // Save all prompts combined
-    const allPrompts = [...imagePrompts, ...officePrompts];
+    const allPrompts = [...imagePrompts, ...officePrompts, ...assistantPrompts];
     const allOutputPath = path.join(process.cwd(), 'data/prompts/all.json');
     savePromptsToJSON(allPrompts, allOutputPath);
     console.log(`✅ Saved ${allPrompts.length} total prompts to ${allOutputPath}\n`);

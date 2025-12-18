@@ -1,22 +1,77 @@
 import fs from "fs";
 import path from "path";
-import { Prompt, ParsedMarkdown } from "./types";
+import { Prompt, ParsedMarkdown, PromptCategory } from "./types";
+
+// Parse YAML frontmatter from markdown
+interface Frontmatter {
+  id?: string;
+  description?: string;
+  category?: PromptCategory;
+  tags?: string[];
+  date?: string;
+  author?: string;
+  image?: string;
+}
+
+function parseFrontmatter(content: string): { frontmatter: Frontmatter | null; body: string } {
+  const frontmatterRegex = /^---\s*\n([\s\S]*?)\n---\s*\n/;
+  const match = content.match(frontmatterRegex);
+
+  if (!match) {
+    return { frontmatter: null, body: content };
+  }
+
+  const frontmatterStr = match[1];
+  const body = content.slice(match[0].length);
+
+  // Simple YAML parsing (no external deps)
+  const frontmatter: Frontmatter = {};
+  const lines = frontmatterStr.split('\n');
+
+  for (const line of lines) {
+    const colonIdx = line.indexOf(':');
+    if (colonIdx === -1) continue;
+
+    const key = line.slice(0, colonIdx).trim();
+    let value = line.slice(colonIdx + 1).trim();
+
+    // Handle arrays [item1, item2]
+    if (value.startsWith('[') && value.endsWith(']')) {
+      const arrayContent = value.slice(1, -1);
+      (frontmatter as any)[key] = arrayContent
+        .split(',')
+        .map(s => s.trim().replace(/^["']|["']$/g, ''));
+    } else {
+      // Remove quotes if present
+      value = value.replace(/^["']|["']$/g, '');
+      (frontmatter as any)[key] = value;
+    }
+  }
+
+  return { frontmatter, body };
+}
 
 export function parseMarkdownToPrompts(
   content: string,
-  category: "image" | "office",
+  category: PromptCategory,
   fileNamePrefix: string = ""
 ): ParsedMarkdown {
+  // Parse frontmatter first
+  const { frontmatter, body: contentBody } = parseFrontmatter(content);
+
+  // Use frontmatter category if available
+  const effectiveCategory = frontmatter?.category || category;
+
   const prompts: Prompt[] = [];
 
   // Work on the content after the prompt list header to avoid instructions.
   const marker = /##\s*danh sách prompts/i;
-  const markerMatch = content.match(marker);
+  const markerMatch = contentBody.match(marker);
   const startPos = markerMatch
-    ? content.toLowerCase().indexOf(markerMatch[0].toLowerCase()) +
+    ? contentBody.toLowerCase().indexOf(markerMatch[0].toLowerCase()) +
       markerMatch[0].length
     : 0;
-  const body = content.slice(startPos);
+  const body = contentBody.slice(startPos);
 
   const normalizePromptText = (text: string) => {
     let cleaned = text.trim();
@@ -58,7 +113,7 @@ export function parseMarkdownToPrompts(
     promptCounter += 1;
 
     prompts.push({
-      id: `${category}-${fileNamePrefix}-${String(promptCounter).padStart(
+      id: `${effectiveCategory}-${fileNamePrefix}-${String(promptCounter).padStart(
         4,
         "0"
       )}`,
@@ -66,7 +121,10 @@ export function parseMarkdownToPrompts(
       description: "",
       prompt: promptText,
       tags,
-      category,
+      category: effectiveCategory,
+      date: frontmatter?.date,
+      author: frontmatter?.author || 'AI TEAM',
+      image: frontmatter?.image,
     });
   };
 
@@ -122,7 +180,7 @@ export function parseMarkdownToPrompts(
     prompts,
     metadata: {
       totalCount: prompts.length,
-      category,
+      category: effectiveCategory,
       parsedAt: new Date().toISOString(),
     },
   };
@@ -170,7 +228,7 @@ function extractTags(title: string): string[] {
 
 export async function parseDirectory(
   dirPath: string,
-  category: "image" | "office"
+  category: PromptCategory
 ): Promise<Prompt[]> {
   const allPrompts: Prompt[] = [];
 

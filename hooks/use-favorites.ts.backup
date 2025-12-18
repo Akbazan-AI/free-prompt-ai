@@ -1,0 +1,132 @@
+'use client';
+
+import { useState, useEffect, useCallback, useSyncExternalStore } from 'react';
+
+const STORAGE_KEY = 'prompt-favorites-v1';
+
+// Storage error types
+interface StorageError {
+  type: 'quota-exceeded' | 'disabled' | 'unknown';
+  message: string;
+}
+
+// Check if localStorage is available
+function isStorageAvailable(): boolean {
+  try {
+    const test = '__storage_test__';
+    localStorage.setItem(test, test);
+    localStorage.removeItem(test);
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+// Get favorites from storage
+function getFavoritesSnapshot(): string[] {
+  if (typeof window === 'undefined') return [];
+
+  try {
+    const stored = localStorage.getItem(STORAGE_KEY);
+    return stored ? JSON.parse(stored) : [];
+  } catch {
+    return [];
+  }
+}
+
+// Subscribe to storage changes (for cross-tab sync)
+function subscribeToStorage(callback: () => void): () => void {
+  if (typeof window === 'undefined') return () => {};
+
+  const handleStorage = (e: StorageEvent) => {
+    if (e.key === STORAGE_KEY) {
+      callback();
+    }
+  };
+
+  window.addEventListener('storage', handleStorage);
+  return () => window.removeEventListener('storage', handleStorage);
+}
+
+// Server snapshot (SSR)
+function getServerSnapshot(): string[] {
+  return [];
+}
+
+export interface UseFavoritesResult {
+  favorites: string[];
+  toggleFavorite: (id: string) => void;
+  isFavorite: (id: string) => boolean;
+  clearFavorites: () => void;
+  count: number;
+  error: StorageError | null;
+}
+
+export function useFavorites(): UseFavoritesResult {
+  const [error, setError] = useState<StorageError | null>(null);
+
+  // Cross-tab sync using useSyncExternalStore
+  const favorites = useSyncExternalStore(
+    subscribeToStorage,
+    getFavoritesSnapshot,
+    getServerSnapshot
+  );
+
+  // Check storage availability on mount
+  useEffect(() => {
+    if (!isStorageAvailable()) {
+      setError({ type: 'disabled', message: 'LocalStorage is not available' });
+    }
+  }, []);
+
+  const saveFavorites = useCallback((newFavorites: string[]) => {
+    try {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(newFavorites));
+      // Dispatch storage event for same-tab updates
+      window.dispatchEvent(
+        new StorageEvent('storage', {
+          key: STORAGE_KEY,
+          newValue: JSON.stringify(newFavorites),
+        })
+      );
+      setError(null);
+    } catch (err) {
+      if (err instanceof Error) {
+        if (err.name === 'QuotaExceededError') {
+          setError({ type: 'quota-exceeded', message: 'Storage is full' });
+        } else {
+          setError({ type: 'unknown', message: err.message });
+        }
+      }
+    }
+  }, []);
+
+  const toggleFavorite = useCallback(
+    (id: string) => {
+      const current = getFavoritesSnapshot();
+      const newFavorites = current.includes(id)
+        ? current.filter((fav) => fav !== id)
+        : [...current, id];
+      saveFavorites(newFavorites);
+    },
+    [saveFavorites]
+  );
+
+  const isFavorite = useCallback(
+    (id: string) => favorites.includes(id),
+    [favorites]
+  );
+
+  const clearFavorites = useCallback(() => {
+    saveFavorites([]);
+  }, [saveFavorites]);
+
+  return {
+    favorites,
+    toggleFavorite,
+    isFavorite,
+    clearFavorites,
+    count: favorites.length,
+    error,
+  };
+}

@@ -6,7 +6,9 @@ import { SearchBar } from "@/components/prompts/SearchBar";
 import { CategoryTabs } from "@/components/layout/CategoryTabs";
 import { PromptList } from "@/components/prompts/PromptList";
 import { getAllPrompts, getCategoryCounts } from "@/lib/prompts/data";
-import { searchPrompts } from "@/lib/search";
+import { createPromptSearch } from "@/lib/search";
+import { PromptCategory } from "@/lib/prompts/types";
+import { useDebounce } from "@/hooks/use-debounce";
 
 const STORAGE_KEY = "prompts_list_state";
 
@@ -47,8 +49,8 @@ export default function PromptsPage() {
   const isRestoring = useRef(initialState.current.visibleCount > PAGE_SIZE);
   const [searchQuery, setSearchQuery] = useState(initialState.current.query);
   const [activeCategory, setActiveCategory] = useState<
-    "all" | "image" | "office"
-  >(initialState.current.category as "all" | "image" | "office");
+    PromptCategory | "all"
+  >(initialState.current.category as PromptCategory | "all");
   const [visibleCount, setVisibleCount] = useState(
     initialState.current.visibleCount
   );
@@ -56,8 +58,17 @@ export default function PromptsPage() {
   const restoredScroll = useRef(false);
   const [skipAnimation, setSkipAnimation] = useState(isRestoring.current);
 
-  const allPrompts = getAllPrompts();
-  const categoryCounts = getCategoryCounts();
+  // Debounce search query for better performance
+  const debouncedSearchQuery = useDebounce(searchQuery, 300);
+
+  // Memoize data loading
+  const allPrompts = useMemo(() => getAllPrompts(), []);
+  const categoryCounts = useMemo(() => getCategoryCounts(), []);
+
+  // Memoize Fuse.js search instance
+  const searchInstance = useMemo(() => {
+    return createPromptSearch(allPrompts);
+  }, [allPrompts]);
 
   const filteredPrompts = useMemo(() => {
     let prompts =
@@ -65,12 +76,13 @@ export default function PromptsPage() {
         ? allPrompts
         : allPrompts.filter((p) => p.category === activeCategory);
 
-    if (searchQuery.trim()) {
-      prompts = searchPrompts(prompts, searchQuery);
+    if (debouncedSearchQuery.trim()) {
+      const results = searchInstance.search(debouncedSearchQuery);
+      prompts = results.map(r => r.item);
     }
 
     return prompts;
-  }, [allPrompts, activeCategory, searchQuery]);
+  }, [allPrompts, activeCategory, debouncedSearchQuery, searchInstance]);
 
   const displayedPrompts = filteredPrompts.slice(0, visibleCount);
   const hasMore = visibleCount < filteredPrompts.length;
