@@ -1,3 +1,11 @@
+---
+description: Hướng dẫn tạo ảnh chân dung với AI
+category: image
+tags: [portrait, cinematic, street-style, fashion]
+date: 2025-12-17
+author: AI TEAM
+---
+
 # Hướng dẫn tạo ảnh chân dung với AI
 
 ## Cách sử dụng
@@ -9,7 +17,7 @@
 
 ## Danh sách Prompts
 
-1. ảnh chân dung đen trắng style cinema (
+1. Ảnh chân dung đen trắng style cinema
    "This photo has been edited without changing the face into an artistic portrait. A man sitting elegantly on the floor, dressed in a modern black top, soft, loose-fitting grey jeans, and chunky grey and white sneakers, expresses a laugh as he looks upwards. The background of the monochrome (black and white) artistic composition presents a soft, close-up portrait of the same face in profile, with soft lighting and a dramatic atmosphere."
 
 2.Người đàn ông trên thảo nguyên bế hổ con
@@ -115,7 +123,7 @@ His other hand holds a smartphone naturally to take the mirror shot, the reflect
 He wears loose black sweatpants with a glimpse of white underwear waistband visible, accessorized with subtle silver jewelry — earrings and a bracelet catching light softly.Background: clean, modern architectural setting with a curved black mirror and vertical wooden wall panels, creating depth and warmth.Lighting: soft diffused daylight coming from one side, emphasizing muscle contours, collarbones, and skin texture without harsh shadows.Composition: asymmetrical and cropped close — the tilted body pose adds motion and realism; camera reflection and hand placement enhance authenticity.
 Mood: confident, intimate, self-disciplined — a quiet celebration of strength and self-focus.Texture: matte black fabrics, soft daylight glow on skin, subtle metal jewelry shine, and smooth phone reflection in the mirror."
 
-10.selfie trong phòng ngủ
+10.Selfie trong phòng ngủ
 "Create a realistic portrait (100% similar face, do not edit) Early 2000s style photo of a girl with long hair, loose hair, light makeup, red and pink lips, wearing the attached set to create a realistic 2000-style selfie (the face looks 100% the same, not allowed to edit)
 Close-up high-angle photo of the face
 A cute and stylish girl is taking a selfie using a face flash.
@@ -163,7 +171,7 @@ Cằm hơi hạ, tạo cảm giác sâu lắng và điện ảnh.
 Anh ấy mặc một chiếc áo khoác màu đen, có thể là một chiếc áo khoác có mũ, phủ đầy tuyết mới.
 Nền tối và mờ, gợi ý một địa điểm ngoài trời vào ban đêm, có thể là công viên hoặc đường phố. Ánh sáng vàng ấm áp từ đèn đường hoặc thiết bị chiếu sáng tương tự chiếu sáng phần tư phía trên bên trái, tạo ra ánh sáng nổi bật phía bên phải của chủ thể và tuyết rơi. Nhiều đốm trắng tượng trưng cho tuyết thấy rõ khắp bức ảnh, mang lại ấn tượng về tuyết rơi dày hoặc liên tục."
 
-16.ảnh ngước mặt lên
+16.ảnh ngước mặt lên trời
 "E"xtreme bird's eye view, top-down shot. a muscular handsome young Asian man [reference face on the photo] with messy black hair and thick black glasses looking up at the camera. He is wearing a white shirt over a black knit vest. Grey vignette studio background. Slight wide lens effect, high detail, portrait photography. --ar 1:1"
 
 17.Ảnh hút thuốc
@@ -184,7 +192,7 @@ He is dressed in a luxurious and eye-catching ensemble, featuring a matching set
 His left wrist is adorned with a prominent, classic silver watch with a dark blue face, which stands out against the patterned sleeve and adds a touch of timeless elegance. His hands are elegantly posed, with one hand casually resting near his chest and the other raised slightly, fingers splayed, contributing to a fashion-forward and artistic gesture.
 The background is simple and bold, featuring a vibrant red sculptural chair or furniture piece that creates a dramatic and monochromatic backdrop for the subject. This bright red environment enhances the colors of his outfit and creates a visually impactful composition. The lighting is soft and even, highlighting his features and the intricate details of his clothing and accessories."
 
-20.Chụp trên chổ cao vietnam
+20.Chụp checkin vùng núi vietnam
 "Create a close-up 8k half-body portrait, The photo shows a young man with smooth white skin standing and posing on a small black observation platform with an iron background. with a majestic natural landscape blurred behind. Highlighting the subject's face
 He is wearing a black bomber jacket with a white T-shirt underneath, white straight-leg jeans, fashionable sunglasses and a natural pose, his face confidently looking towards the camera
 Blurred scene Behind is a deep canyon, with two sides of vertical cliffs covered with green trees. At the bottom is a river with emerald green water.
@@ -406,54 +414,54 @@ Optical Realism: Rendered with ultra-realistic 8K cinematic quality, combining t
 59. Ảnh chụp năm 2000
     "Một bức ảnh kỹ thuật số độ phân giải thấp được chụp bằng máy ảnh Sony CyberShot đời 2005. Một nhóm thanh thiếu niên đang tụ tập tại khu ẩm thực trong trung tâm thương mại. Đèn flash trên máy ảnh chói gắt, các vùng sáng hơi bị cháy, nhiễu kỹ thuật số ở vùng tối. Kết cấu da trông hơi sáp do quá trình xử lý kỹ thuật số thời kỳ đầu. Một dấu ngày màu cam xuất hiện ở góc dưới bên phải ghi "04/12/2005". Chụp tự nhiên, góc chụp vụng về, mang tính thẩm mỹ của ảnh Myspace."
 
-60. selfie với gốc cây dạng JSON prompt
-    "```json
-    {
-    "image_prompt": {
-    "subject": {
-    "demographics": "Cô gái trẻ",
-    "skin_tone": "Da trắng với nhiều tàn nhang nổi bật trên mũi và má, được thể hiện với độ chính xác kết cấu Deep Fusion",
-    "hair": "Tóc nâu dài, gợn sóng",
-    "eyes": "Mắt xanh lá/nâu hạt dẻ (một mắt mở), lấy nét sắc nét thể hiện chi tiết mống mắt",
-    "eyebrows": "Lông mày dày, tự nhiên, màu tối"
-    },
-    "attire": {
-    "clothing": "Áo bikini đen chấm bi trắng",
-    "jewelry": "Dây chuyền vàng nhiều lớp tinh xảo"
-    },
-    "expression_and_pose": {
-    "facial_expression": "Vui tươi và tinh nghịch; nháy mắt phải (bên trái của người xem), lưỡi hơi thè ra một bên, cười để lộ răng",
-    "hand_position": "Tay phải đặt trên đầu/khăn trùm đầu",
-    "framing": "Chân dung selfie cận cảnh, cánh tay cầm thiết bị có thể nhìn thấy",
-    "angle": "Góc selfie ngang tầm mắt"
-    },
-    "environment": {
-    "setting": "Địa điểm nhiệt đới hoặc ven biển ngoài trời",
-    "background": "Vỏ cây hoặc mặt đá có kết cấu với những mảng lá nhiệt đới xanh, thể hiện hiệu ứng bokeh tự nhiên",
-    "lighting": "Ánh sáng ban ngày tự nhiên rực rỡ, ánh nắng lốm đốm, được xử lý bằng Smart HDR 5 để cân bằng vùng sáng và vùng tối"
-    },
-    "technical_specifications": {
-    "device": "iPhone 17 Pro Max",
-    "camera": "Camera trước TrueDepth (hoặc kiểu hệ thống 48MP Fusion)",
-    "lens_details": "Tương đương 24mm, khẩu độ f/1.9",
-    "resolution": "48MP ProRAW / HEIF Max",
-    "processing": "Photonic Engine, Deep Fusion, Smart HDR 6",
-    "color_profile": "Phong cách chụp ảnh tiêu chuẩn với dải động cao",
-    "quality_tags": [
-    "Chi tiết khuôn mặt siêu mịn",
-    "Kết cấu da tự nhiên",
-    "Lấy nét sắc nét",
-    "Độ phân giải 8K",
-    "Kiệt tác nhiếp ảnh di động",
-    "Chụp bằng iPhone"
-    ]
-    }
-    }
-    }
+60.Selfie với gốc cây dạng JSON prompt
+"```json
+{
+"image_prompt": {
+"subject": {
+"demographics": "Cô gái trẻ",
+"skin_tone": "Da trắng với nhiều tàn nhang nổi bật trên mũi và má, được thể hiện với độ chính xác kết cấu Deep Fusion",
+"hair": "Tóc nâu dài, gợn sóng",
+"eyes": "Mắt xanh lá/nâu hạt dẻ (một mắt mở), lấy nét sắc nét thể hiện chi tiết mống mắt",
+"eyebrows": "Lông mày dày, tự nhiên, màu tối"
+},
+"attire": {
+"clothing": "Áo bikini đen chấm bi trắng",
+"jewelry": "Dây chuyền vàng nhiều lớp tinh xảo"
+},
+"expression_and_pose": {
+"facial_expression": "Vui tươi và tinh nghịch; nháy mắt phải (bên trái của người xem), lưỡi hơi thè ra một bên, cười để lộ răng",
+"hand_position": "Tay phải đặt trên đầu/khăn trùm đầu",
+"framing": "Chân dung selfie cận cảnh, cánh tay cầm thiết bị có thể nhìn thấy",
+"angle": "Góc selfie ngang tầm mắt"
+},
+"environment": {
+"setting": "Địa điểm nhiệt đới hoặc ven biển ngoài trời",
+"background": "Vỏ cây hoặc mặt đá có kết cấu với những mảng lá nhiệt đới xanh, thể hiện hiệu ứng bokeh tự nhiên",
+"lighting": "Ánh sáng ban ngày tự nhiên rực rỡ, ánh nắng lốm đốm, được xử lý bằng Smart HDR 5 để cân bằng vùng sáng và vùng tối"
+},
+"technical_specifications": {
+"device": "iPhone 17 Pro Max",
+"camera": "Camera trước TrueDepth (hoặc kiểu hệ thống 48MP Fusion)",
+"lens_details": "Tương đương 24mm, khẩu độ f/1.9",
+"resolution": "48MP ProRAW / HEIF Max",
+"processing": "Photonic Engine, Deep Fusion, Smart HDR 6",
+"color_profile": "Phong cách chụp ảnh tiêu chuẩn với dải động cao",
+"quality_tags": [
+"Chi tiết khuôn mặt siêu mịn",
+"Kết cấu da tự nhiên",
+"Lấy nét sắc nét",
+"Độ phân giải 8K",
+"Kiệt tác nhiếp ảnh di động",
+"Chụp bằng iPhone"
+]
+}
+}
+}
 
 ````"
 
-61. chân dung theo phong cách Y2K grunge
+61.Chân dung theo phong cách Y2K grunge
 "```json
 {
   "image_analysis": {
@@ -778,7 +786,7 @@ Optical Realism: Rendered with ultra-realistic 8K cinematic quality, combining t
 }
 ```"
 
-72.Tiệc sinh nhật style babie-core (màu hoongvf)
+72.Tiệc sinh nhật style babie-core (màu hồng)
 "{
   "subject": {
     "type": "young woman",
@@ -1256,7 +1264,7 @@ The subject should appear bright and stand out clearly from the background."
 }
 ```"
 
-83.Chân dung người phụ nwux trong quán cafe châu âu
+83.Chân dung người phụ nữ trong quán cafe châu âu
 "The same person, the same face, unaltered features. A medium shot, hyper-realistic, cinematographic, and professionally shot, of a captivating woman with fair skin, sleek, blond hair cascading over her shoulders, green eyes, and full lips painted with glossy red lipstick. Professional makeup with sharp details. She wears a tight, sheer black lace top and black velvet trousers, adorned with a delicate, shimmering gold heart pendant and matching thin gold earrings. A thin gold bracelet embellished with diamonds adorns her wrist. She sits at a wooden table in a café, her left hand on a silver laptop keyboard, a black sheet of paper in her right, gazing down with a serene expression. In front of her is a slice of sumptuous chocolate cake on a white plate and a glass of iced drink. In the background, a large window overlooks a grand building bearing the inscription "GRAND HOTEL ROSA," revealing the historic facade with its arched windows. Soft, natural light streams in from the window, creating a pleasant glow on the woman's face. The colors are warm, with an emphasis on shades of brown, black, and gold, and a shallow depth of field that focuses attention on the woman and what's in front of her.
 
 negative_prompt: Low quality, blurry, distracting, blurry image, inaccurate details, unnatural colors."
@@ -1429,7 +1437,7 @@ negative_prompt: Low quality, blurry, distracting, blurry image, inaccurate deta
 89.Ảnh phụ nữ uống cafe
 "A realistic medium shot of a blonde woman sitting at a cafe table, wearing a grey knit zip-up sweater. She is holding a spoon and a white cup, smiling gently at the camera. Soft natural light from the left. Background: A banana duct-taped to a beige wall inside a frame. A silver handbag is on the table. High resolution, lifestyle photography style. --ar 3:4"
 
-90.Ảnh co gái nhật hầu gái
+90.Ảnh hầu gái nhật
 "A beautiful japanese young woman Navy blue and white Lolita dress with ornate baroque design and gold trim details. White puff sleeves with lace ruffles and navy ribbon ties. Navy blue bodice with gold embroidered motifs and lace-up front corset styling. White lace collar with decorative brooch detail. Navy blue full skirt with gold embroidered patterns and brocade fabric. White lace apron overlay with ruffled edges. Navy and white hair bow accessory with lace and ribbon details. Classic Lolita style with navy, white, and gold color palette. Baroque elegant aesthetic with ornate decorative elements. NOT casual wear, NOT minimalist design, NOT modern styling."
 
 91.Ảnh thám tử  phong cách noir ddienjej ảnh
@@ -2296,7 +2304,7 @@ no incorrect reflection alignment"
   }
 }"
 
-107.chân dung ngày lễ (cỡ trung) chân thực, trang nhã của một phụ nữ mặc áo cổ lọ và áo khoác đen,
+107.Chân dung ngày lễ (cỡ trung) chân thực, trang nhã của một phụ nữ mặc áo cổ lọ và áo khoác đen
 "{
   "image_prompt": {
     "face_requirements": {
@@ -2540,7 +2548,7 @@ no incorrect reflection alignment"
 111.Chân dung hồ sơ chân thực, điện ảnh và đầy tâm trạng của một phụ nữ trẻ đeo tai nghe Marshall
 "A moody, cinematic, and realistic candid profile portrait of a young woman with long brown hair, wearing black Marshall over-ear headphones. She has a contemplative gaze, looking off-camera to the right. Her attire includes a light grey crewneck sweater layered beneath a dark, open zip-up hoodie or jacket. The scene is dominated by rich, warm amber lighting, creating dramatic low-key contrast and deep shadows on her face and the surrounding environment. The composition features an extremely shallow depth of field, with sharp focus on the subject. The background is a dark, blurry street or indoor setting with indistinct warm bokeh lights. Intentional dark, out-of-focus elements occupy the foreground, enhancing the depth and low-key atmosphere. The overall feeling is one of introspection and isolation."
 
-112.Ai Girl friend
+112.AI Girl friend
 "cute, shy, sweet, long hair, big eyes, small nose, small mouth, anime style, high quality, 4k"
 
 113.chân dung chân thực như ảnh chụp của một người đàn ông trên một con phố Đông Á đông đúc vào ban đêm
@@ -2663,7 +2671,7 @@ Avoid: distorted anatomy, incorrect facial structure (must match reference), dou
 119.Chân dung hầu gái
 "cozy maid café or private bar counter at night. A young East Asian woman with long black hair in low twin tails, wearing fluffy gray wolf ears headband, white frilly off-shoulder maid blouse with black ribbon details and ultra-short black maid skirt with white lace trim, leaning forward over the wooden counter with both hands, looking back over her shoulder toward the camera with a playful expression. Background shows dimly lit shelves with bottles and glasses, warm hanging lamps creating bokeh, authentic cheap CCTV degradation, photorealistic-quality"
 
-120. Chân dung oto đêm mauw điện ảnh
+120. Chân dung trên oto đêm mưa điện ảnh
 "{
   "image_generation_prompt": {
     "subject": {
@@ -3053,7 +3061,7 @@ Avoid: distorted anatomy, incorrect facial structure (must match reference), dou
   }
 }"
 
-129.Ảnh selfie quyến ẽo tgreen sofa
+129.Ảnh selfie quyến rũ trên sofa
 "{
   "metadata": {
     "type": "realistic_portrait_selfie",
@@ -3626,7 +3634,7 @@ Qua hình ảnh phản chiếu, môi trường trong bức tranh đơn giản v�
 
 Tông màu pastel mềm mại và ấm áp. Được chỉnh sửa theo phong cách “ánh sáng mềm Hàn Quốc”. Tỷ lệ khung hình dọc 9:16, độ nét cao, chất lượng cao. **Không thay đổi khuôn mặt."
 
-146. Ảnh chupj bikini quay lưng với gương
+146. Ảnh bikini quay lưng với gương
 "{
   "template_id": "mirror_room_cheeky_v_bikini_synth_v1_compact",
   "version": "1.3.0",
@@ -3756,7 +3764,7 @@ Tông màu pastel mềm mại và ấm áp. Được chỉnh sửa theo phong c�
     "model": "indoor_daylight_mix",
     "prima"
 
-147.chân dung cận cảnh hiện đại, chân thực về một phụ nữ trẻ trong một cửa hàng băng đĩa
+147.Chân dung cận cảnh hiện đại, chân thực về một phụ nữ trẻ trong một cửa hàng băng đĩa
 "{
   "prompt": "A young Caucasian woman in her mid-20s stands centered in a cozy record store. She has brown hair with bangs and wears a black open-knit long-sleeve top over a black undershirt, paired with leopard-print pants. She accessorizes with a delicate silver necklace, silver earrings, and rings on her fingers. She poses naturally, looking directly at the viewer with a slight smile. The background shows rows of vinyl records, store shelves, posters, merchandise, and hanging pendant lights. Warm, indirect lighting from the lamps casts soft shadows. The image is captured as a medium shot with a shallow depth of field, focusing sharply on her while the background remains softly blurred. The style is modern and candid.",
   "style": "modern candid portrait",
@@ -3817,7 +3825,7 @@ Tông màu pastel mềm mại và ấm áp. Được chỉnh sửa theo phong c�
   }
 }"
 
-150 Ảnh studio thwoif trang cao cấp (đầm xanh bạc hà )\
+150. Ảnh studio thời trang cao cấp (đầm xanh bạc hà )
 "{
   "prompt": "A stylish, high-fashion portrait of a woman seated, looking down at her flowing gown. The woman has long, wavy, dark brown hair with bangs, cascading over her shoulders. She is wearing an elegant, floor-length gown in varying shades of {argument name="gown colors" default="light mint and sage green"}. The bodice appears to be sleeveless or one-shouldered with a subtle, textured or patterned design (possibly white floral or abstract print). The skirt features a very high slit, dramatically revealing her legs. The fabric of the lower skirt is sheer and flowing chiffon, draped gracefully around her. She is wearing high-heeled **strappy sandals with straps extending all the way up to her thighs**, adorned with sparkling embellishments. One hand is gently holding the flowing fabric of the skirt. She is sitting on a small, rectangular object, possibly a {argument name="seat color" default="red or dark orange"} ottoman or box, contrasting with the green. The backdrop is a seamless white photography paper or screen, partially visible as a roll on the floor. The setting is indoors, with hard, bright studio lighting that highlights the texture of the dress and the sheen on her skin. The mood is sophisticated, sensual, and editorial. Full body shot, high-resolution, magazine quality.",
   "style": [
@@ -4131,7 +4139,7 @@ The final output must look like a natural photo taken inside an elevator, with s
 ]
 }"
 
-169.Ảnh pha trộn phong caschsn thập niên 90
+169.Ảnh pha trộn phong cách thập niên 90
 "{
 "image_request": {
 "goal": "Create a stylized mixed-media portrait with hand-drawn elements",
@@ -4279,52 +4287,52 @@ The final output must look like a natural photo taken inside an elevator, with s
 "settings": "Aperture f/2.0, ISO 100, Shutter Speed 1/2500"
 }"
 
-172.Bức chân dung siêu thực, hợp thời của một cô gái trẻ trong môi trường phòng thu, thể hiện nét mặt vui tươi 
+172.Bức chân dung siêu thực, hợp thời của một cô gái trẻ trong môi trường phòng thu, thể hiện nét mặt vui tươi
 "{
-  "scene": {
-    "setting": "studio",
-    "background": "plain light beige backdrop",
-    "lighting": "soft even studio lighting, no harsh shadows",
-    "mood": "fun, playful, social-media inspired composition"
-  },
-  "subject": {
-    "type": "young woman",
-    "pose": {
-      "expression": "tongue out playfully",
-      "gesture": "right hand making peace sign near her cheek",
-      "body_position": "facing forward, shoulders relaxed"
-    },
-    "appearance": {
-      "hair": {
-        "length": "long",
-        "color": "{argument name="hair color" default="red"}",
-        "style": "two thin braided strands framing the face, rest left natural"
-      },
-      "makeup": "natural glam with defined eyes and blush",
-      "outfit": {
-        "top": "red strapless tube top"
-      }
-    }
-  },
-  "composition": {
-    "framing": "medium close-up",
-    "special_elements": [
-      {
-        "element": "multiple smartphones",
-        "description": "Several hands holding phones around the subject, all capturing her photo from various angles",
-        "perspective_effect": "phones on-screen display the subject in real-time, adding a mirrored visual layer"
-      }
-    ]
-  },
-  "camera_style": {
-    "lens": "standard portrait lens",
-    "aesthetic": "modern influencer-style shoot",
-    "effect": "clean digital clarity"
-  },
-  "output_style": {
-    "quality": "high-definition, ultra-realistic",
-    "vibe": "social media selfie culture, dynamic and trendy"
+"scene": {
+"setting": "studio",
+"background": "plain light beige backdrop",
+"lighting": "soft even studio lighting, no harsh shadows",
+"mood": "fun, playful, social-media inspired composition"
+},
+"subject": {
+"type": "young woman",
+"pose": {
+"expression": "tongue out playfully",
+"gesture": "right hand making peace sign near her cheek",
+"body_position": "facing forward, shoulders relaxed"
+},
+"appearance": {
+"hair": {
+"length": "long",
+"color": "{argument name="hair color" default="red"}",
+"style": "two thin braided strands framing the face, rest left natural"
+},
+"makeup": "natural glam with defined eyes and blush",
+"outfit": {
+"top": "red strapless tube top"
+}
+}
+},
+"composition": {
+"framing": "medium close-up",
+"special_elements": [
+{
+"element": "multiple smartphones",
+"description": "Several hands holding phones around the subject, all capturing her photo from various angles",
+"perspective_effect": "phones on-screen display the subject in real-time, adding a mirrored visual layer"
+}
+]
+},
+"camera_style": {
+"lens": "standard portrait lens",
+"aesthetic": "modern influencer-style shoot",
+"effect": "clean digital clarity"
+},
+"output_style": {
+"quality": "high-definition, ultra-realistic",
+"vibe": "social media selfie culture, dynamic and trendy"
 }"
 
-173.Biến người phụ nữ trưởng thành trong hình đầu tiên thành một bức chân dung cận cảnh của người cao tuổi 
+173.Biến người phụ nữ trưởng thành trong hình đầu tiên thành một bức chân dung cận cảnh của người cao tuổi
 "Generate an image of the adult woman from the first picture as an old lady. Make it a close-up. Make her clothing look like that of an older woman, and set the background as a house."
