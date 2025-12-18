@@ -4336,3 +4336,278 @@ The final output must look like a natural photo taken inside an elevator, with s
 
 173.Biến người phụ nữ trưởng thành trong hình đầu tiên thành một bức chân dung cận cảnh của người cao tuổi
 "Generate an image of the adult woman from the first picture as an old lady. Make it a close-up. Make her clothing look like that of an older woman, and set the background as a house."
+
+174.Ảnh cận cảnh man
+"Close up portrait using my facial reference image. Keep my face exactly as in the reference. Do not alter facial structure, eyes, nose, mustache, or skin texture. Add round black glasses, warm indoor restaurant lighting, soft diffused shadows, straw ceiling decor, candid expression, natural skin texture. Use 1:1 aspect ratio."
+
+175.Skycalper Hải Phòng
+"A fisheye ultra-wide shot looking straight down from an extremely tall skyscraper in Hải Phòng City. A smiling young man wearing a black overshirt and a gold chain takes a selfie using a long selfie stick while standing on a circular, transparent glass viewing platform. The shot uses a dramatic ultra-wide fisheye lens, creating strong distortion and an intense sense of height and vertigo.
+Far below, Hải Phòng City’s urban layout is intentionally designed so that streets, rooftops, buildings, and neighbourhood blocks form the giant numbers “2026” when viewed from above. The city grid curves organically into the digits, blending realistic Vietnamese architecture with a creative, intentional city-wide design. Recognisable HCMC elements such as dense low-rise housing, wider boulevards, greenery, and river-adjacent development subtly reinforce the location.
+Warm evening sunlight washes across rooftops, roads, and parks, creating soft highlights and long shadows that give the “2026” numbers a glowing outline. The atmosphere feels cinematic and hyper-realistic, with razor-sharp detail, natural lighting, and a strong sense of scale, danger, and height.
+Use the reference image with a 100% face match. Do not stylise, beautify, or alter facial features in any way. Preserve exact likeness, proportions, and skin tone."
+
+176.NGồi trên ghế cảnh hoa rơi nền nâu
+"ABSOLUTE FACE + HAIR + GLASSES LOCK (MATCH REFERENCE EXACTLY)
+Use the uploaded photo as the ONLY and ABSOLUTE identity reference.
+FACE LOCK – LEVEL MAX (NON-NEGOTIABLE):
+Keep the original face EXACTLY from the reference image.
+Same identity, same age, same facial proportions.
+Same face width, cheek volume, jawline sharpness, chin length.
+Same eyes shape, eyelids, eye distance.
+Same nose bridge, nostrils, nose tip.
+Same lips shape, lip thickness, mouth width.
+Same teeth structure and smile.
+Do NOT beautify, do NOT slim or round the face.
+Do NOT apply golden ratio.
+Do NOT reinterpret facial features.
+The generated face must look IDENTICAL to the reference photo.
+EYEGLASSES LOCK – ABSOLUTE:
+Keep the eyeglasses EXACTLY as in the reference image.
+Same frame shape, size, thickness, color.
+Same lens transparency, reflections, and position.
+Do NOT remove, replace, resize, or redesign the glasses.
+HAIR LOCK – SAME STYLE, ONLY ADD VOLUME:
+Keep the hair EXACTLY the same as the reference.
+Same length, color, hairline, parting, texture.
+ONLY add subtle luxurious volume at the crown and airy blow-dry lift.
+A few very fine, natural loose strands may float softly near the cheek."
+
+177.Ảnh jacket có chiếu sáng
+"Ultra-realistic night portrait of a young man (photo attached) standing in front of car headlights, strong backlight creating silhouette rim light, light fog smoke in the air, intense masculine eyes, black leather jacket, dramatic contrast, cinematic street photography, shallow depth of field, 9:16 vertical"
+
+178.Ảnh chân dung trắng trẻo
+"Chân dung người phụ nữ trẻ trung xinh đẹp (khuôn mặt và tóc như hình đính kèm) với làn da trắng mịn không tì vết, trang điểm tự nhiên, môi căng bóng, hơi đỏ hồng, đôi má nhẹ nhàng. Cô ấy mặc một chiếc đầm ngắn tay, đan dây trắng với thiết kế trễ vai, thân áo vừa vặn, cổ chữ V sâu được tạo điểm nhấn bởi các nếp gấp vải, và hàng nút nhỏ chạy xuống phía trước. Váy ôm dáng, đến giữa đùi, làm nổi bật vóc dáng mảnh mai của nàng. Cô ấy ngồi trong tư thế thư giãn, tay nghỉ ngơi một cách tự nhiên, nhìn trực tiếp vào máy ảnh với biểu cảm bình tĩnh, thanh thản và hơi quyến rũ. Bông tai kim cương nhỏ xinh hoàn thiện vẻ ngoài. Ánh sáng studio mềm mại với sự chuyển đổi màu sắc tinh tế, nền từ be nhạt sang trắng, độ phân giải cao, siêu thực, giống như một bức ảnh, điểm nhấn sắc nét, chi tiết phức tạp, kết cấu da tự nhiên, 8K, một kiệt tác."
+
+179.Ảnh nấu ắn buổi sáng
+"Cô gái (gương mặt từ ảnh tải lên):
+Bộ trang phục:
+Chất liệu: Vải thun gân tăm có độ co giãn tốt, ôm sát cơ thể nhưng trông vẫn mềm mại và thoải mái. (thấy lấp ló viền nội y dưới có họa tiết dệt chìm màu đen bên trong)
+Màu sắc: Màu trắng kem (cream), tạo cảm giác tinh khiết, nhẹ nhàng
+Kiểu dáng:
+Áo: Áo hai dây chất liệu ren (lace) điệu đà, mỏng nhẹ, thiết kế croptop hở lưng và eo.
+Quần: Quần short ngắn, cạp thấp, tôn lên đường cong hông và đùi.
+Đặc điểm & Ngoại hình (Features)
+Mái tóc:
+Cô gái cột tóc đuôi ngựa cao, tóc dài thẳng mượt thả dọc theo lưng.
+Vóc dáng: vóc dáng mảnh mai, thon gọn với eo thon
+Hành động cụ thể:
+Cô gái đang đứng nấu ăn, tay cầm đũa đảo thức ăn trong nồi, tư thế tập trung.
+Hậu cảnh (Background)
+Không gian: Một căn bếp gia đình hiện đại, nhỏ gọn.
+Chi tiết nội thất:
+Tủ bếp trên màu trắng/sáng.
+Tường bếp ốp gạch men ô vuông nhỏ (grid tiles)
+Trên bàn bếp có nồi nấu ăn và một thiết bị trông giống nồi chiên không dầu (air fryer) màu trắng.
+Bên trái có một cánh cửa màu đen tương phản.
+Cấu trúc & Bố cục (Structure & Composition)
+Khung hình: tập trung vào chủ thể từ đầu đến chân.
+Phong cách & Kỹ thuật chụp ảnh
+Phong cách: Bức ảnh trông như một khoảnh khắc đời thường vô tình bắt gặp, không hề có sự sắp đặt hay diễn xuất quá đà.
+Ánh sáng: Ánh sáng trong nhà, có vẻ là ánh sáng nhân tạo từ đèn bếp, đổ bóng nhẹ, tạo khối cho cơ thể và trang phục."
+
+180.Ảnh soi gường cực tình
+"Cô gái trẻ (gương mặt chính xác từ ảnh tải lên) trong Bộ trang phục mang phong cách trẻ trung, nữ tính pha lẫn chút gợi cảm:
+Áo (Top): Chiếc áo croptop kiểu dáng "milkmaid". Họa tiết hoa nhí (floral print) trên nền vải sáng màu trắng ngà. Điểm nhấn là phần dây đan chéo (lace-up) ở chính giữa ngực. Đặc điểm là phần lưng được may nhún thun (shirred back) giúp áo ôm sát cơ thể mà vẫn thoải mái, đồng thời khoe được phần thắt lưng và 1 phần lưng trần.
+Quần (Bottom): Quần jeans skinny (ôm sát) màu xanh nhạt (light wash denim). Chiếc quần được thiết kế để tôn lên đường cong của vòng 3 và đôi chân., quần được mặc trễ eo thấy lấp ló nội y ren màu trắng
+Chi tiết điểm nhấn: Có một phần viền ren trắng (có thể là viền nội y) lộ ra ở phần thắt lưng, tạo nên một điểm nhấn thị giác khá táo bạo và thu hút sự chú ý vào vòng eo.
+Tư thế và Cử chỉ (Pose & Gesture)
+Góc đứng: Nhân vật quay lưng về phía ống kính (back shot), nhưng khuôn mặt lại quay về phía gương để lộ diện mạo qua hình ảnh phản chiếu. Đây là tư thế kinh điển để "khoe" cả vóc dáng phía sau (đường cong hông, lưng) và khuôn mặt xinh đẹp.
+Dáng người: Trọng tâm dồn nhẹ sang một bên hông, tạo đường cong chữ S tự nhiên. Hai tay chống nhẹ lên bệ đá lavabo, cúi nhẹ người về trước, tạo cảm giác tự tin và làm điểm tựa để đẩy phần hông ra sau.
+Bối cảnh và Không gian (Setting)
+Địa điểm: Có vẻ là khu vực bồn rửa tay của một nhà vệ sinh cao cấp tại nhà hàng.
+Chi tiết decor:
+Tấm gương lớn phản chiếu hình ảnh.
+Trên gương có dán các sticker hình gấu trúc và phi hành gia hoạt hình ngộ nghĩnh, tạo sự tương phản dễ thương với phong cách gợi cảm của mẫu.
+Phía bên trái có kệ trưng bày các vật phẩm (có thể là nến thơm, khăn hoặc đồ trang trí hình bánh ngọt).
+Đặc điểm Ngoại hình (Characteristics)
+Mái tóc: Tóc đen dài, suôn mượt, buông xõa xuống lưng, tạo nên nét dịu dàng truyền thống đối lập với trang phục hiện đại.
+Gương mặt (qua gương): Trang điểm nhấn vào đôi môi đỏ và làn da trắng sáng. Biểu cảm nhẹ nhàng, ánh mắt nhìn vào gương (hoặc nhìn vào ống kính qua gương).
+Kỹ thuật Chụp ảnh và Phong cách (Photography & Style)
+Góc máy (Angle): Góc chụp ngang tầm thắt lưng hoặc hơi thấp một chút. Góc này đặc biệt hiệu quả trong việc tôn dáng, giúp vòng 3 trông đầy đặn hơn và chân trông dài hơn.
+Ánh sáng (Lighting): Ánh sáng nhân tạo trong nhà (indoor lighting), khá dịu và ấm, giúp làn da trông mịn màng.
+Bố cục: Bố cục chia đôi: Một nửa là bóng lưng thực tế của nhân vật, một nửa là hình ảnh phản chiếu trong gương. Điều này tạo ra sự thú vị về thị giác, người xem có thể quan sát nhân vật từ hai góc độ cùng lúc."
+
+181.Ảnh tập gym
+"Nhân vật nữ (gương mặt chính xác từ ảnh tải lên) diện một bộ trang phục thể thao (sportswear) mang phong cách hiện đại và tôn dáng (body-hugging):
+Áo trong: Áo quây (tube top) màu xám ghi hoặc nâu tây, ôm sát cơ thể làm nổi bậc vòng ngực to tròn.
+Áo khoác: Một chiếc áo bolero tay dài (shrug top) màu xám đậm khoác bên ngoài. Đây là kiểu áo chỉ có phần ống tay và phần nối qua vai, để lộ phần ngực và eo
+Quần: Quần leggings lưng cao (được kéo xuống trễ eo) cùng tông màu với áo trong, giúp tôn lên vòng eo và đường cong hông.
+Giày: Giày sneaker màu trắng, đế khá dày (chunky sneakers), tạo sự tương phản nổi bật với bộ đồ tối màu.
+Tư thế và Cử chỉ (Pose & Gesture)
+Góc đứng: Nhân vật đứng ở góc nghiêng (profile view) so với ống kính, nhìn vào máy ảnh. Đây là góc chụp giúp khoe trọn đường cong cơ thể hình chữ S (ngực, eo thon, hông).
+Cử chỉ tay: 1 tay đưa lên cao gần vùng cổ/mặt, có thể đang vuốt tóc hoặc chỉnh lại áo.
+Dáng chân: Chân đứng thư giãn, một chân trụ, một chân hơi chùng gối, tạo cảm giác thoải mái nhưng vẫn giữ phom dáng đẹp.
+Bối cảnh và Cấu trúc không gian (Setting & Structure)
+Địa điểm: Một phòng tập gym (fitness center).
+Chi tiết hậu cảnh:
+Phía sau bên phải là hàng tạ ấm (kettlebells) nhiều màu sắc (vàng, tím, xanh, đỏ) xếp ngay ngắn dưới sàn.
+Bên trái có một tủ hoặc thiết bị màu đỏ nổi bật.
+Trần nhà cao với hệ thống đèn và đường ống mang phong cách công nghiệp (industrial style) thường thấy ở các phòng gym.
+Cấu trúc ảnh: Nhân vật nằm ở vị trí trung tâm của bức ảnh theo chiều dọc. Các đường dẫn (từ thảm, trần nhà) đều hướng sự chú ý vào chủ thể.
+Kỹ thuật chụp ảnh và Phong cách (Photography & Style)
+Ánh sáng: Sử dụng ánh sáng nhân tạo trong nhà (indoor lighting). Ánh sáng không quá gắt, tập trung chiếu từ trên xuống, tạo ra các mảng sáng tối (shadows) rõ rệt trên cơ thể người mẫu, giúp nổi bật khối cơ và đường cong.
+Độ nét và Màu sắc: Tone màu chủ đạo là xám, đen và các màu trầm, tạo cảm giác hơi buồn ("moody") và lạnh lùng.
+Góc máy: Góc chụp ngang tầm mắt hoặc hơi thấp một chút để giúp đôi chân trông dài hơn."
+
+182.Ảnh phố đêm
+"Cô gái trẻ (gương mặt từ ảnh tải lên)
+Trang phục và Phong cách (Attire & Style)
+Chiếc váy (The Dress):
+Thiết kế: Váy ngắn (mini dress) trên đùi với phần thân trên dạng corset (áo chẽn) giúp định hình vòng eo, nâng đỡ và làm nổi bậc vòng một (thiết kế cúp ngực sâu trái tim - sweetheart neckline).
+Chất liệu: Vải voan kính (xuyên thấu khu vực eo/ khoe eo thon gọn) (organza) hoặc tulle mỏng nhẹ, xếp tầng tạo độ phồng tự nhiên. Vải có họa tiết chấm bi nhỏ (polka dots) dệt chìm.
+Chi tiết: Phần tay áo trễ vai rủ xuống hờ hững, cùng các lớp bèo nhún (ruffles) ở chân váy tạo cảm giác bay bổng, nữ tính.
+Màu sắc: Màu kem (cream) hoặc be nude, tiệp với màu da nhưng sáng hơn một chút, mang lại vẻ thanh lịch và gợi cảm nhẹ nhàng.
+Phụ kiện:
+Túi xách: Một chiếc túi xách có quai cầm tay màu đen với các chi tiết đinh tán kim loại (silver studs/grommets). Đây là điểm nhấn tương phản thú vị: chiếc túi mang nét cá tính, mạnh mẽ (edgy) đối lập với chiếc váy "bánh bèo" (girly), tạo nên tổng thể sành điệu.
+Giày: giày cao gót đồng điệu với trang phục
+Phong cách tổng thể: Coquette (ngọt ngào, quyến rũ) pha trộn với "Tiểu thư" (Princess core).
+Diện mạo và Biểu cảm (Appearance & Expression)
+Trang điểm (Makeup): Layout makeup tập trung vào sự tươi tắn với đôi má ửng hồng, son môi đỏ căng mọng và lớp nền sáng bóng (glowy skin).
+Mái tóc: Tóc đen dài, uốn xoăn sóng lớn (wavy hair) để xõa tự nhiên sang một bên, tăng thêm vẻ quyến rũ và che bớt một phần vai trần.
+Tư thế (Pose):
+Mẫu đứng hơi nghiêng người, cúi mặt nhìn xuống dưới (không giao tiếp mắt với ống kính - candid style).
+Tư thế này tạo cảm giác e ấp, thẹn thùng nhưng vẫn khoe khéo được xương quai xanh và đường cong cơ thể.
+Bối cảnh và Không gian (Context & Setting)
+Địa điểm: Chụp ngoài trời vào ban đêm trên đường phố lát đá.
+Hậu cảnh (Background): Phía sau là một tòa nhà lớn màu vàng với kiến trúc thuộc địa Pháp đặc trưng (cửa vòm, cột trụ trắng, ban công).
+Nhận định: Dựa trên kiến trúc và màu sắc, bối cảnh này rất giống khu vực trước Trụ sở UBND TP.HCM tại phố đi bộ Nguyễn Huệ.
+Hoạt động: Xung quanh có xe hơi và xe máy di chuyển (bị mờ do xóa phông), cho thấy không gian đô thị nhộn nhịp.
+Kỹ thuật Chụp ảnh (Photography Technique)
+Ánh sáng (Lighting):
+Đèn Flash trực tiếp: Đây là kỹ thuật then chốt của bức ảnh. Nhiếp ảnh gia sử dụng đèn flash đánh trực diện (hoặc đèn flash điện thoại) vào ban đêm.
+Hiệu ứng: Ánh sáng flash làm làn da mẫu trắng bật lên, nổi rõ trên nền tối, đồng thời tạo độ bóng cho da và chất liệu váy. Nó cũng tạo ra bóng đổ nhẹ phía sau các lớp váy, tăng chiều sâu.
+Tiêu cự và Độ sâu trường ảnh (Focus & Depth of Field):
+Sử dụng khẩu độ lớn (f-stop nhỏ) hoặc chế độ Chân dung (Portrait Mode) để làm mờ hậu cảnh (bokeh), giúp chủ thể tách biệt hoàn toàn khỏi bối cảnh lộn xộn phía sau.
+Góc chụp: Góc máy ngang tầm mắt, hơi chếch từ trên xuống một chút để bắt trọn vẹn khuôn mặt và trang phục và giày"
+
+183.Ảnh đầm 2 dây
+"Cô gái trẻ
+Chi tiết trang phục và Ngoại hình
+Trang phục (Outfit):
+Váy: Cô gái diện một chiếc đầm hai dây (camisole dress) màu cam đào (peach) rất nhã nhặn.
+Thiết kế: Phần thân trên dạng corset khoét V sâu với các chi tiết xếp nếp (ruched) và vải ren phủ ngoài, giúp tôn lên vòng 1 và vòng eo thon. Phần chân váy xòe nhẹ nhàng với chất liệu ren hoa văn chìm, tạo cảm giác bay bổng, tiểu thư.
+Phụ kiện: Trang sức tối giản gồm một chiếc dây chuyền mảnh, vòng tay và nhẫn, giúp giữ nguyên vẻ thanh lịch mà không làm rối mắt.
+Ngoại hình:
+Tóc: Mái tóc đen dài, dày và suôn mượt, buông xõa tự nhiên sang một bên vai.
+Gương mặt: Chụp ở góc nghiêng (profile), ánh mắt nhìn xuống nhẹ nhàng, trầm tư. Làn da trắng sáng bật lên trên nền váy màu pastel.
+Bối cảnh và Không gian (Setting)
+Địa điểm: Không gian ngoài trời khu nghỉ dưỡng ven hồ.
+Hậu cảnh:
+Phía rất xa là mặt nước hồ mênh mông phản chiếu ánh hoàng hôn.
+Trước hồ nước Có một con đường nhỏ lát gỗ, hai bên con đường có hàng rào cây nhỏ và cầu gỗ nhỏ dẫn ra phía hồ nước, cùng với cây xanh và các cột đèn trang trí, tạo nên khung cảnh rất thơ mộng, yên bình.
+Thời gian: Ánh sáng bầu trời cho thấy đây là thời điểm hoàng hôn (sunset), khi bầu trời chuyển sang màu vàng xám nhẹ.
+Tư thế và Cấu trúc (Pose & Structure)
+Tư thế:
+Người mẫu ngồi trên bệ đá lan can.
+Tay: Tay phải đưa lên vuốt nhẹ lọn tóc (tạo sự duyên dáng, e ấp), tay trái đặt tự nhiên trên đùi.
+Góc mặt: Cô gái không nhìn vào ống kính mà nhìn xuống hoặc nhìn xa xăm. Đây là kiểu tạo dáng "so deep" (diễn sâu), gợi cảm giác man mác buồn hoặc đang suy tư.
+Cấu trúc: Chủ thể được đặt ở phía bên trái khung hình, nhường không gian bên phải cho cảnh vật phía sau (quy tắc 1/3), tạo độ thoáng và chiều sâu cho bức ảnh.
+Kỹ thuật chụp ảnh
+Ánh sáng: Sử dụng ánh sáng tự nhiên (Natural light). Ánh sáng dịu của buổi chiều tà giúp bức ảnh không bị gắt, các vùng chuyển giữa sáng và tối trên cơ thể rất mềm mại.
+Màu sắc: Tone màu chủ đạo là Cam đào (Dress) - Xanh lá (Cây) - Xám vàng (Trời/Nước). Sự kết hợp này mang lại cảm giác ấm áp, lãng mạn nhưng cũng rất sang trọng.
+Phong cách và Nội dung
+Phong cách: Romantic & Elegant (Lãng mạn & Thanh lịch).
+Nội dung: Hình ảnh một cô gái xinh đẹp, đài các đang tận hưởng khoảnh khắc yên bình của buổi chiều tà."
+
+184.Ảnh giữa vườn hoa
+"Bức ảnh toàn thân của một cô gái xinh đẹp người Việt Nam (Khuôn mặt giống y hệt 100% khuôn mặt ảnh tham chiếu, tuyệt đối không được phép thay đổi tỷ lệ các chi tiết, cấu trúc xương, đặc điểm nhận dạng, thần thái, vóc dáng, tóc và làn da )đứng giữa vườn hoa cải vàng nở rộ. Cô tạo dáng tự tin và thoải mái, biểu cảm tự nhiên, nụ cười nhẹ, thần thái trong trẻo. Ánh sáng tự nhiên mềm mại buổi sáng chiếu vào, làm nổi bật làn da mịn màng và màu sắc tươi sáng của vườn hoa. Toàn bộ hình ảnh có độ chi tiết cực cao, sắc nét, siêu chân thực, sống động như chụp thật.
+Ảnh được chụp bằng máy Phase One XF IQ4, ống kính chất lượng cao, khẩu độ được điều chỉnh hợp lý để tạo độ xóa phông nhẹ, làm nổi bật nhân vật giữa khung cảnh. Góc chụp toàn thân 9:16, phối cảnh hài hòa, bố cục cân đối, màu sắc tươi sáng nhưng tự nhiên, độ phân giải 16K Ultra Full HD.
+Chất lượng nhiếp ảnh ở mức xuất sắc, từng chi tiết của tóc, trang phục, hoa và ánh sáng đều rõ ràng, cụ thể và sắc nét. Phong cách ảnh chân dung nghệ thuật cao cấp, cảm giác ấm áp và lãng mạn của cánh đồng hoa cải.
+"
+
+185.Ảnh chụp với nhân vật trong phim set bằng [character, movie]
+"taking a selfie with [character] on the set of [movie]. Keep the person exactly as shown in the reference image with 100% identical facial features, bone structure, skin tone, facial expression, pose, and appearance, 4K detail"
+
+186.Ảnh với quote hoặc text trên hình
+"Preserve the exact face from the reference image.
+Keep 100% facial identity: facial structure, eyes, nose, lips, expression.
+No face distortion, no beautify changes, no face swap errors.
+Create a square image (1:1 aspect ratio).
+Style:
+Black-and-white cinematic portrait.
+Timeless, emotional, minimalist, humanistic photography style.
+Subject:
+A woman in a close-up portrait.
+Pose: resting her chin gently on folded arms.
+Expression: calm, thoughtful, gentle, introspective.
+Eyes looking slightly away from the camera.
+Natural skin texture, visible pores, realistic details, no plastic skin.
+Lighting:
+Soft diffused lighting.
+Low contrast, smooth shadows.
+Classic film-style grayscale tone.
+Subtle film grain for realism.
+Composition:
+Upper area: face as the main focus.
+Lower area: dark gradient overlay for text placement.
+Clean, uncluttered background.
+TEXT ON IMAGE (IMPORTANT):
+Place ONE Vietnamese quote in the lower half of the image.
+Quote content (leave blank for user input):
+“**************\_\_**************”
+Requirements for the quote:
+
+- Written in correct Vietnamese spelling and grammar.
+- Tone: gentle, deep, reflective, healing.
+- Font: modern sans-serif, clean, thin to medium weight.
+- Text color: white.
+- Text alignment: center.
+- Line spacing comfortable, easy to read.
+- No decorative or handwritten fonts.
+  Signature:
+  Add the text “@ThuChungAI” in the bottom-right corner.
+  Small size, subtle, white color, not distracting.
+  Image quality:
+  Ultra-realistic portrait.
+  High-detail facial texture.
+  Studio-quality clarity.
+  Clean output, suitable for social media posting.
+  Negative prompt:
+  cartoon, anime, illustration, color photo,
+  harsh lighting, overexposed,
+  plastic skin, distorted face,
+  extra fingers, bad anatomy,
+  watermark, logo (except @ThuChungAI),
+  misspelled Vietnamese text, messy typography.”"
+
+  187.Ảnh ngoài công viên
+  "Create a realistic portrait of a young woman (face 100% identical to the original attached photo, no editing required). Keep my original face. The model is an elegant Asian girl, aged 18-25, with straight, long black hair styled in loose waves falling over her shoulders. Her makeup is minimal yet sophisticated, with soft pink lips and subtle eyeliner emphasizing her eyes. She wears delicate silver stud earrings and a thin silver bracelet, adding a touch of sparkle to her look.The model is wearing a fitted off-the-shoulder white top that accentuates her collarbone and shoulders, paired with a flowing ankle-length black skirt that moves gracefully as she walks, creating a striking contrast in colors.The setting is a lush park with greenery in the background. The background is slightly blurred, featuring sunlit trees and meandering pathways that provide a serene yet vibrant environment for the shoot.The scene is captured with cinematic lighting, using natural directional light to cast soft shadows and highlight the textures of the fabric. The use of shallow depth of field creates a bokeh effect in the background, drawing attention to the model and the outfit. The colors are vivid, and the image has a premium, polished appearance, suitable for high-resolution fashion editorials.She gracefully twirls around on the lush grass, her skirt creating a beautiful swirl around her legs, capturing the vibrancy of the park setting.
+
+  188.Chân dung thanh lịch của cô gái trẻ trong bối cảnh phố hiện đại
+  " Create a realistic portrait of a young woman (face 100% identical to the original attached photo, no editing required). Keep my original face. The model is an elegant and confident Asian woman, aged between 18 and 25, with long, glossy black hair styled in soft, beachy waves. Her makeup features a bold red lip that complements her outfit, with a subtle cat-eye eyeliner and natural, glowing skin. She wears minimal yet chic accessories, including delicate gold hoop earrings and a thin, gold bracelet.The fitted red peplum top is tailored perfectly, accentuating the model’s waist with its dramatic flair and short puff sleeves. The vibrant color of the top is eye-catching and sophisticated. She pairs it with a flowing white maxi skirt featuring tiered ruffles, giving the outfit a playful yet elegant touch.The background is an upscale urban street scene, slightly blurred to create a sense of motion and focus attention on the model. The setting conveys a sense of modern elegance with hints of urban architecture subtly visible in the background.The scene is illuminated with directional natural light, providing a soft, cinematic glow that highlights the model’s features and the rich textures of the garments. The photo is taken with a shallow depth of field to keep the model in sharp focus while softly blurring the urban setting. The colors are vivid and crisp, contributing to a high-resolution, premium fashion image.The model is captured mid-stride, walking confidently down the sidewalk with a gentle breeze catching the soft waves of her hair, making them flow elegantly behind her."
+
+  189.Chân dung cô gái trẻ thanh lịch bên biển với phong cách thời trang tươi trẻ
+  "Create a realistic portrait of a young woman (face 100% identical to the original attached photo, no editing required). Keep my original face. An elegant Asian girl model with long, silky black hair styled in gentle waves. Her facial expression is poised and radiant with a subtle smile. She wears subtle makeup with bold eyes complemented by delicate gold jewelry including hoop earrings and a thin bracelet.Cropped white tank top, oversized plaid shirt in softer hues, and a pink mini skirt adding playful contrast.Slightly blurred cinematic background of the shimmering sea, hinting at waves and sunlight.Realistic professional photography lighting highlights the outfit’s textures and colors. The shallow depth of field and vivid colors create a polished, high-resolution, cinematic look.Turning slightly, the model looks over her shoulder with a playful grin, capturing both the casual vibe of the outfit and the serene backdrop."
+
+  190.Chân dung trẻ trung và thanh lịch của cô gái Á Đông bên biển xanh êm đềm
+  "Create a realistic portrait of a young woman (face 100% identical to the original attached photo, no editing required). Keep my original face. The model is an elegant young Asian woman, aged around 20, with long, sleek black hair styled in soft waves flowing naturally. Her facial expression is serene and confident, accentuated with natural makeup that highlights her glowing skin and soft, rosy lips. She wears delicate pearl earrings that catch the light.The model wears a flowing white dress with puffed sleeves and knee-length hem. The dress’s textured fabric catches the light, creating soft, graceful shadows and highlights that emphasize its luxurious quality.She is beside a sparkling, blue sea, which is slightly blurred with a shallow depth of field, enhancing the cinematic quality and ensuring focus remains on the model. The horizon line is just visible, adding depth to the shot.The scene is lit with directional natural light that highlights the dress’s texture and color while maintaining accurate representation. The overall composition is high-resolution, with vivid colors and sharp edges, suitable for a cutting-edge fashion editorial.With a playful yet elegant demeanor, the model takes a step forward, the fabric of her dress flowing behind her in the breeze, as she softly lifts her chin and closes her eyes, feeling the warmth of the sun."
+
+  191.Chân dung tinh tế của cô gái trẻ bên biển xanh mát mẻ
+  "Create a realistic portrait of a young woman (face 100% identical to the original attached photo, no editing required). Keep my original face. The model is an elegant young Asian woman, aged around 20, with long, sleek black hair styled in soft waves flowing naturally. Her facial expression is serene and confident, accentuated with natural makeup that highlights her glowing skin and soft, rosy lips. She wears delicate pearl earrings that catch the light.The model wears a flowing white dress with puffed sleeves and knee-length hem. The dress’s textured fabric catches the light, creating soft, graceful shadows and highlights that emphasize its luxurious quality.She is beside a sparkling, blue sea, which is slightly blurred with a shallow depth of field, enhancing the cinematic quality and ensuring focus remains on the model. The horizon line is just visible, adding depth to the shot.The scene is lit with directional natural light that highlights the dress’s texture and color while maintaining accurate representation. The overall composition is high-resolution, with vivid colors and sharp edges, suitable for a cutting-edge fashion editorial.The model gently lifts the hem of her dress with one hand, allowing a soft breeze to catch it, while her other hand lightly brushes her hair away from her face as she gazes thoughtfully towards the horizon."
+
+  192.Chân dung thực tế của cô gái trẻ thanh lịch trong không gian ấm cúng
+  " Create a realistic portrait of a young woman (face 100% identical to the original attached photo, no editing required). Keep my original face. The model is an elegant Asian girl, aged between 18 to 25, with a graceful but confident stride. Her long hair is styled in soft waves, cascading over her shoulders, and her makeup is natural with a focus on enhancing her eyes. She wears delicate pearl earrings to complete her refined look.She is wearing a fitted white blouse with short puff sleeves and a cinched waist, paired with high-waisted, wide-leg light blue denim jeans. The blouse’s structured silhouette contrasts beautifully with the relaxed fit of the jeans, adding depth to her outfit.The setting is an indoor homestay, with a slightly blurred background featuring subtle elements of modern, cozy home d cor. The depth of field is shallow, focusing on the model while softly blending the background details.The scene uses soft studio lighting to highlight the model and her outfit, ensuring realistic color representation and texture. The lighting is directional, emphasizing the outfit’s details, while a cinematic look is achieved through vivid colors and a premium, polished aesthetic.The model is casually leaning against a bookcase, crossing her arms in a relaxed manner. Her head is turned towards the camera, capturing her confident expression, while the books add a touch of homeliness to the scene."
+
+  193.Chân dung cô gái trẻ phong cách hiện đại giữa phố phường sành điệu
+  "Create a realistic portrait of a young woman (face 100% identical to the original attached photo, no editing required). Keep my original face. The model is an Asian girl, aged between 18-25, with a confident and elegant demeanor. Her long, sleek black hair is styled in loose waves cascading down her shoulders. She has a natural makeup look with a focus on soft pink lips and subtle winged eyeliner. Her expression radiates confidence and grace.The model is wearing a stylish puff-sleeve gingham top that fits snugly at the waist. The top’s delicate checkered pattern is black and white, providing a classic yet modern appeal. Paired with the top are high-waisted white shorts, crafted from a soft, flowy fabric that adds to the elegance of her ensemble.The background is an upscale urban street scene, slightly blurred to focus attention on the model. The setting includes indications of metropolitan architecture, like modern glass buildings and chic street lamps, enhancing the fashion-forward ambiance.The lighting is soft yet directional, highlighting the texture of the puff-sleeve gingham top and the smoothness of the white shorts. The shallow depth of field creates a cinematic effect, with vivid colors and sharp edges. The overall scene is captured in high resolution, ensuring a premium and polished look that emphasizes the fashion ensemble’s elegance.The model lightly rests her fingertips against a modern street lamp, her posture composed and expression captivating, blending seamlessly with the upscale urban scene."
+
+  194.Chân dung cô gái trẻ thanh lịch trong không gian nội thất hiện đại
+  "Create a realistic portrait of a young woman (face 100% identical to the original attached photo, no editing required). Keep my original face. The model is a poised and elegant Asian girl, with a softly tousled bob hairstyle. Her makeup is luminous and dewy to highlight her cheekbones, with a subtle pink lip. She wears delicate pearl earrings.The model wears a fitted, short-sleeved top with a sweetheart neckline and a flared mini skirt in cream with black polka dots. She pairs this with sleek black ankle boots.The background is a slightly blurred minimalist apartment with a cinematic effect to keep the model in focus.The image is in high resolution with vivid colors and sharp edges, aiming for a premium, polished look.The model strolls softly across the living area with her back towards the camera, glancing back with a mysterious yet inviting smile."
+
+  195.Chân dung cô gái trẻ thanh lịch trong không gian tối giản hiện đại
+  "Create a realistic portrait of a young woman (face 100% identical to the original attached photo, no editing required). Keep my original face. The model is a poised and elegant Asian girl, with a softly tousled bob hairstyle. Her makeup is luminous and dewy to highlight her cheekbones, with a subtle pink lip. She wears delicate pearl earrings.The model wears a fitted, short-sleeved top with a sweetheart neckline and a flared mini skirt in cream with black polka dots. She pairs this with sleek black ankle boots.The background is a slightly blurred minimalist apartment with a cinematic effect to keep the model in focus.The image is in high resolution with vivid colors and sharp edges, aiming for a premium, polished look.The model gracefully stands with one hand on her waist and the other gently touching her chin, gazing thoughtfully towards the window."
+
+  196.Chân dung nữ thanh niên bên biển đầy quyến rũ và thanh lịch
+  "Create a realistic portrait of a young woman (face 100% identical to the original attached photo, no editing required). Keep my original face. The model is an elegant Asian girl around 22 years old with a sleek, glossy black A-line hairstyle that frames her face beautifully. Her makeup is understated yet sophisticated, focusing on natural tones with a soft pink lipstick that complements her outfit. She wears delicate gold stud earrings and a slender chain bracelet.The model is wearing a light pink fitted crop top that accentuates her figure, paired with white, loose, high-waisted pants that flow elegantly with her movement. The contrast between the form-fitting top and the airy pants creates a balanced and stylish ensemble.The setting is beside the sea, offering a serene and expansive backdrop that is slightly blurred to emphasize the model. The background features gentle waves and a distant horizon, enhancing the sense of tranquility and openness.The image uses cinematic lighting with a soft, natural glow, capturing the golden tones of a late afternoon sun. A shallow depth of field is employed to ensure the model is the sharp focus, with realistic skin tones and vibrant colors, making it ideal for a high-resolution fashion scene.She sits elegantly on a large rock, her legs crossed at the ankles, looking pensively at the horizon as if in deep thought, with a soft smile playing on her lips."
+
+  197.Chân dung nữ thanh niên bên bờ biển với phong cách thời trang thanh lịch
+  "Create a realistic portrait of a young woman (face 100% identical to the original attached photo, no editing required). Keep my original face. The model is an elegant Asian girl around 22 years old with a sleek, glossy black A-line hairstyle that frames her face beautifully. Her makeup is understated yet sophisticated, focusing on natural tones with a soft pink lipstick that complements her outfit. She wears delicate gold stud earrings and a slender chain bracelet.The model is wearing a light pink fitted crop top that accentuates her figure, paired with white, loose, high-waisted pants that flow elegantly with her movement. The contrast between the form-fitting top and the airy pants creates a balanced and stylish ensemble.The setting is beside the sea, offering a serene and expansive backdrop that is slightly blurred to emphasize the model. The background features gentle waves and a distant horizon, enhancing the sense of tranquility and openness.The image uses cinematic lighting with a soft, natural glow, capturing the golden tones of a late afternoon sun. A shallow depth of field is employed to ensure the model is the sharp focus, with realistic skin tones and vibrant colors, making it ideal for a high-resolution fashion scene.The model stands gracefully near the shoreline, her head slightly tilted toward the sea, with one hand gently brushing through her hair as the wind lightly tousles it."
+
+  198.Chân dung thanh lịch của cô gái châu Á trong bức ảnh thời trang đô thị
+  " Create a realistic portrait of a young woman (face 100% identical to the original attached photo, no editing required). Keep my original face. An elegant Asian girl model, aged around 22, with jet-black hair styled in soft waves that gently cascade over her shoulders. Her makeup is subtle yet sophisticated, featuring a nude-toned lipstick and a hint of blush to enhance her natural features. She wears delicate gold earrings that catch the soft light.She is wearing a flowy beige blouse with balloon sleeves and a cinched waist, which elegantly contrasts with a flared white skirt that ends just below her knees. The blouse material gently drapes over her form, and the skirt sways slightly as she walks, emphasizing the lightness and movement of the garments.The photo shoot takes place on an upscale urban street with a slightly blurred background that features hints of chic boutiques and modern architecture. This slight blur uses a shallow depth of field to ensure attention remains on the model.The photograph uses soft studio lighting that adds a cinematic glow to the scene, highlighting the fabric’s details and texture while ensuring accurate color representation. The overall image is sharp and high-resolution, with vivid colors and a polished, premium look suitable for fashion branding.She pauses at a storefront, gazing slightly upwards as if admiring the architecture, her hand delicately resting on her chin."
+
+  199.Chân dung thanh lịch của cô nàng 18 tuổi tại quán cafe sang trọng
+  "Create a realistic portrait of a young woman (face 100% identical to the original attached photo, no editing required). Keep my original face. The model is an elegant Asian girl, aged between 18 and 25, with flowing black hair styled in loose waves cascading around her shoulders. Her makeup is natural, enhancing her eyes with a subtle eyeliner and a soft pink lip shade to complement her youthful and confident appearance. The overall look is accented with delicate pearl earrings and minimalistic rings.She is wearing a light, airy crop top with puff sleeves and a delicate tie at the neckline that softly flutters as she moves. The top is perfectly paired with a layered, ruffled mini skirt in a pale hue, made of a textured fabric that adds depth and interest to the ensemble.The setting is a luxurious outdoor cafe, with a slightly blurred background featuring elegant tables and chairs under large, chic umbrellas. The sunlight filters through the trees, creating a lovely dappled lighting effect.The scene employs cinematic lighting with a shallow depth of field, ensuring the focus remains on the model and her outfit. The use of soft natural light highlights the textures and details of the fabric, maintaining accurate color representation. The overall image is high-resolution, featuring vivid colors and sharp edges for a premium, polished look.She stands beside a cafe table, slightly leaning forward with one hand on the back of a chair, looking playfully at the camera, her skirt softly flowing in the breeze."
+
+200. Chân dung thiếu nữ hiện đại giữa lòng phố thị sang trọng và ấn tượng
+     "Create a realistic portrait of a young woman (face 100% identical to the original attached photo, no editing required). Keep my original face. The model is an elegant Asian girl, aged 20, with long, flowing black hair styled into beachy waves. Her makeup is natural, with highlights accentuating her cheekbones, and she’s wearing minimalistic jewelry-a thin gold necklace and small hoop earrings. Her expression is confident and approachable, with a slight, natural smile.The model wears an oversized off-shoulder white tee that lightly drapes over one shoulder, giving a relaxed yet chic vibe. The tee has a soft texture with a slight shimmer. She pairs it with high-waisted wide-leg light blue jeans that elegantly elongate her legs, featuring subtle faded details that add a modern touch.The background is an upscale urban street, slightly blurred to create a cinematic effect. Tall buildings line the street, occasionally punctuated by lush, green trees. The overall scene is bustling yet serene, capturing the essence of urban sophistication.The lighting is soft and natural, coming from the side, creating gentle shadows that highlight the texture of the fabric. The use of shallow depth of field draws focus to the model while maintaining the background’s essence. The scene is captured in high resolution, with vivid colors and sharp details, providing a polished, editorial look.The model casually runs her fingers through her hair, looking upwards as if she is admiring the architecture, giving off a sense of wonder and sophistication."
