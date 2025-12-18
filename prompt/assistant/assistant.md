@@ -638,3 +638,342 @@ Chào mừng bạn đến với kho tàng tri thức về **Prompt Engineering**
 
 200. Interleaving Practice
 "Giải thích phương pháp học xen kẽ (Interleaving) và đề xuất lịch học xen kẽ 3 môn: Excel, Photoshop, và Tiếng Anh trong 1 tuần."
+
+### XI. ⚖️ Tài Chính & Đầu Tư (Finance & Investment)
+*Quản lý tiền bạc, tối ưu dòng tiền và bảo vệ tài sản.*
+
+201. Phân Tích Danh Mục Đầu Tư
+"Tôi đang có danh sách các tài sản đầu tư như sau: [Danh sách tài sản]. Hãy giúp tôi đánh giá độ rủi ro và sự đa dạng hóa của danh mục này."
+
+202. Chiến Lược Tiết Kiệm Mua Nhà
+"Tôi muốn mua nhà trong 5 năm tới với giá khoảng [Số tiền]. Hiện tại tôi có [Số tiền]. Hãy lập kế hoạch tiết kiệm và đầu tư hàng tháng để đạt được mục tiêu này."
+
+203. Giải Thích Chỉ Số Chứng Khoán
+"Chỉ số P/E và P/B trong đầu tư chứng khoán là gì? Hãy giải thích một cách dễ hiểu và cho ví dụ khi nào chỉ số này được coi là tốt."
+
+204. Tối Ưu Thuế Cá Nhân
+"Gợi ý các cách hợp pháp để tối ưu hóa thuế thu nhập cá nhân tại Việt Nam, ví dụ như giảm trừ gia cảnh hay bảo hiểm tự nguyện."
+
+205. Lập Kế Hoạch Hưu Trí
+"Tôi hiện [Tuổi] tuổi và muốn nghỉ hưu ở tuổi [Tuổi]. Hãy tính toán số tiền tôi cần tích lũy để có thể duy trì mức chi tiêu [Số tiền]/tháng sau khi nghỉ hưu."
+
+206. So Sánh Các Kênh Đầu Tư
+"So sánh ưu và nhược điểm của việc gửi tiết kiệm ngân hàng, mua vàng và đầu tư vào quỹ chỉ số (Index Fund) trong bối cảnh lạm phát hiện nay."
+
+207. Quản Lý Nợ Thẻ Tín Dụng
+"Tôi đang nợ thẻ tín dụng [Số tiền] với lãi suất [Số %]. Hãy gợi ý chiến lược trả nợ hiệu quả nhất: phương pháp Snowball hay Avalanche?"
+
+208. Đánh Giá Bảo Hiểm Nhân Thọ
+"Hãy giúp tôi phân tích các điều khoản quan trọng trong hợp đồng bảo hiểm nhân thọ này [Mô tả hoặc hình ảnh] để xem nó có thực sự cần thiết không."
+
+209. Tìm Hiểu Về Crypto Cho Người Mới
+"Tiền điện tử (Cryptocurrency) hoạt động như thế nào? Mối quan hệ giữa Bitcoin và Blockchain là gì? Giải thích ngắn gọn thôi."
+
+210. Template Báo Cáo Tài Chính Cá Nhân
+"Tạo một template Excel đơn giản để theo dõi Thu nhập, Chi phí và Tài sản ròng (Net Worth) hàng tháng."
+
+
+### XII. 🏡 Gia Đình & Đời Sống (Home & Family)
+*Giữ lửa tổ ấm, nuôi dạy con cái và quản lý không gian sống.*
+
+211. Thực Đơn Cho Bé Ăn Dặm
+"Bé nhà tôi 6 tháng tuổi, hãy gợi ý thực đơn ăn dặm theo phương pháp chỉ huy (BLW) trong tuần đầu tiên."
+
+212. Trò Chơi Giáo Dục Tại Nhà
+"Gợi ý 5 trò chơi tại nhà giúp trẻ mầm non phát triển tư duy logic và ngôn ngữ mà không cần dùng đến thiết bị điện tử."
+
+213. Kỹ Thuật Làm Sạch Vết Bẩn Khó
+"Làm thế nào để tẩy vết mực bút bi trên áo sơ mi trắng mà không làm hỏng vải?"
+
+214. Sắp Xếp Nhà Cửa Thông Minh
+"Phòng ngủ của tôi chỉ rộng 10m2. Hãy gợi ý cách sắp xếp đồ đạc theo phong cách tối giản để tạo không gian thoáng đãng hơn."
+
+215. Kế Hoạch Chăm Sóc Cây Cảnh
+"Tôi mới mua một cây Kim Ngân. Hãy lập lịch tưới nước và bón phân chi tiết để cây phát triển tốt trong môi trường văn phòng."
+
+216. Tư Vấn Tâm Lý Tuổi Dậy Thì
+"Con tôi đang ở độ tuổi dậy thì và trở nên khép kín. Làm thế nào để tôi có thể kết nối và làm bạn với con một cách tự nhiên nhất?"
+
+217. Lập Ngân Sách Đi Chợ Cho Gia Đình
+"Với [Số tiền] mỗi tuần cho gia đình 4 người, hãy lên danh sách đi chợ sao cho vừa đủ dinh dưỡng vừa tiết kiệm."
+
+218. Giải Quyết Mâu Thuẫn Vợ Chồng
+"Vợ chồng tôi hay tranh cãi về việc phân công việc nhà. Hãy gợi ý một kịch bản nói chuyện hòa giải và công bằng cho cả hai."
+
+219. Kế Hoạch Tiệc Sinh Nhật Tại Gia
+"Lập kế hoạch tổ chức tiệc sinh nhật cho trẻ 5 tuổi tại nhà với ngân sách [Số tiền], bao gồm trang trí và menu."
+
+220. Checklist Dọn Nhà Đón Tết
+"Tạo danh sách các đầu việc cần làm để tổng vệ sinh nhà cửa đón Tết trong vòng 3 ngày."
+
+
+### XIII. 💼 Phát Triển Sự Nghiệp (Career Advancement)
+*Vươn tới những nấc thang mới trong sự nghiệp chuyên nghiệp.*
+
+221. Xây Dựng Thương Hiệu Cá Nhân
+"Tôi muốn trở thành chuyên gia trong lĩnh vực [Lĩnh vực]. Hãy lập lộ trình xây dựng thương hiệu cá nhân trên LinkedIn trong 6 tháng tới."
+
+222. Kỹ Thuật Đàm Phán Lương
+"Tôi chuẩn bị có buổi review lương. Hãy chuẩn bị cho tôi các luận điểm thuyết phục dựa trên những đóng góp: [Danh sách đóng góp]."
+
+223. Chuyển Đổi Ngành Nghề (Career Pivot)
+"Tôi đang làm [Ngành cũ] và muốn chuyển sang [Ngành mới]. Những kiến thức/kỹ năng nào tôi có thể tận dụng (Transferable skills)?"
+
+224. Tạo Hồ Sơ Năng Lực (Portfolio)
+"Gợi ý cấu trúc cho một Portfolio ấn tượng dành cho vị trí [Vị trí], kèm theo các tips để làm nổi bật kết quả công việc."
+
+225. Kỹ Năng Lãnh Đạo Cho Người Mới
+"Tôi vừa được thăng chức lên Leader. Hãy cho tôi lời khuyên về cách quản lý những đồng nghiệp cũ mà không gây ra sự khó chịu."
+
+226. Tìm Kiếm Mentor Phù Hợp
+"Viết tin nhắn ngỏ ý nhờ một chuyên gia trong ngành làm Mentor cho mình một cách chân sành và chuyên nghiệp."
+
+227. Đối Phó Với Hội Chứng Kẻ Mạo Danh (Imposter Syndrome)
+"Tôi luôn cảm thấy mình không đủ giỏi dù đã có thành tựu. Hãy giúp tôi thực hiện một bài tập tư duy để vượt qua cảm giác này."
+
+228. Lập Kế Hoạch 90 Ngày Đầu Tiên
+"Tôi chuẩn bị bắt đầu công việc mới tại [Công ty] với vị trí [Vị trí]. Hãy lập kế hoạch hành động cho 90 ngày đầu tiên để gây ấn tượng tốt."
+
+229. Mở Rộng Mạng Lưới Quan Hệ (Networking)
+"Làm thế nào để bắt đầu một cuộc trò chuyện với diễn giả sau một buổi workshop mà không thấy ngại ngùng?"
+
+230. Viết Thư Nghỉ Việc (Resignation Letter)
+"Soạn một bức thư nghỉ việc chuyên nghiệp, thể hiện sự biết ơn đối với công ty cũ nhưng vẫn giữ được sự dứt khoát về lý do ra đi."
+
+
+### XIV. 🧠 Tâm Lý & Sức Khỏe Tinh Thần (Mental Health)
+*Tìm lại sự bình tĩnh và sức mạnh nội tại.*
+
+231. Bài Tập Thiền 5 Phút
+"Hướng dẫn một bài tập thiền ngắn 5 phút để giảm căng thẳng ngay lập tức khi đang ở văn phòng."
+
+232. Đối Phó Với Burnout
+"Tôi cảm thấy kiệt sức và mất động lực làm việc. Hãy đóng vai một chuyên gia tư vấn, giúp tôi nhận diện các dấu hiệu Burnout và gợi ý bước hồi phục đầu tiên."
+
+233. Viết Nhật Ký Giải Tỏa (Shadow Work)
+"Gợi ý 5 câu hỏi để tôi thực hiện 'Shadow Work' - đi sâu vào những phần tối của bản thân để thấu hiểu chính mình hơn."
+
+234. Xây Dựng Sự Tự Tin
+"Hãy cho tôi một danh sách 10 lời khẳng định tích cực (Positive Affirmations) mỗi sáng để củng cố sự tự tin vào bản thân."
+
+235. Kỹ Thuật Grounding (5-4-3-2-1)
+"Hãy hướng dẫn tôi thực hiện kỹ thuật Grounding 5-4-3-2-1 khi cảm thấy lo âu hoặc sắp bị hoảng loạn."
+
+236. Thiết Lập Ranh Giới Cá Nhân
+"Cách nói 'Không' với các lời mời xã giao không cần thiết mà không cảm thấy tội lỗi hoặc làm mất lòng người khác."
+
+237. Vượt Qua Nỗi Sợ Thất Bại
+"Tôi muốn bắt đầu dự án này nhưng rất sợ thất bại. Hãy giúp tôi phân tích kịch bản xấu nhất (Worst-case scenario) để thấy nó không đáng sợ như tôi nghĩ."
+
+238. Bài Tập Chánh Niệm Khi Ăn (Mindful Eating)
+"Hướng dẫn tôi cách ăn một bữa ăn trong chánh niệm để cảm nhận sâu sắc hương vị và giúp ích cho tiêu hóa."
+
+239. Tìm Lại Ý Nghĩa Cuộc Sống (Ikigai)
+"Hãy giúp tôi tìm ra Ikigai của mình bằng cách trả lời 4 câu hỏi: Bạn yêu gì? Bạn giỏi gì? Thế giới cần gì? Bạn có thể được trả tiền từ việc gì?"
+
+240. Đối Phó Với Sự Chỉ Trích
+"Khi nhận được những bình luận tiêu cực trên mạng xã hội, tôi nên phản ứng như thế nào để bảo vệ tâm lý của mình?"
+
+
+### XV. 🛠️ Kỹ Thuật & DIY (Technical & DIY)
+*Tự tay khắc phục và sáng tạo mọi thứ xung quanh.*
+
+241. Sửa Lỗi Máy Tính Chậm
+"Máy tính Windows của tôi dạo này chạy rất chậm. Hãy hướng dẫn các bước kiểm tra và dọn dẹp hệ thống cơ bản."
+
+242. Kết Nối Thiết Bị IoT
+"Làm sao để kết nối đèn thông minh (Smart Bulb) với Google Home nếu ứng dụng không tìm thấy thiết bị?"
+
+243. Tự Sửa Đồ Gia Dụng Nhẹ
+"Vòi nước bồn rửa bát bị rò rỉ. Hãy hướng dẫn tôi cách kiểm tra và thay vòng đệm (O-ring) tại nhà."
+
+244. Chụp Ảnh Sản Phẩm Bằng Điện Thoại
+"Tôi muốn bán đồ cũ online. Hãy hướng dẫn cách set-up ánh sáng và góc chụp ảnh bằng điện thoại sao cho trông chuyên nghiệp nhất."
+
+245. Thiết Kế CV Thủ Công (Canva)
+"Hướng dẫn tôi các bước cơ bản để thiết kế một CV hiện đại trên Canva từ một trang trắng."
+
+246. Tìm Kiếm Thông Tin Hình Ảnh
+"Làm thế nào để tìm ra nguồn gốc của một bức ảnh hoặc tìm các ảnh tương tự chất lượng cao hơn?"
+
+247. Bảo Mật Tài Khoản Online
+"Hướng dẫn tôi cách thiết lập trình quản lý mật khẩu (Password Manager) và xác thực 2 lớp (2FA) hiệu quả nhất."
+
+248. Tự Học Sửa Xe Máy Cơ Bản
+"Những bộ phận nào của xe máy mà tôi có thể tự kiểm tra và bảo dưỡng định kỳ tại nhà mà không cần ra tiệm?"
+
+249. Cài Đặt Phần Mềm Chuyên Dụng
+"Hướng dẫn tôi cài đặt và cấu hình cơ bản cho phần mềm OBS để bắt đầu livestream."
+
+250. Tận Dụng Đồ Cũ (Upcycling)
+"Tôi có rất nhiều hộp bìa cứng cũ. Hãy gợi ý 3 ý tưởng DIY để biến chúng thành đồ dùng hữu ích trong gia đình."
+
+
+### XVI. 🌍 Ngôn Ngữ & Văn Hóa (Culture & Language)
+*Khám phá thế giới qua ngôn từ và những giá trị đa dạng.*
+
+251. Học Từ Vựng Qua Bài Hát
+"Hãy chọn ra 5 từ vựng hay từ lời bài hát [Tên bài hát] và giải thích nghĩa cũng như cách dùng trong đời sống."
+
+252. Luyện Nói Một Mình (Self-talk)
+"Gợi ý 3 chủ đề để tôi có thể tự luyện nói tiếng Anh mỗi ngày trong vòng 10 phút."
+
+253. Tìm Hiểu Văn Hóa Giao Tiếp
+"Khi sang [Quốc gia], những hành vi nào được coi là khiếm nhã trong văn hóa ăn uống mà tôi cần tránh?"
+
+254. Dịch Thuật Ý Thơ
+"Dịch bài thơ lục bát này sang tiếng Anh sao cho vẫn giữ được vần điệu và cảm xúc [Dán thơ]."
+
+255. Viết Thư Tay Chúc Mừng
+"Soạn một bức thư chúc mừng đám cưới bằng tiếng Pháp (có kèm dịch nghĩa) cho một người bạn người Pháp."
+
+256. Giải Thích Thành Ngữ (Idioms)
+"Ý nghĩa thực sự của câu thành ngữ 'Break a leg' là gì và nó bắt nguồn từ đâu?"
+
+257. Phân Biệt Các Giọng Địa Phương
+"Sự khác biệt chính giữa tiếng Anh giọng Anh (British Accent) và giọng Mỹ (American Accent) là gì?"
+
+258. Gợi Ý Sách Văn Học Kinh Điển
+"Tôi muốn làm quen với văn học Nga. Hãy gợi ý 3 tác phẩm kinh điển dễ đọc nhất cho người mới."
+
+259. Kịch Bản Giới Thiệu Văn Hóa Việt Nam
+"Nếu phải giới thiệu về món Phở Việt Nam cho một người bạn nước ngoài trong 2 phút, tôi nên nói những gì?"
+
+260. Tạo Flashcard Học Kanji
+"Hướng dẫn cách ghi nhớ 10 chữ Kanji cơ bản về chủ đề thiên nhiên bằng phương pháp chiết tự."
+
+
+### XVII. 📺 Giải Trí & Multimedia (Multimedia & Fun)
+*Thư giãn thông minh và sáng tạo nội dung đa phương tiện.*
+
+261. Biên Tập Video Cơ Bản
+"Dùng CapCut, làm thế nào để tạo hiệu ứng chuyển cảnh mượt mà giữa các bức ảnh đơn lẻ?"
+
+262. Tìm Kiếm Nhạc Không Bản Quyền
+"Gợi ý các nguồn nhạc nền chất lượng cao và hoàn toàn miễn phí bản quyền để dùng cho kênh YouTube."
+
+263. Viết Lời Bình Cho Podcast
+"Soạn lời mở đầu (Intro) cho một tập Podcast về chủ đề 'Sách và Cuộc sống', hướng tới đối tượng người trẻ bận rộn."
+
+264. Gợi Ý Game Co-op
+"Tôi và bạn muốn chơi game cùng nhau trên điện thoại. Hãy giới thiệu 5 tựa game co-op hay nhất hiện nay."
+
+265. Phân Tích Kịch Bản Phim
+"Tại sao bộ phim [Tên phim] lại gây được hiệu ứng mạnh về mặt cảm xúc đến vậy? Phân tích ở góc độ xây dựng nhân vật."
+
+266. Tạo Playlist Theo Mùa
+"Tạo một danh sách nhạc 'Lofi hiphop' phù hợp để nghe khi làm việc trong những ngày mưa mùa đông."
+
+267. Ý Tưởng Chụp Ảnh Street Photography
+"Tôi mới bắt đầu tập chụp ảnh đường phố. Gợi ý 3 kịch bản hoặc góc máy giúp bộ ảnh có tính kể chuyện (Storytelling)."
+
+268. Chọn Thiết Bị Audio
+"So sánh tai nghe In-ear và Over-ear. Loại nào tốt hơn cho việc nghe nhạc Hi-fi và bảo vệ thính lực?"
+
+269. Kịch Bản Review Sách Nhanh
+"Viết kịch bản ngắn 45s để review một cuốn sách tớ vừa đọc trên Facebook Reels/TikTok."
+
+270. Giải Đố Vui Hại Não
+"Cho tớ 5 câu đố vui dân gian nhưng khó trả lời để tớ đố bạn bè trong buổi tụ tập."
+
+
+### XVIII. 📊 Phân Tích & Logic (Analysis & Logic)
+*Rèn luyện tư duy phản biện và xử lý dữ liệu.*
+
+271. Giải Thích Ngụy Biện (Fallacies)
+"Ngụy biện 'Ad Hominem' là gì? Hãy cho ví dụ cụ thể về nó trong các cuộc tranh luận trên mạng."
+
+272. Phân Tích Dữ Liệu Cơ Bản
+"Từ bảng dữ liệu doanh số này [Dán text], hãy chỉ ra xu hướng tăng trưởng theo tháng và nhóm hàng bán chạy nhất."
+
+273. Thiết Kế Khảo Sát (Survey)
+"Tôi cần làm khảo sát về mức độ hài lòng của khách hàng. Hãy soạn 5 câu hỏi trọng tâm nhất."
+
+274. Bài Toán Xác Suất Thực Tế
+"Xác suất để rút được một quân bài Cơ trong bộ bài 52 lá là bao nhiêu? Giải thích cách tính."
+
+275. Kiểm Chứng Thông Tin (Fact-check)
+"Làm thế nào để biết một tin tức trên mạng là thật hay giả? Gợi ý quy trình 3 bước kiểm chứng nhanh."
+
+276. So Sánh Hai Mô Hình Kinh Doanh
+"So sánh mô hình Dropshipping và Affiliate Marketing. Mô hình nào phù hợp hơn cho người vốn ít?"
+
+277. Tối Ưu Hóa Quy Trình Sản Xuất
+"Áp dụng tư duy Lean (Sản xuất tinh gọn) vào việc quản lý một cửa hàng bán bánh mì nhỏ."
+
+278. Giải Thích Nghịch Lý (Paradoxes)
+"Nghịch lý Fermi về sự tồn tại của người ngoài hành tinh là gì? Những lời giải thích phổ biến nhất?"
+
+279. Tạo Sơ Đồ Quy Trình (Flowchart)
+"Mô tả bằng văn bản các bước trong sơ đồ quy trình xử lý đơn hàng từ lúc khách đặt đến lúc giao thành công."
+
+280. Tư Duy Hệ Thống (Systems Thinking)
+"Giải thích khái niệm 'Vòng lặp phản hồi tích cực' và ứng dụng của nó trong việc hình thành thói quen tốt."
+
+
+### XIX. 💡 Khởi Nghiệp & Đổi Mới (Startup & Innovation)
+*Từ ý tưởng sơ khai đến mô hình kinh doanh thực chiến.*
+
+281. Kiểm Chứng Ý Tưởng (Validation)
+"Tôi có ý tưởng làm app [Mô tả app]. Hãy gợi ý cách kiểm chứng xem thị trường có thực sự cần nó không mà không cần tốn nhiều tiền."
+
+282. Viết Tuyên Bố Giá Trị (Value Proposition)
+"Hãy đóng vai một chuyên gia Marketing, giúp tôi viết câu Value Proposition cho sản phẩm [Sản phẩm]."
+
+283. Tìm Kiếm Người Đồng Sáng Lập (Co-founder)
+"Những tiêu chí nào là quan trọng nhất khi chọn một người đồng sáng lập cho dự án công nghệ?"
+
+284. Lập Kế Hoạch MVPs
+"Định nghĩa phiên bản sản phẩm tối giản (MVP) cho dự án [Dự án] để có thể ra mắt trong vòng 2 tuần."
+
+285. Pitching Ý Tưởng Trong 30 Giây
+"Soạn một bài 'Elevator Pitch' 30 giây ấn tượng cho dự án khởi nghiệp về môi trường."
+
+286. Chiến Lược Thu Hút Khách Hàng Đầu Tiên
+"Lưu ý 3 cách hiệu quả nhất để có được 100 khách hàng đầu tiên mà không dùng quảng cáo trả phí (Paid Ads)."
+
+287. Phân Tích Đối Thủ Cạnh Tranh
+"Lập bảng so sánh tính năng và giá cả giữa sản phẩm của tôi và 2 đối thủ hàng đầu trong ngành [Ngành]."
+
+288. Gọi Vốn Cộng Đồng (Crowdfunding)
+"Những yếu tố nào làm nên thành công của một chiến dịch gọi vốn trên Kickstarter?"
+
+289. Văn Hóa Khởi Nghiệp (Startup Culture)
+"Làm thế nào để xây dựng một văn hóa làm việc linh hoạt và sáng tạo cho một team dưới 5 người?"
+
+290. Gợi Ý Các Công Cụ No-code
+"Gợi ý các công cụ No-code giúp tôi xây dựng một website bán hàng chuyên nghiệp mà không cần biết lập trình."
+
+
+### XX. 🤝 Câu Hỏi Tình Huống Phức Tạp (Complex Scenarios)
+*Giải quyết những nan đề khó nhằn trong công việc và cuộc sống.*
+
+291. Đối Phó Với Đồng Nghiệp Độc Hại
+"Tôi phải làm việc chung với một người chuyên đổ lỗi và tranh công. Hãy gợi ý chiến thuật để bảo vệ bản thân và hoàn thành tốt công việc."
+
+292. Thương Lượng Với Khách Hàng Khó Tính
+"Khách hàng đột ngột đòi giảm giá 50% nếu không sẽ hủy hợp đồng. Tôi nên trả lời email này như thế nào?"
+
+293. Giải Quyết Khủng Hoảng Truyền Thông Nhỏ
+"Shop online của tôi bị một khách hàng tố cáo sai sự thật trên group cộng đồng. Tôi nên xử lý như thế nào để giữ uy tín?"
+
+294. Khi Sếp Giao Quá Nhiều Việc
+"Sếp giao cho tôi 3 dự án lớn cùng một lúc. Hãy gợi ý cách nói chuyện để xin ưu tiên công việc hoặc xin thêm nguồn lực."
+
+295. Thuyết Phục Stakeholders Bảo Thủ
+"Làm thế nào để thuyết phục ban lãnh đạo áp dụng công nghệ mới khi họ luôn sợ rủi ro?"
+
+296. Xử Lý Khi Phát Hiện Lỗi Bảo Mật
+"Tôi vô tình phát hiện một lỗ hổng bảo mật nghiêm trọng trong hệ thống của công ty. Tôi nên báo cáo việc này cho ai và như thế nào?"
+
+297. Từ Chối Một Lời Mời Đầu Tư
+"Soạn tin nhắn từ chối một lời mời góp vốn từ người quen vì cảm thấy dự án không tiềm năng, sao cho không mất lòng."
+
+298. Quản Lý Team Khi Có Thành Viên Nghỉ Việc Đột Ngột
+"Một nhân sự chủ chốt vừa xin nghỉ ngay lập tức. Với vai trò quản lý, tôi cần thực hiện những bước nào để ổn định team?"
+
+299. Đối Mặt Với Tin Đồn Tại Nơi Làm Việc
+"Có tin đồn không hay về đời tư của tôi đang lan truyền trong công ty. Tôi nên im lặng hay lên tiếng đính chính?"
+
+300. Lựa Chọn Giữa Các Cơ Hội Quan Trọng
+"Tôi đang đứng trước 2 lựa chọn: Một công việc lương cao nhưng áp lực, và một cơ hội khởi nghiệp đầy rủi ro. Hãy giúp tôi phân tích dựa trên tiêu chí giá trị sống."
