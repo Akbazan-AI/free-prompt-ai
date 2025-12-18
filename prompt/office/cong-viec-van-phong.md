@@ -1,3 +1,11 @@
+---
+description: Hướng dẫn sử dụng AI trong công việc văn phòng
+category: office
+tags: [email, report, presentation, office, document]
+date: 2025-12-16
+author: AI TEAM
+---
+
 # Hướng dẫn sử dụng AI trong công việc văn phòng
 
 ## Cách sử dụng
