@@ -292,6 +292,254 @@ Công thức chi tiết:
 Yêu cầu: Giải thích từng công thức, hướng dẫn sử dụng.
 ```
 
+### 16. Viết Email Theo Dõi (Follow-up Email)
+```
+Viết email follow-up sau [Cuộc họp/Proposal/Email trước đó]:
+- Người nhận: [Tên/Chức vụ]
+- Lần liên hệ: [Lần 1/2/3]
+- Thời gian gửi lần trước: [Ngày]
+- Mục đích: [Nhắc nhở/Hỏi ý kiến/Xác nhận]
+
+Cấu trúc:
+1. Lời chào + Tham chiếu email/cuộc họp trước
+2. Nhắc lại nội dung chính (ngắn gọn)
+3. Yêu cầu action cụ thể
+4. Thời hạn (nếu có)
+5. Cảm ơn + Kết thúc
+
+Tone: Chuyên nghiệp, không nóng vội, tôn trọng thời gian.
+```
+
+### 17. Tạo Mẫu Hợp Đồng/Thỏa Thuận
+```
+Tạo draft hợp đồng/thỏa thuận cho [Loại]:
+- Các bên liên quan: [Bên A/Bên B]
+- Hiệu lực từ: [Ngày]
+- Kỳ hạn: [Thời gian]
+
+Nội dung bao gồm:
+1. Preamble (Giới thiệu các bên)
+2. Định nghĩa thuật ngữ chính
+3. Quyền và trách nhiệm của mỗi bên
+4. Điều khoản thanh toán (nếu có)
+5. Thời hạn và điều khoản kết thúc
+6. Điều khoản bảo mật
+7. Xử lý tranh chấp
+8. Chữ ký và ngày
+
+Yêu cầu: Pháp lý nhưng dễ hiểu, bảo vệ cả hai bên.
+```
+
+### 18. Viết Proposal (Đề Xuất Dự Án)
+```
+Viết proposal để [Mục đích - bán dịch vụ/lên kế hoạch/xin ngân sách]:
+- Người nhận: [Tên/Chức vụ]
+- Giá trị dự án: [Ngân sách ước tính]
+- Thời gian thực hiện: [Khoảng thời gian]
+
+Cấu trúc proposal:
+1. Tiêu đề + Executive Summary (1 đoạn)
+2. Tình huống hiện tại (Vấn đề)
+3. Giải pháp đề xuất
+4. Lợi ích mang lại (cụ thể, có số liệu)
+5. Timeline chi tiết
+6. Ngân sách/Chi phí
+7. Đội ngũ/Năng lực thực hiện
+8. Rủi ro và cách giảm thiểu
+9. Điều khoản và Điều kiện
+10. Call to Action
+
+Tone: Thuyết phục, dựa trên dữ liệu, chuyên nghiệp.
+```
+
+### 19. Tạo Dashboard Báo Cáo Hàng Tuần
+```
+Tạo template báo cáo hàng tuần để [Phòng ban/Dự án/Cá nhân]:
+- Tuần: [Ngày bắt đầu - Kết thúc]
+- Người lập: [Tên]
+- Người nhận: [Tên/Chức vụ]
+
+Cấu trúc:
+1. Highlights (3-5 điểm nổi bật tuần này)
+2. Tiến độ công việc:
+   ✅ Hoàn thành: [Danh sách]
+   🔄 Đang thực hiện: [Danh sách + % tiến độ]
+   ⏳ Sắp tới tuần sau: [Danh sách]
+3. Chỉ số KPIs:
+   | Chỉ số | Target | Thực tế | % Hoàn thành |
+4. Vấn đề gặp phải: [Liệt kê + giải pháp]
+5. Yêu cầu hỗ trợ từ bộ phận khác
+6. Kế hoạch tuần tới
+
+Tone: Súc tích, dễ quét nhanh, data-driven.
+```
+
+### 20. Viết Rekomendasi Nhân Sự
+```
+Viết email rekomendasi/giới thiệu cho nhân viên [Tên]:
+- Vị trí cũ: [Chức danh]
+- Thời gian cùng làm việc: [Khoảng thời gian]
+- Vị trí ứng tuyển: [Tên vị trí - công ty]
+- Người nhận: [HR/Manager tại công ty mới]
+
+Nội dung bao gồm:
+1. Cách bạn biết candidate
+2. Các điểm mạnh chính (3-4 điểm):
+   - Chuyên môn cụ thể
+   - Kỹ năng mềm
+   - Thành tích nổi bật
+3. Ví dụ cụ thể về thành công
+4. Tính cách/Phù hợp với team
+5. Đánh giá tổng quát
+6. Lời đề nghị cuối cùng
+7. Liên hệ để hỏi thêm
+
+Tone: Chân thành, chi tiết, có thuyết phục lực.
+```
+
+### 21. Tạo Danh Sách Khách Hàng Tiềm Năng
+```
+Tạo danh sách sales prospect cho [Sản phẩm/Dịch vụ]:
+- Ngành mục tiêu: [Loại công ty/Ngành]
+- Kích cỡ công ty: [Nhỏ/Vừa/Lớn]
+- Khu vực địa lý: [Miền/Tỉnh]
+- Số lượng prospect: [Số lượng]
+
+Cấu trúc danh sách:
+| STT | Tên Công Ty | Lĩnh Vực | Contact | Chức vụ | Phone | Email | Ghi Chú |
+
+Để mỗi prospect, cần:
+- Tên công ty + Website
+- Người cần liên hệ (Decision Maker)
+- Thông tin liên hệ
+- Lý do tiềm năng
+- Best time to reach
+
+Yêu cầu: Chính xác, đủ thông tin để cold outreach.
+```
+
+### 22. Tạo Script Cuộc Gọi Sales
+```
+Tạo script cho cuộc gọi [Loại: Outbound/Inbound/Follow-up]:
+- Sản phẩm/Dịch vụ: [Tên]
+- Đối tượng: [Loại customer]
+- Mục tiêu cuộc gọi: [Lên lịch demo/Bán/Xin feedback]
+
+Cấu trúc script:
+1. Mở đầu (Giới thiệu + Hook - 15 giây)
+   "Xin chào [Tên], tôi là [Tên] từ [Công ty]..."
+   
+2. Qualification (Hỏi 2-3 câu để hiểu nhu cầu)
+   - Câu hỏi 1: ...
+   - Câu hỏi 2: ...
+   
+3. Pitch (Giới thiệu giải pháp - 30 giây)
+   - Vấn đề bạn giải quyết
+   - Cách giải quyết
+   - Lợi ích cụ thể
+   
+4. Handle Objection (Xử lý phản đối)
+   - Phản đối 1: ... → Trả lời: ...
+   - Phản đối 2: ... → Trả lời: ...
+   
+5. Close (Kết thúc - 20 giây)
+   - Confirm tiếp theo
+   - Lấy contact info
+   - Cảm ơn
+
+Tone: Tự nhiên, không sách vở, sẵn sàng lắng nghe.
+```
+
+### 23. Viết Job Posting (Tuyên Bố Tuyển Dụng)
+```
+Viết bài tuyển dụng cho vị trí [Chức danh]:
+- Phòng ban: [Tên]
+- Loại hợp đồng: [Full-time/Part-time/Hợp đồng]
+- Mức lương: [Khoảng lương]
+- Hạn chót ứng tuyển: [Ngày]
+
+Nội dung bài post:
+1. Lời mở: [Câu hook hấp dẫn - 1-2 câu]
+2. Về công ty: [Mô tả ngắn 2-3 câu]
+3. Về vị trí:
+   - Trách nhiệm chính (5-7 điểm)
+   - Team bạn sẽ làm việc với
+4. Yêu cầu:
+   - Bắt buộc (3-4 điểm)
+   - Ưu tiên (2-3 điểm)
+5. Quyền lợi (Salary, Benefits, Growth)
+6. Cách ứng tuyển: [Link form/Email]
+
+Tone: Invite, enthusiastic, clear about expectations.
+```
+
+### 24. Tạo Performance Review Template
+```
+Tạo form đánh giá hiệu suất công việc cho [Chức danh/Nhân viên]:
+- Kỳ đánh giá: [Quý/Năm]
+- Người được đánh giá: [Tên]
+- Người đánh giá: [Tên/Chức vụ]
+
+Nội dung form:
+1. Tiêu chí đánh giá (1-5 điểm hoặc %).
+   - Chất lượng công việc
+   - Tính kỷ luật/Tuân thủ
+   - Kỹ năng giao tiếp
+   - Sáng tạo/Problem-solving
+   - Teamwork/Hợp tác
+   - KPIs đạt được vs Target
+
+2. Điểm mạnh: [Tối thiểu 3 điểm]
+
+3. Cần cải thiện: [Tối thiểu 2 điểm]
+
+4. Hành động cải thiện:
+   - Mục tiêu cụ thể
+   - Deadline
+   - Support từ quản lý
+
+5. Lương/Thăng chức: [Đề xuất]
+
+6. Nhận xét chung + Chữ ký.
+
+Yêu cầu: Công bằng, cụ thể, xây dựng.
+```
+
+### 25. Viết Tài Liệu Onboarding Nhân Viên Mới
+```
+Tạo checklist/tài liệu onboarding cho nhân viên mới ở vị trí [Chức danh]:
+
+Ngày 1 - Checklist:
+□ Làm hợp đồng
+□ Nhận laptop + Thiết bị
+□ Set up email + Accounts
+□ Tour văn phòng
+□ Gặp Team Lead
+□ Đọc Company Handbook
+
+Tuần 1:
+□ Orientation công ty (History, Vision, Values)
+□ Training về tool/software dùng
+□ Assign first task/Project
+□ 1-on-1 với Manager
+□ Gặp các Mentor
+
+Tháng 1:
+□ Complete onboarding checklist
+□ First project hoàn thành
+□ Feedback từ team
+□ Hợp đồng xác nhận
+
+Tài liệu đi kèm:
+- Company handbook
+- Org chart
+- Team process documentation
+- Password manager + Accounts list
+- First week schedule
+
+Tone: Welcoming, clear, supportive.
+```
+
 ---
 
 ## Mẹo Tối Ưu Prompt
